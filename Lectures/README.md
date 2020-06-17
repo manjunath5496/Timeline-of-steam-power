@@ -46,7 +46,7 @@
 <li><a href="#course45">Elements of Mechanical Design</a></li>
 <li><a href="#course46">Precision Machine Design</a></li>
 <li><a href="#course47">Multi-Scale System Design</a></li>
-<li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
+<li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</h2>
@@ -5551,4 +5551,49 @@ MATLAB
 </table>
 
 </br>
+<h2 id="course48">Micro/Nano Engineering Laboratory</h2>
 
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="10/MIT2_674S16_Lec1Introductn.pdf">Introduction to Micro / Nano Engineering (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_674S16_Lec1aSaftyRev.pdf">Lab Safety Review (PDF - 5.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_674S16_Lec2MEMS.pdf">Lecture 2: Introduction to MEMS and Microfabrication (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_674S16_Lec3Intro.pdf">Lecture 3: Introduction to Microfluidics and Soft Lithography (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_674S16_Lec4Droplets.pdf">Lecture 4: Microfluidic Hydrodynamics: Viscous Flow, Surface Tension, and the Problem of Mixing (PDF - 5.8MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_647S16_Lec5Elctroknet.pdf">Lecture 5: Microfluidic Hydrodynamics: Electrokinetic Flows (PDF - 3.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_674S16_Lec6Surfaces.pdf">Lecture 6: Engineering of Surfaces in Micro / Nano Devices, Surface Wetting (PDF - 6.6MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_674S16_Lec7Nano.pdf">Lecture 7: Nanomaterials Synthesis and Surface (PDF - 3.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_674S16_Lec8Intro.pdf">Lecture 8: Introduction to Nano-scale Imaging and 3D Printing (PDF - 2.6MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_674S16_Lec9Mems.pdf">Lecture 9: MEMS Fabrication Processes and AFM (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_674S16_Lec10graphene.pdf">Lecture 10: MEMS Applications and Product Design (PDF - 3.1MB)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>

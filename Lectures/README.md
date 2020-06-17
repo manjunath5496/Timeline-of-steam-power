@@ -25,7 +25,7 @@
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 <li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
 <li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
-<li><a href="#course3">Mechanics & Materials I</a></li>
+<li><a href="#course27">Finite Element Analysis of Solids and Fluids II</a></li>
 <li><a href="#course4">Mechanics and Materials II</a></li>
 <li><a href="#course5">Engineering Dynamics</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
@@ -3370,3 +3370,184 @@ MATLAB
 <p>Exam 1 (<a href="6/MIT2_092F09_exam1.pdf">PDF</a>), Solutions (<a href="6/MIT2_092F09_sol_exam1.pdf">PDF</a>)</p>
 <p>Exam 2 (<a href="6/MIT2_092F09_exam2.pdf">PDF</a>), Solutions (<a href="6/MIT2_092F09_sol_exam2.pdf">PDF</a>)</p>
 </br>
+<h2 id="course27">Finite Element Analysis of Solids and Fluids II</h2>
+
+<p>The lecture notes on this page were originally prepared for the 2008 course. They were written by the teaching assistant, Do-Nyun Kim, and typed by Day&aacute;n P&aacute;ez. For convenience, the entire set of lectures is also available as a single download:&nbsp;<span class="nobr">(<a href="6/MIT2_094S11_2094_lectures.pdf">PDF - 2.0MB</a>)</span></p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>Large displacement analysis of solids/structures</td>
+<td>(<a href="6/MIT2_094S11_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>Finite element formulation of solids and structures</td>
+<td>(<a href="6/MIT2_094S11_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>Finite element formulation of solids and structures (cont.)</td>
+<td>(<a href="6/MIT2_094S11_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>Finite element formulation of solids and structures (cont.)</td>
+<td>(<a href="6/MIT2_094S11_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td>Finite element displacement formulation (cont.)</td>
+<td>(<a href="6/MIT2_094S11_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td>Finite element formulation, example, convergence</td>
+<td>(<a href="6/MIT2_094S11_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>Isoparametric elements</td>
+<td>(<a href="6/MIT2_094S11_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td>Convergence of displacement-based FEM</td>
+<td>(<a href="6/MIT2_094S11_lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>9</td>
+<td>u/p formulation</td>
+<td>(<a href="6/MIT2_094S11_lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>10</td>
+<td>Finite element large deformation / general nonlinear analysis</td>
+<td>(<a href="6/MIT2_094S11_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>11</td>
+<td>Deformation, strain, and stress tensors</td>
+<td>(<a href="6/MIT2_094S11_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>12</td>
+<td>Total Lagrangian formulation</td>
+<td>(<a href="6/MIT2_094S11_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>13</td>
+<td>Total Lagrangian formulation (cont.)</td>
+<td>(<a href="6/MIT2_094S11_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>14</td>
+<td>Total Lagrangian formulation (cont.)</td>
+<td>(<a href="6/MIT2_094S11_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>15</td>
+<td>Field problems</td>
+<td>(<a href="6/MIT2_094S11_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>16</td>
+<td>Finite element analysis of Navier-Stokes fluids</td>
+<td>(<a href="6/MIT2_094S11_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>17</td>
+<td>Incompressible fluid flow and heat transfer (cont.)</td>
+<td>(<a href="6/MIT2_094S11_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>18</td>
+<td>Solution of finite element equations</td>
+<td>(<a href="6/MIT2_094S11_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>19</td>
+<td>Slender structures</td>
+<td>(<a href="6/MIT2_094S11_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>20</td>
+<td>Beams, plates, and shells</td>
+<td>(<a href="6/MIT2_094S11_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>21</td>
+<td>Plates and shells</td>
+<td>(<a href="6/MIT2_094S11_lec21.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Homework 1 (<a href="6/MIT2_094S11_hw_1.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2 (<a href="6/MIT2_094S11_hw_2.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 3 (<a href="6/MIT2_094S11_hw_3.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 4 (<a href="6/MIT2_094S11_hw_4.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 5 (<a href="6/MIT2_094S11_hw_5.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 6 (<a href="6/MIT2_094S11_hw_6.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_6_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 7 (<a href="6/MIT2_094S11_hw_7.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_7_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 8 (<a href="6/MIT2_094S11_hw_8.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_8_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 9 (<a href="6/MIT2_094S11_hw_9.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_9_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 10 (<a href="6/MIT2_094S11_hw_10.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_094S11_hw_10_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Quiz 1 (<a href="6/MIT2_094S11_quiz1.pdf">PDF</a>), Solutions (<a href="6/MIT2_094S11_quiz1_sol.pdf">PDF</a>)</p>
+<p>Quiz 2 (<a href="6/MIT2_094S11_quiz2.pdf">PDF</a>), Solutions (<a href="6/MIT2_094S11_quiz2_sol.pdf">PDF</a>)</p>
+</br>
+<p>Ofer Aharon, "Hydrofoil Analysis using CFD."&nbsp;<span class="nobr">(<a href="6/MIT2_094S11_aharon.pdf">PDF - 1.3MB</a>)</span></p>
+<p>Ankur Bajoria, "Analyzing Wind Flow Around the Square Plate using ADINA." (<a href="6/MIT2_094S11_bajoria.pdf">PDF</a>)</p>
+<p>Meng Luo, "Ductile Fracture Characterization of an Aluminum Alloy Sheet using Numerical Simulations and Tests." (<a href="6/MIT2_094S11_luo.pdf">PDF</a>)</p>
+</br>
+

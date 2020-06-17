@@ -26,7 +26,7 @@
 <li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
 <li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
 <li><a href="#course27">Finite Element Analysis of Solids and Fluids II</a></li>
-<li><a href="#course4">Mechanics and Materials II</a></li>
+<li><a href="#course28">Introduction to Robotics</a></li>
 <li><a href="#course5">Engineering Dynamics</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
@@ -3550,4 +3550,80 @@ MATLAB
 <p>Ankur Bajoria, "Analyzing Wind Flow Around the Square Plate using ADINA." (<a href="6/MIT2_094S11_bajoria.pdf">PDF</a>)</p>
 <p>Meng Luo, "Ductile Fracture Characterization of an Aluminum Alloy Sheet using Numerical Simulations and Tests." (<a href="6/MIT2_094S11_luo.pdf">PDF</a>)</p>
 </br>
+<h2 id="course28">Introduction to Robotics</h2>
+
+
+<p>Chapter 1: Introduction (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter1.pdf">PDF</a>)</p>
+<p>Chapter 2: Actuators and Drive Systems (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter2.pdf">PDF</a>)</p>
+<p>Chapter 3: Robot Mechanisms (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter3.pdf">PDF</a>)</p>
+<p>Chapter 4: Planar Kinematics (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter4.pdf">PDF</a>)</p>
+<p>Chapter 5: Differential Motion (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter5.pdf">PDF</a>)</p>
+<p>Chapter 6: Statics (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter6.pdf">PDF</a>)</p>
+<p>Chapter 7: Dynamics (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter7.pdf">PDF</a>)</p>
+<p>Chapter 9: Force and Compliance Controls (<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter9.pdf">PDF</a>)</p>
+<p>(Chapter 8 is not available)</p>
+
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LABS</th>
+<th scope="col">TOPICS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><span class="nobr">Lab 1 (<a href="6/lab1.pdf">PDF</a>)</span></td>
+<td>Embedded Robot Controller, I/O Interface, and PWM Amplifiers</td>
+<td>Lab Report Form (<a href="6/lab1_response.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lab 2 (<a href="6/lab2.pdf">PDF</a>)</td>
+<td>Controller Software and Sensor Inputs</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Lab 3 (<a href="6/lab3.pdf">PDF</a>)</td>
+<td>Implement Basic Sensor-Based Controls; Plan Strategy for De-mining Task</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Lab 4</td>
+<td>Refine and Test De-mining Operations</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p><em>From the Fall 2004 Class - Videos of Final Demonstrations</em></p>
+<p>These short video clips of the De-mining Robot demonstrations illustrate variations in search patterns and in the ability to accurately detect a mine that's within range of the search.</p>
+<p>The robot has a set of "whiskers" at its corners to detect walls and obstructions. The mine sensor itself has a fairly small radius of detection, about 2 inches, so the sensor must pass nearly over the top of the mine for it to be detected.</p>
+<p>The robot has a failsafe control link that causes the robot to shut down if it loses contact with the student controller. While this was supposed to be a wireless connection, mysterious interference during the demonstration led most students to fall back on a wired control link.</p>
+<ul>
+<li>Robot loses RF control link and stops (<a href="6/2.12_037-220k.mp4">MP4</a>)</li>
+<li>Robot gets stuck in a control loop (<a href="6/2.12_038-220k.mp4">MP4</a>)</li>
+<li>Working RF control link; robot finds a mine (<a href="6/2.12_039-220k.mp4">MP4</a>)</li>
+<li>Robot searches without success (<a href="6/2.12_040-220k.mp4">MP4</a>)</li>
+<li>Robot finds a mine (<a href="6/2.12_041-220k.mp4">MP4</a>)</li>
+<li>Robot finds two mines (<a href="6/2.12_042-220k.mp4">MP4</a>)</li>
+<li>Students try to keep the robot's RF link alive (<a href="6/2.12_043-220k.mp4">MP4</a>)</li>
+<li>Robot with a novel search pattern (<a href="6/2.12_044-220k.mp4">MP4</a>)</li>
+<li>Robot misses a mine, then finds one (<a href="6/2.12_045-220k.mp4">MP4</a>)</li>
+<li>Robot searches without success (<a href="6/2.12_046-220k.mp4">MP4</a>)</li>
+<li>One of the "better functioning" designs, in terms of speed and search technique (<a href="6/2.12_047-220k.mp4">MP4</a>)</li>
+<li>Robot searches in a spiral out from center (<a href="6/2.12_048-220k.mp4">MP4</a>)</li>
+<li>Robot finds a mine; very quick reverse after pause (<a href="6/2.12_049-220k.mp4">MP4</a>)</li>
+</ul>
+<h2 class="subhead">Second Project: Rescue Robot</h2>
+<p>This past year will be remembered for its many severe natural disasters, both overseas and here in the United States. One of the most compelling applications for robotics technology is to develop rescue robots that might be able to save lives after such catastrophic events. Students will be given the challenge of developing autonomous mobile robots that can perform navigation and manipulation for a disaster response rescue mission. Each robot has a manipulator arm mounted on a moving platform guided by an on-board Linux computer and various sensors, including a laser range scanner for detecting obstacles and "houses" where victims (dolls) may be located. Once located, the robot should retrieve the victim and take it a hospital treatment center.</p>
+<p>Description of the Rescue Robot Project&nbsp;(<a href="6/final_project.pdf">PDF</a>)</p>
+<p>Video of Final Demonstrations (<a href="6/rescue_robot.mov">MOV - 13.3 MB</a>) (Courtesy of Phil Shaltis. Used with permission.)</p>
+<br />
+
+
+
+
 

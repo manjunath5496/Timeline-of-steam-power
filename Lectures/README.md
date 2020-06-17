@@ -38,7 +38,7 @@
 <li><a href="#course37">Advanced Fluid Mechanics</a></li>
 <li><a href="#course38">Compressible Fluid Dynamics</a></li>
 <li><a href="#course39">Turbulent Flow and Transport</a></li>
-<li><a href="#course16">Dynamics</a></li>
+<li><a href="#course40">Numerical Fluid Mechanics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
@@ -4675,3 +4675,181 @@ MATLAB
 <li>Dispersion in Pipe and Channel Flow (<a href="9/9_Taylor_dispersion.pdf">PDF</a>)</li>
 </ol>
 </br>
+<h2 id="course40">Numerical Fluid Mechanics</h2>
+
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES&nbsp;AND&nbsp;MATLAB&nbsp;SCRIPTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to Numerical Fluid Mechanics: Models to Simulations, Error Types. Approximation and Round-off Errors. Number Representations. Errors of Numerical Operations.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture1.pdf">Lecture 1 (PDF - 3.1MB)</a></p>
+<p><a href="9/codes_1_2p29_S15.zip">MATLAB<sup>&reg;&nbsp;</sup>Scripts (ZIP)</a>&nbsp;(This file contains: 3 .m files.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Recursion. Truncation Errors, Taylor Series and Error Analysis. Error Propagation and Estimation. Condition Numbers.</p>
+<p>Roots of Non-linear Equations&ndash;introduction and Bracketing Methods.</p>
+</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture2.pdf">Lecture 2 (PDF)</a></p>
+<p><a href="9/codes_2_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 6 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Roots of Non-linear Equations, Bracketing Methods: Bisection / False Position. Open Methods: Open-point Iteration / Newton-raphson / Secant Methods, Extension to Systems of Equations.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture3.pdf">Lecture 3 (PDF)</a></p>
+<p><a href="9/codes_3_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 4 .m files.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Review: Navier-stokes Equations and their Approximations. Conservation Laws, Material Derivative, Reynolds Transport Theorem, Constitutive Equations.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Systems of Linear Equations: Motivations and Plans, Direct Methods, Gauss Elimination.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture4.pdf">Lecture 4 (PDF)</a></p>
+<p><a href="9/codes_4_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 4 .m files.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Systems of Linear Equations. Gaussian Elimination (Special Cases, Multiple Right Hand Sides). LU Decomposition and Factorization, Pivoting. Error Analysis for Linear Systems. Operations Counts.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture5.pdf">Lecture 5 (PDF)</a></p>
+<p><a href="9/codes_5_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 5 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>End of Navier-stokes Review (if needed). Compressible and Incompressible Flows, Vorticity, Euler's Equations, Potential Flows and (boundary) Integral Equations.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Systems of Linear Equations. Special Matrices: LU Decompositions, Tri-diagonal Systems, General Banded Matrices, Symmetric, Positive-definite Matrices. Introduction to Iterative Methods.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture6.pdf">Lecture 6 (PDF)</a></p>
+<p><a href="9/codes_6_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 4 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Systems of Linear Equations. Iterative Methods: Jacobi's Method, Gauss-seidel Iteration, Convergence, Successive Over-relaxation Methods, Gradient Methods, Stop Criteria, Examples.</td>
+<td><a href="9/MIT2_29S15_Lecture7.pdf">Lecture 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>End of Systems of Linear Equations: Gradient Methods, Pre-conditioning. Krylov Methods. Finite-differences (FD): Classification of PDEs and Examples, Error Types and Discretization Properties.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture8.pdf">Lecture 8 (PDF)</a></p>
+<p><a href="9/codes_8_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 2 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>FD Schemes: Finite Difference Based on Taylor Series for Higher Order Accuracy Differences. Examples. Taylor Tables or Method of Undetermined Coefficients.</td>
+<td><a href="9/MIT2_29S15_Lecture9.pdf">Lecture 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>FD Schemes: Polynomial Approximations (Newton, Lagrange, Hermite and Pade Schemes), Iterative Improvements and Extrapolations, Boundary Conditions, Non-uniform Grids, Grid Refinement.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture10.pdf">Lecture 10 (PDF - 1.7MB)</a></p>
+<p><a href="9/codes_10_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 1 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Finite-differences: Fourier Error Analysis, Introduction to Stability: Heuristic, Energy and Von Neumann Methods, Hyperbolic PDEs, Characteristics.</td>
+<td><a href="9/MIT2_29S15_Lecture11.pdf">Lecture 11 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Stability, Hyperbolic Eqns. Revisited, CFL Condition and Von Neumann Stability, Elliptic Equations Revisited and FD Schemes.</td>
+<td><a href="9/MIT2_29S15_Lecture12.pdf">Lecture 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>End of Elliptic / Hyperbolic Equations, Special Advection Schemes (Donor Cell, Flux-corrected Transport, WENO), Parabolic Equations Revisited and Numerical FD Schemes.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture13.pdf">Lecture 13 (PDF)</a></p>
+<p><a href="9/codes_13_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 2 .m files.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Volume Methods.</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture14.pdf">Lecture 14 (PDF - 1.3MB)</a></p>
+<p><a href="9/codes_14_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 9 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Recitation-finite Volume Methods (cont.)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Methods for Unsteady Problems. Time Marching Methods. Ordinary Differential Equations (ODEs). Initial Value Problems (IVPs). Euler's Method. Runge-kutta Methods.</td>
+<td><a href="9/MIT2_29S15_Lecture15.pdf">Lecture 15 (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td>Time Marching (cont.): Higher Order ODEs, Stiffness and Multistep Methods. Solutions of the Navier Stokes Equation, Incompressible and Compressible.</td>
+<td><a href="9/MIT2_29S15_Lecture16.pdf">Lecture 16 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Solutions of the Navier Stokes Equation: Incompressible and Compressible. Pressure-correction, Fractional Step.</td>
+<td><a href="9/MIT2_29S15_Lecture17.pdf">Lecture 17 (PDF- 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td>Solutions of the Navier Stokes Equation: Incompressible and Compressible. Vorticity, Artificial Compressibility and Other Methods.</td>
+<td><a href="9/MIT2_29S15_Lecture18.pdf">Lecture 18 (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Grid Generation and complex Geometries.</td>
+<td><a href="9/MIT2_29S15_Lecture19.pdf">Lecture 19 (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Finite Volume on Complex Geometries.</p>
+<p>Finite Element Methods: Introduction. Fluid Applications.</p>
+</td>
+<td>
+<p><a href="9/MIT2_29S15_Lecture20.pdf">Lecture 20 (PDF - 1.6MB)</a></p>
+<p><a href="9/codes_20_2p29_S15.zip">MATLAB Scripts (ZIP)</a>&nbsp;(This file contains: 6 .m files.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Finite Element Methods (cont.): Continuous Galerkin and Discontinuous Galerkin Methods. Spectral Methods.</td>
+<td><a href="9/MIT2_29S15_Lecture21.pdf">Lecture 21 (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="row">
+<td>Lecture / Recitation. Inviscid Flow Equations: Boundary Element Methods. Panel Methods.</td>
+<td><a href="9/MIT2_29S15_Lecture22.pdf">Lecture 22 (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Recitation&ndash;Special Topics, Boundary Layer Equations,</p>
+<p>ODEs&ndash;Boundary Value Problems.</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Turbulent Flows: Models and Numerical Simulations.</td>
+<td><a href="9/MIT2_29S15_Lecture23.pdf">Lecture 23 (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Finite Volume on Complex Geometries: Turbulent Flows and Their Numerical Modeling.</td>
+<td><a href="9/MIT2_29S15_Lecture24.pdf">Lecture 24 (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td>Turbulence</td>
+<td><a href="9/MIT2_29S15_Lecture25.pdf">Lecture 25 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+
+</br>
+

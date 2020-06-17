@@ -30,7 +30,7 @@
 <li><a href="#course29">Modeling and Simulation of Dynamic System</a></li>
 <li><a href="#course30">Maneuvering and Control of Surface and Underwater Vehicles</a></li>
 <li><a href="#course31">Computational Geometry</a></li>
-<li><a href="#course8">Systems, Modeling, and Control II</a></li>
+<li><a href="#course32">Identification, Estimation, and Learning</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
@@ -3766,5 +3766,117 @@ MATLAB
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course32">Identification, Estimation, and Learning</h2>
+
+
+
+<p>Lecture Notes Table of Contents (<a href="7/updtd_table_cont.pdf">PDF</a>)</p>
+<p>Available lecture notes are listed below.</p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>Introduction (<a href="7/intro_edited.pdf">PDF 1</a>) (<a href="7/lecture_1.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Part I: Estimation</strong></td>
+</tr>
+<tr class="row">
+<td>2</td>
+<td>Recursive Least Square (RLS) Algorithms (<a href="7/lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>3</td>
+<td>Properties of RLS (<a href="7/lecture_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>4</td>
+<td>Random Processes, Active Noise Cancellation (<a href="7/lecture_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>5</td>
+<td>Discrete Kalman Filter-1 (<a href="7/lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>6</td>
+<td>Discrete Kalman Filter-2 (<a href="7/lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>7</td>
+<td>Continuous Kalman Filter (<a href="7/lecture_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>8</td>
+<td>Extended Kalman Filter (<a href="7/lecture_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Part 2: Representation and Learning</strong></td>
+</tr>
+<tr class="row">
+<td>9</td>
+<td>Prediction Modeling of Linear Systems (<a href="7/lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>10</td>
+<td>Model Structure of Linear Time-invariant Systems (<a href="7/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>11</td>
+<td>Time Series Data Compression, Laguerre Series Expansion (<a href="7/lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>12</td>
+<td>Non-linear Models, Function Approximation Theory, Radial Basis Functions (<a href="7/lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>13</td>
+<td>Neural Networks (<a href="7/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>14</td>
+<td>Error Back Propagation Algorithm (<a href="7/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Part 3: System Identification</strong></td>
+</tr>
+<tr class="alt-row">
+<td>15</td>
+<td>Perspective of System Identification, Frequency Domain Analysis (<a href="7/lecture_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>16</td>
+<td>Informative Data Sets and Consistency (<a href="7/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>17</td>
+<td>Informative Experiments: Persistent Excitation (<a href="7/lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>18</td>
+<td>Asymptotic Distribution of Parameter Estimates (<a href="7/lecture_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>19</td>
+<td>Experiment Design, Pseudo Random Binary Signals (PRBS) (<a href="7/lecture_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>20</td>
+<td>Maximum Likelihood Estimate, Cramer-Rao Lower Bound and Best Unbiased Estimate (<a href="7/lecture_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>21</td>
+<td>Information Theory of System Identification: Kullback-Leibler Information Distance, Akaike's Information Criterion (<a href="7/lecture_21.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 </br>
 

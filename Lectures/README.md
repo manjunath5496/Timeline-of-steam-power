@@ -33,7 +33,7 @@
 <li><a href="#course32">Identification, Estimation, and Learning</a></li>
 <li><a href="#course33">Hydrofoils and Propellers</a></li>
 <li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
-<li><a href="#course11">Design and Manufacturing II</a></li>
+<li><a href="#course35">Marine Hydrodynamics</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
@@ -4007,3 +4007,327 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course35">Marine Hydrodynamics</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl361id0_0" scope="col">SES&nbsp;#</th>
+<th id="tbl361id0_1" scope="col">TOPICS</th>
+<th id="tbl361id0_2" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L1</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Introduction</p>
+<p>Fluids vs. Solids</p>
+<p>Liquids vs. Gases</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3" headers="tbl361id0_0">
+<p><strong>Basic Equations</strong></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L2</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Description of a Flow</p>
+<p>Flow Visualization - Flow Lines</p>
+<p>Concept and Consequences of Continuous Flow</p>
+<p>Material/Substantial/Total Time Derivative</p>
+<p>Langrangian and Eulerian Time Derivative</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl361id0_0">
+<p>L3</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Stress Tensor</p>
+<p>Mass and Momentum Conservation</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L4</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Newtonian Fluids</p>
+<p>Navier-Stokes Equations</p>
+<p>Boundary Conditions</p>
+<p>Surface Tension</p>
+<p>Body Forces - Gravity</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture4.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3" headers="tbl361id0_0">
+<p><strong>Similitude</strong></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L5</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Dimensional Analysis</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl361id0_0">
+<p>L6</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Similarity Parameters</p>
+<p>Using Governing Equations and Boundary Conditions</p>
+<p>Using Physical Arguments</p>
+<p>Importance</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture6.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="3" headers="tbl361id0_0">
+<p><strong>Ideal Fluid Flow</strong></p>
+</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl361id0_0">
+<p>L7</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Governing Equations and Boundary Conditions</p>
+<p>Circulation - Kelvin's Theorem</p>
+<p>Vorticity</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture7.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L8</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Properties of Vortex Structures</p>
+<p>Bernoulli Equation for Steady, Ideal, and Rotational Flow</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture8.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl361id0_0">
+<p>L9</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Vorticity Equation</p>
+<p>Potential Flow</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture9.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L10</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Governing Equations and Boundary Conditions for P-Flow</p>
+<p>Linear Superposition for P-Flow</p>
+<p>Laplace Equation</p>
+<p>Simple Potential Flows</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl361id0_0">
+<p>L11</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Method of Images</p>
+<p>D'Alembert's Paradox</p>
+<p>Lift Due to Circulation</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture11.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L12</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Lifting Surfaces</p>
+<p>Potential Flow and Kutta Condition</p>
+<p>Thin Wing, Small Angle of Attack</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture12.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl361id0_0">
+<p>L13</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Unsteady Motion - Added Mass</p>
+<p>General 6 Degrees of Freedom Motions</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture13.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L14</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Properties of Added-Mass Coefficients</p>
+<p>Slender Body Approximation</p>
+<p>Buoyancy Effects Due to Accelerating Flow</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture14.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3" headers="tbl361id0_0">
+<p><strong>Real Fluid Effects</strong></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L15</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Form Drag</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture15.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl361id0_0">
+<p>L16</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Drag on a Very Streamlined Body</p>
+<p>Known Solutions of the Navier-Stokes Equations</p>
+<p>Boundary Layer Growth Over an Infinite Flat Plate for Unsteady Flow</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture16.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L17</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Laminar Boundary Layers</p>
+<p>Steady Flow over a Flat Plate</p>
+<p>Flow Over a Body of General Geometry</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture17.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl361id0_0">
+<p>L18</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Turbulent Flow - Reynolds Stress</p>
+<p>Turbulent Boundary Layer Over a Smooth Flat Plate</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture18.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L19</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Turbulent Boundary Layers: Roughness Effects</p>
+<p>Model Testing</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture19.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="white-row">
+<td colspan="3" headers="tbl361id0_0">
+<p><strong>Water Waves</strong></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L20</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Exact (Nonlinear) Governing Equations for Surface Gravity Waves</p>
+<p>Linearized (Airy) Wave Theory</p>
+<p>Characteristics of Linear Plane Progressive Waves</p>
+<p>Particle Orbits (<a href="8/lfig1912.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture20.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl361id0_0">
+<p>L21</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Superposition of Linear Plane Progressive Waves</p>
+<p>Wave Energy</p>
+<p>Energy Propagation - Group Velocity</p>
+<p>Energy Conservation Equation</p>
+<p>Steady Ship Waves, Wave Resistance</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture21.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl361id0_0">
+<p>L22</p>
+</td>
+<td headers="tbl361id0_1">
+<p>Wave Forces on a Body</p>
+</td>
+<td headers="tbl361id0_2">
+<p>(<a href="8/lecture22.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+

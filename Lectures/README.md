@@ -29,7 +29,7 @@
 <li><a href="#course28">Introduction to Robotics</a></li>
 <li><a href="#course29">Modeling and Simulation of Dynamic System</a></li>
 <li><a href="#course30">Maneuvering and Control of Surface and Underwater Vehicles</a></li>
-<li><a href="#course7">Dynamics and Control II</a></li>
+<li><a href="#course31">Computational Geometry</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
@@ -3713,9 +3713,58 @@ MATLAB
 </ol>
 
 </br>
+<h2 id="course31">Computational Geometry</h2>
 
-
-
-
-
+<table class="tablewidth25" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Lecture 1 (<a href=7/lecnotes1_fixed.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 2 (<a href=7/lecnotes2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 3 (<a href=7/lecnotes3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 4 and 5 (<a href=7/lecnotes45.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 6 (<a href=7/lecnotes6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 8 (<a href=7/lecnotes8_fixed.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 9 (<a href=7/lecnotes9_fixed.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 10-12 (<a href=7/lecnotes10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 13 (<a href=7/lecnotes13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 14 and 15 (<a href=7/lecnotes14_fixed.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 19 (<a href=7/lecnotes19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 20 (<a href=7/lecnotes20_fixed.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lecture 21 (<a href=7/lecnotes21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lecture 23 (<a href=7/lecnotes23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 

@@ -21,7 +21,7 @@
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
-<li><a href="#course23">Technology and Culture</a></li>
+<li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">The Anthropology of Politics: Persuasion and Power</a></li>
 
 </ul>
@@ -2876,6 +2876,120 @@
 </td>
 <td><a href="6/MIT2_080JF13_ProbSet_10.pdf"><span class="nobr">Problem Set 10 (PDF)</span></a></td>
 <td><a href="6/MIT2_080JF13_ProbSet_10_Sol.pdf">Solutions to Problem Set 10 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course23">Ship Structural Analysis & Design</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">UNIT&nbsp;#</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td>1</td>
+<td><strong>Shear and Bending</strong>
+<ul>
+<li>Lecture 1: Shear and Bending (<a href="6/notes_10_shear_bending_fixed.pdf">PDF</a>)</li>
+<li>Lecture 2: Balance (<a href="6/notes_11_balance.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>2</td>
+<td><strong>Characteristics of Thin Walled Sections</strong>
+<ul>
+<li>Lecture 3: Bending Without Twist (<a href="6/notes_12_bending_wo_t.pdf">PDF</a>)</li>
+<li>Lecture 4: Pure Twist Open Section (<a href="6/notes_13_pure_twist.pdf">PDF</a>)</li>
+<li>Lecture 5: Pure Twist Closed Section (<a href="6/notes_14_twist_closed.pdf">PDF</a>)</li>
+<li>Lecture 6: Pure and Warping Torsion (<a href="6/notes_15_pure___warp.pdf">PDF</a>)</li>
+<li>Lecture 7: Calculation Of Section Properties - Open (<a href="6/notes_16_torsion_prop.pdf">PDF</a>)<br />[This consists of four parts (and how we will treat each) (suggest printing at most pages 1-9)<br />
+<blockquote>A - derivation of geometric algorithms for section properties (cover quickly for sense of approach)<br />B - derivation of first moment approach (for info - not covered)<br />C - computational routine resulting from A (demo a few examples - routine available in lab)<br />D - computational routine resulting from B (routine available in lab)]</blockquote>
+</li>
+<li>Lecture 7a: Calculation of Section Properties Closed (<a href="6/lecture_7a.pdf">PDF</a>)</li>
+<li>Lecture 8: Shear Center - Closed Section (<a href="6/notes_17_shr_strs_clsd.pdf">PDF</a>)<br />Includes example problem.</li>
+<li>Lecture 8a: Shear Stress Multicell Section (<a href="6/notes_18_shear_multic.pdf">PDF</a>)<br />Example problem separate.</li>
+<li>Lecture 8b: St. Venant Torsion Multi-cell (<a href="6/torsion_st_v_multi_ce.pdf">PDF</a>)</li>
+<li>Lecture 9a: Composite Sections (<a href="6/notes_19_composites_s.pdf">PDF</a>)<br />One of three minor topics.</li>
+<li>Lecture 9b: Shear Lag (<a href="6/lecture_9b.pdf">PDF</a>)<br />Second of three minor topics.</li>
+<li>Lecture 9c: Yield Criteria (<a href="6/notes_21_yield_criter.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>3</td>
+<td><strong>Design Approach and Failure Analysis</strong>
+<ul>
+<li>Design Philosophy and Approach (<a href="6/notes_20_design_appr.pdf">PDF</a>)</li>
+<li>Loads and Design Approach continued (<a href="6/notes_21_primary_stress_loads.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>4</td>
+<td><strong>Plate Bending</strong>
+<ul>
+<li>Plate Bending Introduction (<a href="6/notes_22_plate_bendin.pdf">PDF</a>)</li>
+<li>Plate Bending (<a href="6/notes_23_plate_bendin.pdf">PDF</a>)</li>
+<li>Plate Bending Solution (<a href="6/notes_24_plate_bendin.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>5</td>
+<td>Panel, Girder, Frame Bending Failure Analysis
+<ul>
+<li>Panel, Girder and Frame Limit States (<a href="6/lec12.pdf">PDF</a>)</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>6</td>
+<td><strong>Buckling and Ultimate Strength of Columns</strong>
+<ul>
+<li>Buckling (<a href="6/notes_27_buckling.pdf">PDF</a>)<br />Overview of column buckling leading to CCB and GCCP failure criteria.</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>7</td>
+<td><strong>Buckling and Ultimate Strength of Plates</strong>
+<ul>
+<li>Plate Buckling (<a href="6/notes_28_plate_buckl.pdf">PDF</a>)<br />PFLB.</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>8</td>
+<td><strong>Buckling of Stiffened Panels</strong>
+<ul>
+<li>Buckling of Stiffened Panels (<a href="6/notes_29_buckling_sti.pdf">PDF</a>)<br />PCCB and PCSB.</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>9</td>
+<td><strong>Ultimate Strength of Stiffened Panels</strong>
+<ul>
+<li>Ultimate Strength of Stiffened Panels (<a href="6/notes_31_Ult_str_stf_.pdf">PDF</a>)<br />PCSF Modes I, II, III.</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>10</td>
+<td><strong>Matrix, Grillage and FEM Analysis</strong>
+<ul>
+<li>Intro to Matrix Analysis (<a href="6/notes_32_intro_matrix.pdf">PDF</a>)<br />[Summary of Chapter 1 from Zienkiewicz -- The Finite Element Method, any of five editions.]</li>
+<li>Matrix Analysis continued (<a href="6/notes_33_matrix_grill.pdf">PDF</a>)<br />[Section 5.2 of Hughes.]</li>
+<li>Pin-jointed Beam Example (<a href="6/notes_34_ex_pg_192_03.pdf">PDF</a>)<br />[Example from Hughes page 191 ff.]</li>
+<li>Flexure Only Beam - General Method (<a href="6/notes_36_element_stif.pdf">PDF</a>)<br />[Section 5.3 of Hughes.]</li>
+<li>Grillage Introduction Degrees of Freedom (<a href="6/notes_39_grillage_ove.pdf">PDF</a>)</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>

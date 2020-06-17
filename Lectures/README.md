@@ -10,7 +10,7 @@
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
-<li><a href="#course12">Race and Science</a></li>
+<li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
 <li><a href="#course14">Culture, Embodiment and the Senses</a></li>
 <li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
@@ -1761,6 +1761,56 @@
 </tbody>
 </table>
 </br>
+<h2 id="course12">Introduction to Ocean Science and Engineering</h2>
 
-
-
+<ul>
+<li class="help slide-bottom">General Information about the MIT Ocean Engineering Teaching Laboratory (OETL) (<a href="3/labsafety.pdf">PDF</a>)</li>
+<li class="help slide-bottom">(<a href="3/challenge_v2.pdf">PDF</a>)</li>
+<ul>
+ </br> 
+  
+  
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Homework 1 (<a href="4/hw1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2 (<a href="4/hw2.pdf">PDF</a>)</td>
+<td>(<a href="4/hw2_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 3 (<a href="4/hw3.pdf">PDF</a>)</td>
+<td>(<a href="4/hw3_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 4 (<a href="4/hw4.pdf">PDF</a>)</td>
+<td>(<a href="4/hw4_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 5 (<a href="4/hw5.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 6 (<a href="4/hw6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Homework 7 (<a href="4/hw7.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/hw7_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Take Home Exam 2 (<a href="4/takehome_2.pdf">PDF</a>)</p>
+</br>
+  
+  
+  

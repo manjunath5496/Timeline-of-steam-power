@@ -49,7 +49,7 @@
 <td rowspan="3">
 <p>Introductory questionnaire (<a href="MIT2_00AJs09_res01A.pdf">PDF</a>)</p>
 <p>Concept quiz (<a href="MIT2_00AJs09_res01B.pdf">PDF</a>)</p>
-<p>Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in&nbsp;<em>Fundamentals of Design</em>. (<a href="FUNdaMENTALs%20Topic%201.PDF">PDF</a>)</p>
+<p>Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in&nbsp;<em>Fundamentals of Design</em>. (<a href="FUNdaMENTALs%20Topic%201.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="row">

@@ -223,6 +223,10 @@
 </tbody>
 </table>
 </br>
-
-
+<p>"The Winged Avenger." (<a href="MIT2_00AJs09_sw01.pdf">PDF</a>)</p>
+<p>"Designing an Underwater ROV." (<a href="MIT2_00AJs09_sw02.pdf">PDF&nbsp;‑&nbsp;4.8 MB</a>)</p>
+<p>"Designing Nemo." (<a href="MIT2_00AJs09_sw03.pdf">PDF&nbsp;‑&nbsp;9.1 MB</a>)</p>
+<p>"The Sea-Saw." (<a href="MIT2_00AJs09_sw04.pdf">PDF&nbsp;‑&nbsp;2.3 MB</a>)</p>
+<p>"To Sink And Swim." (<a href="MIT2_00AJs09_sw05.pdf">PDF</a>)</p>
+</br>
 

@@ -2,7 +2,7 @@
 <li><a href="#course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</a></li>
 <li><a href="#course2">How and Why Machines Work</a></li>
 <li><a href="#course3">Mechanics & Materials I</a></li>
-<li><a href="#course4">Memory, Culture, Forgetting</a></li>
+<li><a href="#course4">Mechanics and Materials II</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
@@ -422,4 +422,8 @@
 </tbody>
 </table>
 </br>
+<h2 id="course4">Mechanics and Materials II</h2>
+
+
+
 

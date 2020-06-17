@@ -14,7 +14,7 @@
 <li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
-<li><a href="#course16">The Conquest of America</a></li>
+<li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
 <li><a href="#course18">The Anthropology of Sound</a></li>
 <li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
@@ -2141,4 +2141,119 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course16">Dynamics</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Course Overview<br /><br />Single Particle Dynamics: Linear and Angular Momentum Principles, Work-energy Principle</td>
+<td headers="col3">(<a href="5/session_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Examples of Single Particle Dynamics</td>
+<td headers="col3">(<a href="5/session_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Examples of Single Particle Dynamics (cont.)</td>
+<td headers="col3">(<a href="5/session_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Dynamics of Systems of Particles: Linear and Angular Momentum Principles, Work-energy Principle</td>
+<td headers="col3">(<a href="5/session_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Dynamics of Systems of Particles (cont.): Examples<br /><br />Rigid Bodies: Degrees of Freedom</td>
+<td headers="col3">(<a href="5/session_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Translation and Rotation of Rigid Bodies<br /><br />Existence of Angular Velocity Vector</td>
+<td headers="col3">(<a href="5/session_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Linear Superposition of Angular Velocities<br /><br />Angular Velocity in 2D<br /><br />Differentiation in Rotating Frames</td>
+<td headers="col3">(<a href="5/session_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Linear and Angular Momentum Principle for Rigid Bodies</td>
+<td headers="col3">(<a href="5/session_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Work-energy Principle for Rigid Bodies</td>
+<td headers="col3">(<a href="5/session_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Examples for&nbsp;Lecture 8 Topics</td>
+<td headers="col3">(<a href="5/session_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Examples for&nbsp;Lecture 9 Topics</td>
+<td headers="col3">(<a href="5/session_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gyroscopes: Euler Angles, Spinning Top, Poinsot Plane, Energy Ellipsoid<br /><br />Linear Stability of Stationary Gyroscope Motion</td>
+<td headers="col3">(<a href="5/session_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Generalized Coordinates, Constraints, Virtual Displacements</td>
+<td headers="col3">(<a href="5/session_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exam 1</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Generalized Coordinates, Constraints, Virtual Displacements (cont.)</td>
+<td headers="col3">(<a href="5/session_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Virtual Work, Generalized Force, Conservative Forces<br /><br />Examples</td>
+<td headers="col3">(<a href="5/session_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">D'Alembert's Principle<br /><br />Extended Hamilton's Principle<br /><br />Principle of Least Action</td>
+<td headers="col3">(<a href="5/session_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Examples for&nbsp;Session 16 Topics<br /><br />Lagrange's Equation of Motion</td>
+<td headers="col3">(<a href="5/session_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Examples for&nbsp;Session 17 Topics</td>
+<td headers="col3">(<a href="5/session_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lagrange Multipliers, Determining Holonomic Constraint Forces, Lagrange's Equation for Nonholonomic Systems, Examples</td>
+<td headers="col3">(<a href="5/session_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Stability of Conservative Systems<br /><br />Dirichlet's Theorem<br /><br />Example</td>
+<td headers="col3">(<a href="5/session_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Linearized Equations of Motion Near Equilibria of Holonomic Systems</td>
+<td headers="col3">(<a href="5/session_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Linearized Equations of Motion for Conservative Systems<br /><br />Stability<br /><br />Normal Modes<br /><br />Mode Shapes<br /><br />Natural Frequencies</td>
+<td headers="col3">(<a href="5/session_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Example for&nbsp;Session 23 Topics<br /><br />Orthogonality of Modes Shapes<br /><br />Principal Coordinates</td>
+<td headers="col3">(<a href="5/session_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Damped and Forced Vibrations Near Equilibria</td>
+<td headers="col3">(<a href="5/session_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exam 2</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>

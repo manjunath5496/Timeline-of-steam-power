@@ -12,7 +12,7 @@
 <li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
-<li><a href="#course14">Culture, Embodiment and the Senses</a></li>
+<li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course16">The Conquest of America</a></li>
 <li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
@@ -1862,3 +1862,176 @@
 </tbody>
 </table>
 </br>
+<h2 id="course14">Design of Electromechanical Robotic Systems</h2>
+
+<p>Hover, Franz S., and Michael S. Triantafyllou.&nbsp;<em>System Design for Uncertainty</em>. Cambridge, MA: MIT Center for Ocean Engineering, 2010. (<a href="5/MIT2_017JF09_coursetext.pdf">PDF - 1.3MB</a>) (Courtesy of Michael S. Triantafyllou. Used with permission.)</p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Chapter 1: Introduction</td>
+<td>(<a href="5/MIT2_017JF09_ch01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chapter 2: Linear Systems</p>
+<p>2.1 Definition of a system</p>
+<p>2.2 Time-invariant systems</p>
+<p>2.3 Linear systems</p>
+<p>2.4 The impulse response and convolution</p>
+<p>2.5 Causal systems</p>
+<p>2.6 An example of finding the impulse response</p>
+<p>2.7 Complex numbers</p>
+<p>2.8 Fourier transform</p>
+<p>2.9 The angle of a transfer function</p>
+<p>2.10 The Laplace transform</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Chapter 3: Probability Events</p>
+<p>3.1 Events</p>
+<p>3.2 Conditional probability</p>
+<p>3.3 Bayes' rule</p>
+<p>3.4 Random variables</p>
+<p>3.5 Continuous random variables and the probability density function</p>
+<p>3.6 The Gaussian PDF</p>
+<p>3.7 The cumulative probability function</p>
+<p>3.8 Central limit theorem</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chapter 4: Random Processes</p>
+<p>4.1 Time averages</p>
+<p>4.2 Ensemble averages</p>
+<p>4.3 Stationarity</p>
+<p>4.4 The spectrum: definition</p>
+<p>4.5 Wiener-Khinchine Relation</p>
+<p>4.6 Spectrum interpretation</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Chapter 5: Short Term Statistics</p>
+<p>5.1 Central role of the Gaussian and Rayleigh distributions</p>
+<p>5.2 Frequency of upcrossings</p>
+<p>5.3 Maxima at and above a given level</p>
+<p>5.4 1/N'th highest maxima</p>
+<p>5.5 1/N'th average value</p>
+<p>5.6 The 100-year wave: estimate from short-term statistics</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chapter 6: Water Waves</p>
+<p>6.1 Constitutive and governing relations</p>
+<p>6.2 Rotation and viscous effects</p>
+<p>6.3 Velocity potential</p>
+<p>6.4 Linear waves</p>
+<p>6.5 Deepwater waves</p>
+<p>6.6 Wave loading of stationary and moving bodies</p>
+<p>6.7 Limits of the linear theory</p>
+<p>6.8 Characteristics of real ocean waves</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Chapter 7: Optimization</p>
+<p>7.1 Single-dimension continuous optimization</p>
+<p>7.2 Multi-dimensional continuous optimization</p>
+<p>7.3 Linear programming</p>
+<p>7.4 Integer linear programming</p>
+<p>7.5 Min-max optimization for discrete choices</p>
+<p>7.6 Dynamic programming</p>
+<p>7.7 Solving dynamic programming on a computer</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chapter 8: Stochastic Simulation</p>
+<p>8.1 Monte Carlo simulation</p>
+<p>8.2 Making random numbers</p>
+<p>8.3 Grid-based techniques</p>
+<p>8.4 Issues of cost and accuracy</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Chapter 9: Kinematics of Moving Frames</p>
+<p>9.1 Rotation of reference frames</p>
+<p>9.2 Differential rotations</p>
+<p>9.3 Rate of change of Euler angles</p>
+<p>9.4 A practical example: dead reckoning</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chapter 10: Vehicle Internal Dynamics</p>
+<p>10.1 Momentum of a particle</p>
+<p>10.2 Linear momentum in a moving frame</p>
+<p>10.3 Example: mass on a string</p>
+<p>10.4 Angular momentum</p>
+<p>10.5 Example: spinning book</p>
+<p>10.6 Parallel axis theorem</p>
+<p>10.7 Basis for simulation</p>
+<p>10.8 What does an inertial measurement unit measure?</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Chapter 11: Control Fundamentals</p>
+<p>11.1 Introduction</p>
+<p>11.2 Partial fractions</p>
+<p>11.3 Stability in linear systems</p>
+<p>11.4 Stability &harr; Poles in LHP</p>
+<p>11.5 General stability</p>
+<p>11.6 Representing linear systems</p>
+<p>11.7 Block diagrams and transfer functions of feedback systems</p>
+<p>11.8 PID controllers</p>
+<p>11.9 Example: PID control</p>
+<p>11.10 Heuristic tuning</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Chapter 12: Control Systems&nbsp;&mdash; Loop Shaping</p>
+<p>12.1 Introduction</p>
+<p>12.2 Roots of stability &mdash; Nyquist criterion</p>
+<p>12.3 Design for nominal performance</p>
+<p>12.4 Design for robustness</p>
+<p>12.5 Robust performance</p>
+<p>12.6 Implications of Bode's integral</p>
+<p>12.7 The recipe for loopshaping</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Chapter 13: Math Facts</p>
+<p>13.1 Vectors</p>
+<p>13.2 Matrices</p>
+</td>
+<td>(<a href="5/MIT2_017JF09_ch13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+

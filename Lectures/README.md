@@ -40,7 +40,7 @@
 <li><a href="#course39">Turbulent Flow and Transport</a></li>
 <li><a href="#course40">Numerical Fluid Mechanics</a></li>
 <li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
-<li><a href="#course18">Systems and Controls</a></li>
+<li><a href="#course42">Internal Combustion Engines</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
@@ -4990,7 +4990,159 @@ MATLAB
 </ul>
 <p><strong>Appendix: Further Material on Panel Methods and Strip Theory (Courtesy of Alexis Mantzaris)&nbsp;</strong><span class="nobr">(<a href="9/appendix.pdf">PDF - 1.0 MB</a>)</span></p>
 <br/>
+<h2 id="course42">Internal Combustion Engines</h2>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec1.pdf">Introduction to SI and DI engines (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec2.pdf">Engine operating characteristics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec3.pdf">Ideal cycle analysis (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec4.pdf">Combustion and thermochemistry (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Kinetics, equilibrium and dissociation [lecture notes not available]</td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec6.pdf">Gas properties and fuel - air cycle; cycle simulation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec7.pdf">Mixture preparation in SI engines (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec8.pdf">Intake and exhaust processes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec9.pdf">SI engine combustion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec10.pdf">SI engine combustion (cont.); knock (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec11-12.pdf">SI engine emissions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec13.pdf">SI engine emissions control (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Emission measurements [lecture notes not available]</td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec15.pdf">Diesel engine characteristics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec16.pdf">Diesel engine: injection, ignition and combustion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec17.pdf">Diesel engine emissions and control (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec18.pdf">Engine heat transfer (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec19.pdf">Engine friction and tribology (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec20.pdf">Turbocharging (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_lec21.pdf">Hydrogen, fuel cell and battery&nbsp;<span class="nobr">(PDF - 1.1MB)</span></a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_lec22.pdf">Bio fuels and hybrids (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>SSIGNMENTS</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="9/MIT2_61S17_ps1.pdf">Problem set 1 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps1_soln.pdf">Problem set 1 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_ps2.pdf">Problem set 2 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps2_soln.pdf">Problem set 2 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_ps3.pdf">Problem set 3 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps3_soln.pdf">Problem set 3 solutions (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_ps4.pdf">Problem set 4 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps4_soln.pdf">Problem set 4 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_ps5.pdf">Problem set 5 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps5_soln.pdf">Problem set 5 solutions (PDF)</a><br />Supporting files:&nbsp;<a href="9/SI_SIM.m">si_sim.m (M)</a>,&nbsp;<a href="9/si_sim.oum">si_sim.oum (OUM)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_ps6.pdf">Problem set 6 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps6_soln.pdf">Problem set 6 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_ps7.pdf">Problem set 7 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps7_soln.pdf">Problem set 7 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_ps8.pdf">Problem set 8 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps8_soln.pdf">Problem set 8 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_ps9.pdf">Problem set 9 (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_ps9_soln.pdf">Problem set 9 solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>QUIZZES/EXAMS</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2">Spring 2017</td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_quiz_2017.pdf">Quiz (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_quiz_2017soln.pdf">Quiz solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_final_2017.pdf">Final exam (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_final_2017soln.pdf">Final exam solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2">Previous Years</td>
+</tr>
+<tr class="row">
+<td><a href="9/MIT2_61S17_quiz_2014.pdf">2014 Quiz (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_quiz_2014soln.pdf">2014 Quiz solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="9/MIT2_61S17_final_2016.pdf">2016 Final exam (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="9/MIT2_61S17_final_2016soln.pdf">2016 Final exam solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 

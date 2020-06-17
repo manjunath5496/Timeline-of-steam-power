@@ -44,7 +44,7 @@
 <li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course44">Optical Engineering</a></li>
 <li><a href="#course45">Elements of Mechanical Design</a></li>
-<li><a href="#course22">Structural Mechanics</a></li>
+<li><a href="#course46">Precision Machine Design</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 </ul>
@@ -5419,6 +5419,11 @@ MATLAB
 
 </br>
 
+<h2 id="course46">Precision Machine Design</h2>
 
-
-
+<ul>
+<li>Lecture on Exact and Quasi-Exact Constraint Design (<a href="10/constraint_lecture_part_I.pdf">PDF - 2.4 MB</a>)</li>
+<li>Lecture on Adjustable Constraint and Flexible Constraint (<a href="10/constraint_lecture_part_II.pdf">PDF - 2 MB</a>)</li>
+<li>Milestones (<a href="10/milestones.pdf">PDF - 1.8 MB</a>)</li>
+</ul>
+</br>

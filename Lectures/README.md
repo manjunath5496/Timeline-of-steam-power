@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</a></li>
 <li><a href="#course2">How and Why Machines Work</a></li>
-<li><a href="#course3">Ethnic and National Identity</a></li>
+<li><a href="#course3">Mechanics & Materials I</a></li>
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
@@ -305,6 +305,121 @@
 </tbody>
 </table>
 </br>
+<h2 id="course3">Mechanics & Materials I</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Part 1: Statics - Elements of Equilibrium</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Course Outline, Review of Forces and Moments, Introduction to Equilibrium (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Forces, Moments, Equilibrium (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Applying the Equations of Equilibrium, Planar Trusses (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Friction (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 2: Forces and Moments Transmitted by Slender Members</strong></td>
+</tr>
+<tr class="row">
+<td>Shear Force and Bending Moment Diagrams (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Shear Force and Bending Moment Diagrams (cont.) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 3: Mechanics of Deformable Bodies - Introduction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Force-deformation Relationships and Static Indeterminacy (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Finishing up Static Indeterminacy; Uniaxial Loading and Material Properties (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Trusses and Their Deformations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Statically Determinate and Indeterminate Trusses (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 1</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 4: Force-Stress-Equilibrium</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Multiaxial Stress (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Multiaxial Stress and Strain (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 5: Displacement - Strain</strong></td>
+</tr>
+<tr class="row">
+<td>Multiaxial Strain and Multiaxial Stress-strain Relationships (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 6: Linear Elasticity - Material Behavior</strong></td>
+</tr>
+<tr class="row">
+<td>Stress-strain-temperature Relationships and Thin-walled Pressure Vessels (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress Transformations and Principal Stress (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress and Strain Transformations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Failure of Materials and Examples (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 7: Bending: Stress and Strains; Deflections</strong></td>
+</tr>
+<tr class="row">
+<td>Pure Bending (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Moment-curvature Relationship (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Beam Deflection (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Symmetry, Superposition, and Statically Indeterminate Beams (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 8: Torsion; Energy Methods</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Torsion and Twisting (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Torsion Examples (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy Methods (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Examples (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 

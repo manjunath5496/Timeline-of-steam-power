@@ -3,8 +3,8 @@
 <li><a href="#course2">How and Why Machines Work</a></li>
 <li><a href="#course3">Mechanics & Materials I</a></li>
 <li><a href="#course4">Mechanics and Materials II</a></li>
-<li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
-<li><a href="#course6">Food, Culture and Politics</a></li>
+<li><a href="#course5">Engineering Dynamics</a></li>
+<li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
@@ -644,3 +644,209 @@
 <p>Quiz I Solution&nbsp;(<a href="1/quiz1_sol.pdf">PDF</a>)</p>
 <p>Quiz II Solution (<a href="1/quiz2_sol.pdf">PDF</a>)</p>
 </br>
+<h2 id="course5">Engineering Dynamics</h2>
+
+<ul class="arrow">
+<li><a href="1/MIT2_003SCF11_pset1CoSol.pdf">Problem Set 1: Concept Question Answer Key (PDF)</a></li>
+<li><a href="1/MIT2_003SCF11_Pset1_sol.pdf">Problem Set 1: Problem Solutions with Explanations (PDF - 1.1MB)</a></li>
+<li><a href="1/MIT2_003SCF11Kinematic.pdf">Kinematics (PDF)</a></li>
+<li><a href="1/MIT2_003SCF11_Quiz1.pdf">Quiz 1 (PDF)</a></li>
+<li><a href="1/MIT2_003SCF11_quiz1Sol.pdf">Quiz 1 Solutions (PDF)</a></li>
+</ul>
+
+</br>
+<h2 id="course6">Dynamics and Control I</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">SES&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">KEY&nbsp;DATES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>M1</td>
+<td>
+<p>Introduction (<a href="2/matlab_intro.pdf">PDF</a>)</p>
+<p>Lecture 1 (<a href="2/matlab1.pdf">PDF</a>)</p>
+<p>Overview, MATLAB syntax</p>
+</td>
+<td>Homework 1 out</td>
+</tr>
+<tr class="alt-row">
+<td>M2</td>
+<td>
+<p>Lecture 2 (<a href="2/matlab2.pdf">PDF</a>)</p>
+<p>Programming I: conditional and loops</p>
+</td>
+<td>
+<p>Homework 1 due</p>
+<p>Homework 2 out</p>
+</td>
+</tr>
+<tr class="row">
+<td>M3</td>
+<td>In class exercise: bouncing ball I</td>
+<td>
+<p>Homework 2 due</p>
+<p>Homework 3 out</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>M4</td>
+<td>In class exercise: bouncing ball II</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>M5</td>
+<td>
+<p>Lecture 3 (<a href="2/matlab3.pdf">PDF</a>)</p>
+<p>Programming II: functions</p>
+</td>
+<td>
+<p>Homework 3 due</p>
+<p>Homework 4 out</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>M6</td>
+<td>In class exercise: recursion and Tower of Hanoi</td>
+<td>
+<p>Homework 4 due</p>
+<p>Homework 5 out</p>
+</td>
+</tr>
+<tr class="row">
+<td>M7</td>
+<td>
+<p>Lecture 4 (<a href="2/matlab4.pdf">PDF</a>)</p>
+<p>Algorithm and ODE</p>
+</td>
+<td>
+<p>Homework 5 due</p>
+<p>Homework 6 out</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>M8</td>
+<td>In class exercise: mass-spring-damper dynamics</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>M9</td>
+<td>In class exercise: roller disk</td>
+<td>
+<p>Homework 6 due</p>
+<p>Homework 7 out</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>M10</td>
+<td>In class exercise: nonlinear dynamics project I</td>
+<td>
+<p>Homework 7 due</p>
+<p>Homework 8 out</p>
+</td>
+</tr>
+<tr class="row">
+<td>M11</td>
+<td>In class exercise: nonlinear dynamics project II</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>M12</td>
+<td>
+<p>Lecture 5 (<a href="2/matlab5.pdf">PDF</a>)</p>
+<p>Vibration and eigenvalue problems</p>
+</td>
+<td>
+<p>Homework 8 due</p>
+<p>Homework 9 out</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>M13</p>
+</td>
+<td>Finite element and building vibration</td>
+<td>Homework 9 due</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">MATLAB&nbsp;HOMEWORK</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Homework 1 (<a href="2/hw1.pdf">PDF</a>)</p>
+<p>Problem 1.4 supporting file (<a href="2/ballmat.mat">MAT</a>)</p>
+</td>
+<td>(<a href="2/hw1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Homework 2 (<a href="2/hw2.pdf">PDF</a>)</p>
+<p>Problem 2.3 supporting files (<a href="2/matlab_hw2.zip">ZIP</a>) (The ZIP file contains: HW023.m and ball.mat.)</p>
+</td>
+<td>(<a href="2/hw2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 3 (<a href="2/hw3.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="2/hw3_sol.pdf">PDF</a>)</p>
+<p>MATLAB solution files (<a href="2/matlab_hw3.zip">ZIP</a>) (The ZIP file contains: ball3.m, ball3quadratic.m, ball3spatial.m, and ball3stokes.m.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 4 (<a href="2/hw4.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="2/hw4_sol.pdf">PDF</a>)</p>
+<p>MATLAB solution files (<a href="2/matlab_hw4.zip">ZIP</a>) (The ZIP file contains: bop.m, fctrl.m, and integral.m.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Homework 5 (<a href="2/hw5.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="2/hw5_sol.pdf">PDF</a>)</p>
+<p>MATLAB solution files for 5.1 and 5.3 (<a href="2/matlab_hw5153.zip">ZIP</a>) (The ZIP file contains: fctrlrc.m and hanoi.m.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 6 (<a href="2/hw6.pdf">PDF</a>)</td>
+<td>
+<p>6.1 solution (<a href="2/hw6_1_sol.pdf">PDF</a>)</p>
+<p>MATLAB solution files for 6.2 and 6.3 (<a href="2/matlab_hw6263.zip">ZIP</a>) (The ZIP file contains: MSDSE.m and MSDSRK.m.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Homework 7 (<a href="2/hw7.pdf">PDF</a>)</td>
+<td>
+<p>7.1 solution (<a href="2/hw7_1_sol.pdf">PDF</a>)</p>
+<p>MATLAB solution files for 7.2 (<a href="2/matlab_hw72.zip">ZIP</a>) (The ZIP file contains: RockerAN.m and RockerRK.m.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 8 (<a href="2/hw8.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="2/hw8_sol.pdf">PDF - 1.2 MB</a>)</p>
+<p>MATLAB solution files (<a href="2/matlab_hw8_sol.zip">ZIP</a>) (The ZIP file contains: 17 .m files.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Homework 9 (<a href="2/hw9.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="2/hw9_sol.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+

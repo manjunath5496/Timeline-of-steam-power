@@ -15,7 +15,7 @@
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">Dynamics</a></li>
-<li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
+<li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">The Anthropology of Sound</a></li>
 <li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
 <li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
@@ -2256,4 +2256,19 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</h2>
+<h2 class="subhead">Practice Midterm (from a previous year)</h2>
+<p>Part 1 (<a href="5/midterm2004_1.pdf">PDF</a>)</p>
+<p>Part 2 (<a href="5/midterm2004_2.pdf">PDF</a>)</p>
+<h2 class="subhead">Midterm</h2>
+<h3 class="subsubhead">Part 1</h3>
+<p>Exam (<a href="5/midterm_1.pdf">PDF</a>)</p>
+<p>Solutions (<a href="5/midterm_1_sol.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Part 2</h3>
+<p>Exam (<a href="5/midterm_2.pdf">PDF</a>)</p>
+<p>Solutions (<a href="5/midterm_2_sol.pdf">PDF</a>)</p>
+<h2 class="subhead">Final Exam</h2>
+<p>Exam (<a href="5/finalexam.pdf">PDF</a>)</p>
+<p>Solutions (<a href="5/finalexam_sol.pdf">PDF</a>)</p>
 </br>

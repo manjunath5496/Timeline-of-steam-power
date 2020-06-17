@@ -34,7 +34,7 @@
 <li><a href="#course33">Hydrofoils and Propellers</a></li>
 <li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
 <li><a href="#course35">Marine Hydrodynamics</a></li>
-<li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
+<li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
@@ -4330,4 +4330,210 @@ MATLAB
 </table>
 
 </br>
+<h2 id="course36">Signal Processing: Continuous and Discrete</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction to signal processing</p>
+<p>Properties of LTI continuous filters</p>
+<p>The Dirac delta function</p>
+<p>Properties of the delta function</p>
+<p>Practical applications of the Dirac delta function</p>
+</td>
+<td>(<a href="8/lecture_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Continuous LTI system time-domain response</p>
+<p>Sinusoidal response of LTI continuous systems</p>
+</td>
+<td>(<a href="8/lecture_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>The Fourier series and transform</p>
+<p>Periodic input functions &mdash; the Fourier series</p>
+<p>Aperiodic input functions &mdash; the Fourier transform</p>
+</td>
+<td>(<a href="8/lecture_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Review of development of Fourier transform</p>
+<p>The frequency response of a linear system defined directly from the Fourier transform</p>
+<p>Relationship between the frequency response and the impulse response</p>
+<p>The convolution property</p>
+</td>
+<td>(<a href="8/lecture_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>The one-sided Laplace transform</p>
+<p>The transfer function</p>
+<p>Poles and zeros of the transfer function</p>
+<p>Frequency response and the pole-zero plot</p>
+</td>
+<td>(<a href="8/lecture_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Poles and zeros of filter classes</p>
+<p>The decibel</p>
+<p>Low-pass filter design</p>
+</td>
+<td>(<a href="8/lecture_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Butterworth filter design example</p>
+<p>Chebyshev filters</p>
+</td>
+<td>(<a href="8/lecture_07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Second-order filter sections</p>
+<p>Transformation of low-pass filters to other classes</p>
+<p>State-variable active filters</p>
+</td>
+<td>(<a href="8/lecture_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Operational-amplifier based state-variable filters</p>
+<p>Introduction to discrete-time signal processing</p>
+</td>
+<td>(<a href="8/lecture_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The sampling theorem</p>
+<p>The discrete Fourier transform (DFT)</p>
+</td>
+<td>(<a href="8/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>The discrete Fourier transform (cont.)</p>
+<p>The fast Fourier transform (FFT)</p>
+</td>
+<td>(<a href="8/lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The fast Fourier transform (cont.)</p>
+<p>Spectral leakage in the DFT and apodizing (windowing) functions</p>
+</td>
+<td>(<a href="8/lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Introduction to time-domain digital signal processing</p>
+<p>The discrete-time convolution sum</p>
+<p>The z-transform</p>
+</td>
+<td>(<a href="8/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The discrete-time transfer function</p>
+<p>The transfer function and the difference equation</p>
+<p>Introduction to z-plane stability criteria</p>
+<p>The frequency response of discrete-time systems</p>
+<p>The Inverse z-Transform</p>
+</td>
+<td>(<a href="8/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Frequency response and poles and zeros</p>
+<p>FIR low-pass filter design</p>
+</td>
+<td>(<a href="8/lecture_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>FIR low-pass filter design by windowing</p>
+<p>Window FIR filters or other filter types</p>
+<p>The zeros of a linear phase FIR filter</p>
+</td>
+<td>(<a href="8/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Frequency-sampling filters</p>
+<p>FIR filter design using optimization</p>
+</td>
+<td>(<a href="8/lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>FFT convolution for FIR filters</p>
+<p>The design of IIR filters</p>
+</td>
+<td>(<a href="8/lecture_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The design of IIR filters (cont.)</td>
+<td>(<a href="8/lecture_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Direct-form filter structures</p>
+<p>Transversal FIR structure</p>
+<p>IIR direct form structures</p>
+<p>Transposed direct forms</p>
+<p>Coefficient sensitivity in direct form filters</p>
+</td>
+<td>(<a href="8/lecture_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Interpolation and decimation</p>
+<p>Introduction to random signals</p>
+</td>
+<td>(<a href="8/lecture_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The correlation functions (cont.)</p>
+<p>Linear system input/output relationships with random inputs</p>
+<p>Discrete-time correlation</p>
+</td>
+<td>(<a href="8/lecture_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Non-parametric power spectral density estimation</td>
+<td>(<a href="8/lecture_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Least-squares filter design</td>
+<td>(<a href="8/lecture_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Adaptive filtering</td>
+<td>(<a href="8/lecture_25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<h2 class="subhead">Fall 2007</h2>
+<p>Quiz 1 (<a href="8/quiz1_07.pdf">PDF</a>)</p>
+<h2 class="subhead">Fall 2008</h2>
+<p>Quiz 1 (<a href="8/quiz1.pdf">PDF</a>)</p>
+<p>Quiz 2 (<a href="8/quiz2.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Supporting Files for Quiz 2</h3>
+<p>Q2Prob2.mat (<a href="8/Q2Prob2.mat">MAT</a>)<br />Q2Prob3.mat (<a href="8/Q2Prob3.mat">MAT</a>)<br />Q2Prob4.mat (<a href="8/Q2Prob4.mat">MAT - 6.2 MB</a>)<br />Q2Prob4.m (<a href="8/Q2Prob4.m">M</a>)</p>
+
+</br>
+
+
 

@@ -11,7 +11,7 @@
 <li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
-<li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
+<li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Culture, Embodiment and the Senses</a></li>
 <li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course16">The Conquest of America</a></li>
@@ -1812,5 +1812,53 @@
 <p>Take Home Exam 2 (<a href="4/takehome_2.pdf">PDF</a>)</p>
 </br>
   
+<h2 id="course13">Hydrodynamics</h2>
   
-  
+
+<p>The first assignment is a questionnaire to assess students' knowledge of basic material. It is not graded, but must be handed in.</p>
+<p>Assessment Questionnaire (<a href="5/questionaire.pdf">PDF</a>)</p>
+<p>The solutions files in the following table have been scanned from handwritten originals, and are the best image quality available.</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Homework 1 (<a href="5/hw1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw1_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2 (<a href="5/hw2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw2_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 3 (<a href="5/hw3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 4 (<a href="5/hw4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 5 (<a href="5/hw5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 6 (<a href="5/hw6.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw6_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 7 (<a href="5/hw7.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw7_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 8 (<a href="5/hw8.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/hw8_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>

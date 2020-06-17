@@ -197,7 +197,7 @@
 <td>&nbsp;</td>
 <td>
 <p><a href="http://www.ncees.org/Exams/FE_exam.php">NCEES Fundamentals of Engineering Exams</a></p>
-<p>ASME Ethics Code (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="ASME%20Policies%2015_7_8_9.pdf">PDF</a>)</p>
+
 </td>
 </tr>
 <tr class="alt-row">

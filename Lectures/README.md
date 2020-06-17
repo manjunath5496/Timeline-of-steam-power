@@ -31,7 +31,7 @@
 <li><a href="#course30">Maneuvering and Control of Surface and Underwater Vehicles</a></li>
 <li><a href="#course31">Computational Geometry</a></li>
 <li><a href="#course32">Identification, Estimation, and Learning</a></li>
-<li><a href="#course9">Modeling Dynamics and Control II</a></li>
+<li><a href="#course33">Hydrofoils and Propellers</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
@@ -3879,4 +3879,53 @@ MATLAB
 </table>
 
 </br>
+
+<h2 id="course33">Hydrofoils and Propellers</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="7/ps1.pdf">PDF</a>)</td>
+<td>(<a href="7/sol1.zip">ZIP</a>) (The ZIP file contains: 2 .dat files and 6 .m files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="7/ps2.pdf">PDF</a>)</td>
+<td>(<a href="7/sol2.zip">ZIP</a>) (The ZIP file contains: 8 .m files.)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="7/ps3.pdf">PDF</a>)</td>
+<td>(<a href="7/sol3.zip">ZIP</a>) (The ZIP file contains: 6 .m files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="7/ps4.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="7/ps5.pdf">PDF</a>)</td>
+<td>(<a href="7/sol5.zip">ZIP</a>) (The ZIP file contains: 1 .m file and pset5_soln.pdf.)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="7/ps6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Design Project</h2>
+<p>For the final design project, there is a choice of two applications:</p>
+<p>Tidal Turbine (<a href="7/tidal_turbine.pdf">PDF</a>)</p>
+<p>SDV Propeller (<a href="7/sdv.pdf">PDF</a>)</p>
+<p>The MPVL code associated with these projects is available on the&nbsp;<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-23-hydrofoils-and-propellers-spring-2007/tools">tools</a>&nbsp;page.</p>
+
+</br>
+
+
 

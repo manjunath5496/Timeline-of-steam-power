@@ -20,7 +20,7 @@
 <li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
-<li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
+<li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Technology and Culture</a></li>
 <li><a href="#course24">The Anthropology of Politics: Persuasion and Power</a></li>
 
@@ -2716,4 +2716,167 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Structural Mechanics</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURES&nbsp;AND&nbsp;TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture2.pdf">Lecture 2: The Concept of Strain (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture3.pdf">Lecture 3: The Concept of Stress, Generalized Stresses and Equilibrium (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture4.pdf">Lecture 4: Development of Constitutive Equations of Continuum, Beams and Plates (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture5.pdf">Lecture 5: Solution Method for Beam Deflections (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture6.pdf">Lecture 6: Moderately Large Deflection Theory of Beams (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture7.pdf">Lecture 7: Bending Response of Plates and Optimum Design (PDF - 3.7MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture8.pdf">Lecture 8: Energy Methods in Elasticity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture9.pdf">Lecture 9: Stability of Elastic Structures (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture10.pdf">Lecture 10: Advanced Topic in Column Buckling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture11.pdf">Lecture 11: Buckling of Plates and Sections (PDF - 7.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_080JF13_Lecture12.pdf">Lecture 12: Fundamental Concepts in Structural Plasticity (PDF - 1.6MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="6/MIT2_080JF13_Quiz_1_Review.pdf">Quiz 1 Review (PDF)</a></p>
+<p><a href="6/MIT2_080JF13_Quiz_1.pdf">Quiz 1 (PDF)</a></p>
+</td>
+<td>Solutions are not available for this quiz.</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 2 is not available.</td>
+<td><a href="6/MIT2_080JF13_Quiz_2_Sols.pdf">Solutions to Quiz 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT2_080JF13_Quiz_3.pdf">Quiz 3 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_Quiz_3_Sols.pdf">Solutions to Quiz 3 (PDF - 1.1MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>The Concept of Strain</p>
+<p>(This problem set corresponds to Lecture 2.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_1.pdf"><span class="nobr">Problem Set 1 (PDF)</span></a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_1_Sol.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The Concept of Stress, Generalized Stresses, and Equilibrium</p>
+<p>(This problem set corresponds to Lecture 3.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_2_Sol.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Development of Constitutive Equations for Continuum, Beams, and Plates</p>
+<p>(This problem set corresponds to Lecture 4.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_3_Sol.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Solution Method for Beam Deflection</p>
+<p>(This problem set corresponds to Lecture 5.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_4_Sol.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Moderately Large Deflection Theory of Beams</p>
+<p>(This problem set corresponds to Lecture 6.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_5_Sol.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Bending Response of Plates and Optimum Design</p>
+<p>(This problem set corresponds to Lecture 7.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_6.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_6_Sol.pdf">Solutions to Problem Set 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Energy Methods in Elasticity</p>
+<p>(This problem set corresponds to Lecture 8.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_7_Sol.pdf">Solutions to Problem Set 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Stability of Elastic Structures and Advanced Topic in Column Buckling</p>
+<p>(This problem set corresponds to Lectures 9 and 10.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_8.pdf">Problem Set 8 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_8_Sol.pdf">Solutions to Problem Set 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Buckling of Plates and Sections</p>
+<p>(This problem set corresponds to Lecture 11.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_9_Sol.pdf">Solutions to Problem Set 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Fundamental Concepts in Structural Plasticity</p>
+<p>(This problem set corresponds to Lecture 12.)</p>
+</td>
+<td><a href="6/MIT2_080JF13_ProbSet_10.pdf"><span class="nobr">Problem Set 10 (PDF)</span></a></td>
+<td><a href="6/MIT2_080JF13_ProbSet_10_Sol.pdf">Solutions to Problem Set 10 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>

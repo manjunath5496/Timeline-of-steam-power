@@ -849,4 +849,100 @@
 </tbody>
 </table>
 </br>
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>I. Motion of a Single Particle</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Newton's Laws, Cartesian and Polar Coordinates, Dynamics of a Single Particle (<a href="2/lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Work-Energy Principle (<a href="2/lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dynamics of a Single Particle: Angular Momentum (<a href="2/lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>II. Motion of Systems of Particles</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Systems of Particles: Angular Momentum and Work-Energy Principle (<a href="2/lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Systems of Particles: Example 1: Linear Momentum and Conservation of Energy, Example 2: Angular Momentum (<a href="2/lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Collisions (<a href="2/lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>III. 2D-Motion of Rigid Bodies</strong></td>
+</tr>
+<tr class="alt-row">
+<td>2D-Motion of Rigid Bodies: Kinematics (<a href="2/lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2D-Motion of Rigid Bodies: Kinematics - Instant Centers; Kinetics (<a href="2/lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2D-Motion of Rigid Bodies: Kinetics, Parallel Axis Theorem (<a href="2/lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2D-Motion of Rigid Bodies: Falling Stick Example, Work-Energy Principle (<a href="2/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2D-Motion of Rigid Bodies: Finding Moments of Inertia, Rolling Cylinder with Hole Example (<a href="2/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2D-Motion of Rigid Bodies: Rolling Cylinder and Rocker Examples (<a href="2/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>IV. Introduction to Lagrangian Dynamics</strong></td>
+</tr>
+<tr class="row">
+<td>Lagrangian Dynamics: Generalized Coordinates and Forces (<a href="2/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lagrangian Dynamics: Virtual Work and Generalized Forces (<a href="2/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lagrangian Dynamics: Derivations of Lagrange's Equations and Examples (<a href="2/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lagrangian Dynamics: Examples (<a href="2/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lagrangian Dynamics: Examples and Equilibrium Analysis (<a href="2/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lagrangian Dynamics: Examples and Equilibrium Analysis (cont.) (<a href="2/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lagrangian Dynamics: Examples and Equilibrium Analysis (cont.) (<a href="2/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>V. Vibrations</strong></td>
+</tr>
+<tr class="row">
+<td>Vibrations: Second Order Systems with One Degree of Freedom - Free Response (<a href="2/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vibrations: Second Order Systems with One Degree of Freedom - Forced Response (<a href="2/lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vibrations: Free Response of Multi-Degree-of-Freedom Systems (<a href="2/lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vibrations: Two Degrees of Freedom Systems - Wilberforce Pendulum (<a href="2/lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vibrations: Forced Response of Multi-Degree-of-Freedom Systems (<a href="2/lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>

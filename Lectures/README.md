@@ -43,7 +43,7 @@
 <li><a href="#course42">Internal Combustion Engines</a></li>
 <li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course44">Optical Engineering</a></li>
-<li><a href="#course21">Computational Ocean Acoustics</a></li>
+<li><a href="#course45">Elements of Mechanical Design</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
@@ -5336,11 +5336,88 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course45">Elements of Mechanical Design</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Principles: overview, assessment, group formation (<a href="10/MIT2_72s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Fundamentals: mechanics, dynamics, heat transfer, matrices, and errors (<a href="10/MIT2_72s09_lec02.pdf">PDF - 1.3MB</a>)</p>
+<p>Shaft blank exercise (<a href="10/MIT2_72s09_lec02_shaft.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Shafts &amp; ways: deformation, stresses, and integration (<a href="10/MIT2_72s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fatigue: fundamentals and modeling methods (<a href="10/MIT2_72s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Structures: architectures, homogeneous transfer matrices, and system models (<a href="10/MIT2_72s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Constraints I: constraint-based design, alignment, preloading, and stability (<a href="10/MIT2_72s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Constraints II: rolling and sliding element bearings (<a href="10/MIT2_72s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Constraints III: flexure bearing elastomechanics &amp; dynamics (<a href="10/MIT2_72s09_lec08.pdf">PDF - 4.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Connections I: alignment interfaces (<a href="10/MIT2_72s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Connections II: bolted joints (<a href="10/MIT2_72s09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Drives I: screw drives (<a href="10/MIT2_72s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Drives II: belt and friction drives (<a href="10/MIT2_72s09_lec12.pdf">PDF</a>)</p>
+<p>Gears I: kinematics</p>
+</td>
+</tr>
+<tr class="row">
+<td>Gears II: mechanics and selection (<a href="10/MIT2_72s09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Actuators: DC motors, piezos, magnet-coil, and hydraulics (<a href="10/MIT2_72s09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Actuators: thermal and electrostatic microactuators</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Vibrations: machine dynamics and damping (<a href="10/MIT2_72s09_lec16.pdf">PDF</a>)</p>
+<p>Vibration exercise: part for analysis, vibration.sldprt (<a href="10/vibration.sldprt">SLDPRT</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Linkages: degrees of freedom and kinematics</td>
+</tr>
+<tr class="alt-row">
+<td>Friction elements: clutches and brakes (<a href="10/MIT2_72s09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Project work</td>
+</tr>
+<tr class="alt-row">
+<td>Last day of class overview, demonstrations, and assessment</td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
 
 
 

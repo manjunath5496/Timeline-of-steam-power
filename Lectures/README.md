@@ -7,7 +7,7 @@
 <li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
-<li><a href="#course9">Anthropology of War and Peace</a></li>
+<li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
 <li><a href="#course12">Race and Science</a></li>
@@ -1345,6 +1345,51 @@
 <tr class="alt-row">
 <td>Problem set 10 (<a href="3/ps10.pdf">PDF</a>)</td>
 <td>(<a href="3/sol10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course9">Modeling Dynamics and Control II</h2>
+
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>PROBLEMS</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="3/ps1_spring03.pdf">PDF</a>)</td>
+<td>(<a href="3/ps1_spring03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="3/ps2_spring03.pdf">PDF</a>)</td>
+<td>(<a href="3/ps2_spring03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3&nbsp;<span class="nobr">(<a href="3/ps3_spring03.pdf">PDF - 2.5MB</a>)</span></td>
+<td>(<a href="3/ps3_spring03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="3/ps4_spring03.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="3/ps4_spring03_sol.pdf">PDF - 1.4MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="3/ps5_spring03.pdf">PDF</a>)</td>
+<td>(<a href="3/ps5_spring03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="3/ps6_spring03.pdf">PDF</a>)</td>
+<td>(<a href="3/ps6_spring03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="3/ps7_spring03.pdf">PDF</a>)</td>
+<td>(<a href="3/ps7_spring03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 (<a href="3/ps8_spring03.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>

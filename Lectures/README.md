@@ -37,7 +37,7 @@
 <li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
 <li><a href="#course37">Advanced Fluid Mechanics</a></li>
 <li><a href="#course38">Compressible Fluid Dynamics</a></li>
-<li><a href="#course15">Design of Ocean Systems</a></li>
+<li><a href="#course39">Turbulent Flow and Transport</a></li>
 <li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
@@ -4661,5 +4661,17 @@ MATLAB
 <p>Problem Set 1 (<a href="9/ps1.pdf">PDF</a>)<br />Problem Set&nbsp;2 (<a href="9/ps2.pdf">PDF</a>)<br />Problem Set&nbsp;3 (<a href="9/ps3.pdf">PDF</a>)<br />Final&nbsp;Project&nbsp;Assignment (<a href="9/final_project.pdf">PDF</a>)</p>
 <p><em>A representative final project</em><br />"Similarity Transformation Methods in the Analysis of the Two Dimensional Steady Compressible Laminar Boundary Layer," by Yeunwoo Cho and Angelica Aessopos (<a href="9/pap_cho_aessopos.pdf">PDF</a>) (Courtesy of Yeunwoo Cho. Used with permission.)</p>
 </br>
+<h2 id="course39">Turbulent Flow and Transport</h2>
 
-
+<p>The following files show the outline of the topics covered in each lecture, along with the reading assignments for that day.</p>
+<ol>
+<li>Review of Fundamental Laws and Constitutive Equations (<a href="9/Fundamentals.pdf">PDF</a>)</li>
+<li>Concepts in Turbulence (<a href="9/Concepts.pdf">PDF</a>)</li>
+<li>Free Shear Flows I: Jets, Wakes, etc.- Solutions Based on Simple Mean-Flow Closure Schemes (<a href="9/Free_shear_flows.pdf">PDF</a>)</li>
+<li>Bounded flows I: General Near-Wall Scaling Laws; Flows in Pipes, Channels, etc. (<a href="9/Simple_turb_wall_flows.pdf">PDF</a>)</li>
+<li>Introduction to Turbulent Boundary Layers (<a href="9/Boundary_layers.pdf">PDF</a>)</li>
+<li>Buoyant Plumes, Thermals, etc. (<a href="9/7_SimpleBuoyancy.pdf">PDF</a>)</li>
+<li>Introduction to Turbulence Models (<a href="9/8_Turbulence_models.pdf">PDF</a>)</li>
+<li>Dispersion in Pipe and Channel Flow (<a href="9/9_Taylor_dispersion.pdf">PDF</a>)</li>
+</ol>
+</br>

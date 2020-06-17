@@ -5,7 +5,7 @@
 <li><a href="#course4">Mechanics and Materials II</a></li>
 <li><a href="#course5">Engineering Dynamics</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
-<li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
+<li><a href="#course7">Dynamics and Control II</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Law and Society</a></li>
@@ -946,3 +946,184 @@
 </tbody>
 </table>
 </br>
+<h2 id="course7">Dynamics and Control II</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="2/lecture_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Example: cruise control (<a href="2/lecture_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Laplace transform definition, properties (<a href="2/lecture_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Block diagram algebra (<a href="2/lecture_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modeling: impedance of electrical components (<a href="2/lecture_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kirchoff's laws, circuit equations (<a href="2/lecture_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transfer functions, loop/mesh currents (<a href="2/lecture_07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling: real components as Thevenin and Norton sources (<a href="2/lecture_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modeling: one-dimensional mechanical components (<a href="2/lecture_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling: impedance of mechanical components (<a href="2/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transfer functions in MATLAB and Maple (<a href="2/lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Operational amplifiers (<a href="2/lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Generalized system modeling (<a href="2/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling: rotational systems (<a href="2/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Example: rotational systems (<a href="2/lecture_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling: two-port components (<a href="2/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LTI system response (<a href="2/lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Standard input functions: delta, step, ramp, sinusoid (<a href="2/lecture_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Poles and zeros (<a href="2/lecture_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Standard 1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;order system responses (<a href="2/lecture_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Higher order systems, LTI system properties (<a href="2/lecture_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Example: finding system responses (<a href="2/lecture_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Effects of poles and zeros (<a href="2/lecture_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Closed-loop systems, steady-state errors (<a href="2/lecture_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>System stability, Routh-Hurwitz criterion (<a href="2/lecture_25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stability of closed-loop systems, root locus plots (<a href="2/lecture_26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Root locus development (<a href="2/lecture_27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Root locus development (cont.) (<a href="2/lecture_28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Root locus summary, MATLAB (<a href="2/lecture_29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sinusoidal system response (<a href="2/lecture_30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Frequency response and pole-zero plots (<a href="2/lecture_31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bode plots (<a href="2/lecture_32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Poles and zeros on bode plots (<a href="2/lecture_33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bode plots, conclusion (<a href="2/lecture_34.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Problem Set 2 refers to the spec sheet for the Maxon motor, here (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/DC-Das-wichtigste-ueber-maxonmotoren_11_DE-EN_ES_036-1.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="2/ps1.pdf">PDF</a>)</td>
+<td>(<a href="2/ps1soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="2/ps2.pdf">PDF</a>)</td>
+<td>(<a href="2/ps2soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="2/ps3.pdf">PDF</a>)</td>
+<td>(<a href="2/ps3soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="2/ps4.pdf">PDF</a>)</td>
+<td>(<a href="2/ps4soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="2/ps5.pdf">PDF</a>)</td>
+<td>(<a href="2/ps5soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="2/ps6.pdf">PDF</a>)</td>
+<td>(<a href="2/ps6soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="2/ps7.pdf">PDF</a>)</td>
+<td>(<a href="2/ps7soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 8 (<a href="2/ps8.pdf">PDF</a>)</td>
+<td>(<a href="2/ps8soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 9 (<a href="2/ps9.pdf">PDF</a>)</td>
+<td>(<a href="2/ps9soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 10 (<a href="2/ps10.pdf">PDF</a>)</td>
+<td>(<a href="2/ps10soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
+

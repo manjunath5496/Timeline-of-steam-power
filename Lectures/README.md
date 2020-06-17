@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</a></li>
-<li><a href="#course2">Identity and Difference</a></li>
+<li><a href="#course2">How and Why Machines Work</a></li>
 <li><a href="#course3">Ethnic and National Identity</a></li>
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
@@ -229,4 +229,82 @@
 <p>"The Sea-Saw." (<a href="MIT2_00AJs09_sw04.pdf">PDF&nbsp;‑&nbsp;2.3 MB</a>)</p>
 <p>"To Sink And Swim." (<a href="MIT2_00AJs09_sw05.pdf">PDF</a>)</p>
 </br>
+
+<h2 id="course2">How and Why Machines Work</h2>
+
+<table>
+<thead>
+<tr>
+<th>TOPICS</th>
+<th>LECTURE NOTES</th>
+<th>ASSIGNMENTS</th>
+<th>READINGS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to&nbsp;2.000!</td>
+<td>(<a href="lecture1intro5fs_fixed.pdf">PDF</a>)</td>
+<td>HW 1 (<a href="homework1camera_fixed.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Flows, Balances, Sketching</td>
+<td>(<a href="lecture2_sketchingunitsbalancesmanagement.pdf">PDF - 1.8 MB</a>)</td>
+<td>HW 2 (<a href="homework2.pdf">PDF</a>)</td>
+<td>Project Management (<a href="management.pdf">PDF</a>)<br />Project Management (<a href="projectmanagement.xls">XLS</a>)&nbsp;<br />CAD I (<a href="cad1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Overview Of Mechanical Engineering</td>
+<td>(<a href="lecture3MEoverview_fixed.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Manufacturing</td>
+<td>(<a href="lecture4_manufacturing.pdf">PDF</a>)</td>
+<td>HW 3 (<a href="homework3_manufacturing.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Automotive Manufacturing</td>
+<td>&nbsp;</td>
+<td>CAD Tutorial</td>
+<td>Lecture 6</td>
+</tr>
+<tr class="alt-row">
+<td>Machine Components and Systems</td>
+<td>&nbsp;</td>
+<td>HW 4 (<a href="Homework4_machinecomponentsandsystems.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Hydraulics I: Components</td>
+<td>&nbsp;</td>
+<td>HW&nbsp;5 (<a href="homework5etchasketch.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Hydraulics II: Systems&nbsp;and Project I Kick Off</td>
+<td>(<a href="lecture8_hydraulicsII.pdf">PDF</a>)</td>
+<td>Project I (<a href="2000project1gearpump1_fixed.pdf">PDF</a>)<br />See updated timeline in Lecture 9</td>
+<td>Project Management (<a href="management.pdf">PDF</a>)<br />Project Management (<a href="projectmanagement.xls">XLS</a>)</td>
+</tr>
+<tr class="row">
+<td>Hydraulics III and Basic EM Machines</td>
+<td>(<a href="lecture9_hydraulicsIIIandEMmachines_1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Thermodynamics</td>
+<td>(<a href="lecture10_thermodynamics_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 

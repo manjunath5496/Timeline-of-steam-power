@@ -27,7 +27,7 @@
 <li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
 <li><a href="#course27">Finite Element Analysis of Solids and Fluids II</a></li>
 <li><a href="#course28">Introduction to Robotics</a></li>
-<li><a href="#course5">Engineering Dynamics</a></li>
+<li><a href="#course29">Modeling and Simulation of Dynamic System</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
@@ -3623,7 +3623,58 @@ MATLAB
 <p>Video of Final Demonstrations (<a href="6/rescue_robot.mov">MOV - 13.3 MB</a>) (Courtesy of Phil Shaltis. Used with permission.)</p>
 <br />
 
+<h2 id="course29">Modeling and Simulation of Dynamic System</h2>
+
+<h2 class="subhead">Introduction and Review</h2>
+<p>Subject Introduction (<a href="7/subject_introduc.pdf">PDF</a>)</p>
+<p>Cable Hoist Example (<a href="7/cable_hoist_1.pdf">PDF 1</a>) (<a href="7/cable_hoist_2.pdf">PDF 2</a>)</p>
+<p>Bond Graph Primitives (<a href="7/bond_graph_primi.pdf">PDF - 1.0 MB</a>)</p>
+<p>DCPMM Basics (<a href="7/dcpmm_basics.pdf">PDF</a>)</p>
+<p>Block Diagrams and Bond Graphs (<a href="7/block_diagrams_b.pdf">PDF</a>)</p>
+<p>Pump Model (<a href="7/pump_model_1.pdf">PDF 1</a>) (<a href="7/pump_model_2.pdf">PDF 2</a>)</p>
+<h2 class="subhead">Multiports</h2>
+<p>Electromagnetism (<a href="7/electromagnetism.pdf">PDF</a>)</p>
+<p>Solenoid (<a href="7/solenoid.pdf">PDF</a>)</p>
+<p>Solenoid and Co-energy (<a href="7/solenoid_co_ener.pdf">PDF</a>)</p>
+<p>Solenoid and DCPMM (<a href="7/solenoid_dcpmm.pdf">PDF</a>)</p>
+<p>Multiport Capacitor (<a href="7/multiport_capaci.pdf">PDF</a>)</p>
+<h2 class="subhead">Thermal Systems</h2>
+<p>Work-to-heat Transduction (<a href="7/work_to_heat_tra.pdf">PDF</a>)</p>
+<p>Ideal Gas (<a href="7/ideal_gas.pdf">PDF</a>)</p>
+<p>Heat Transfer (<a href="7/heat_transfer.pdf">PDF</a>)</p>
+<p>Thermal Damping (<a href="7/thermal_damping.pdf">PDF</a>)</p>
+<p>Entropy Production (<a href="7/entropy_producti.pdf">PDF</a>)</p>
+<p>Linearized Thermal Damping Model (<a href="7/linearized_therm.pdf">PDF</a>)<br />Linearization to articulate the structure of the thermal damping model.</p>
+<h2 class="subhead">Nonlinear Mechanical Systems</h2>
+<p>Kinematic Transformations (<a href="7/kinematic_transf.pdf">PDF</a>)<br />Effect of displacement-modulated transformers on inertia, damping and stiffness.</p>
+<p>Interaction Control (<a href="7/interaction_cont.pdf">PDF</a>)</p>
+<p>Lagrange Derivation (<a href="7/langrange_deriva.pdf">PDF</a>)<br />A derivation of Lagrange's equation with variational calculus.</p>
+<p>Lagrange Continued (<a href="7/lagrange_continu.pdf">PDF</a>)<br />The modern addition of conservative forces to the Euler-Lagrange equation.</p>
+<p>Modulated Transformers (<a href="7/modulated_transf.pdf">PDF</a>)<br />Kinematic constraints in mechanical systems.</p>
+<h2 class="subhead">Transmission Lines and Wave-Like Behavior</h2>
+<p>Transmission Line Models (<a href="7/transmission_lin.pdf">PDF</a>)<br />An alternative formulation of simple models of power transmission lines which may exhibit wave behavior.</p>
+<p>Symmetric Junctions (<a href="7/symmetric_juncti.pdf">PDF</a>)<br />Derivation of zero and one Junctions via scattering variables.</p>
+<p>Asymmetric Junctions (<a href="7/asymmetric_junct.pdf">PDF</a>)<br />Derivation of gyrator and transformer via scattering variables.</p>
+<h2 class="subhead">Amplification</h2>
+<p>Bipolar Transistor Amplifier (<a href="7/bipolar_transist.pdf">PDF</a>)<br />Analysis of a bipolar transistor showing that (1) amplification is a non-equilibrium phenomenon and (2) the transistor amplifier contains a "hidden" gyrator.</p>
+<p>Nodicity (<a href="7/nodicity.pdf">PDF</a>)<br />An important behavior of electrical networks generally not found in other domains.</p>
+<p>Capstan Amplifier (<a href="7/capstan_amplifie.pdf">PDF</a>)<br />An example of amplification by modulating a resistor.</p>
+<h2 class="subhead">Matter Transport</h2>
+<p>Bernoulli "Resistor" (<a href="7/bernoulli_resist.pdf">PDF</a>)</p>
+<p>Pseudo and Convection Bonds (<a href="7/pseudo_convectio.pdf">PDF</a>)<br />A brief comparison of alternative network representations of matter transport.</p>
+<p>Convection (<a href="7/convection1.pdf">PDF 1</a>) (<a href="7/convection2.pdf">PDF 2</a>)</p>
+<h2 class="subhead">Hamiltonian Forms</h2>
+<p>Hamilton and Lagrange (<a href="7/hamilton_and_lag.pdf">PDF</a>)</p>
+<p>Interaction Stability (<a href="7/interaction_stab.pdf">PDF</a>)</p>
+<p>Canonical Transformations (<a href="7/canonical_transf.pdf">PDF</a>)</p>
+<p>Hamilton-Jacobi Theory (<a href="7/hamilton_jacobi.pdf">PDF</a>)</p>
+<p>Transformation and Integration (<a href="7/transformation_a.pdf">PDF</a>)</p>
+</br>
+
+<h2 class="subhead">Student Projects</h2>
+<p>Pump Fault Detection and Diagnosis (FDD) Based on Electrical Startup Transient (<a href="7/armstrng2141finl.pdf">PDF</a>) (Courtesy of Peter Armstrong. Used with permission.)</p>
+<p>Parameterization, Analysis and Simulation of a Heat Gun (<a href="7/heatgun_final.pdf">PDF</a>) (Courtesy of Thomas Bowers. Used with permission.)</p>
+<p>Stirling Engine (<a href="7/byl_2141_final.pdf">PDF</a>) (Courtesy of Marten Byl. Used with permission.)</p>
 
 
-
-
+</br>

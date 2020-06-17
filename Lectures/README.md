@@ -42,7 +42,7 @@
 <li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
 <li><a href="#course42">Internal Combustion Engines</a></li>
 <li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
-<li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
+<li><a href="#course44">Optical Engineering</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
@@ -5245,11 +5245,97 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course44">Optical Engineering</h2>
 
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Statistical Optics, Inverse Problems (<a href="10/wk1_b.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fourier Optics Overview (<a href="10/wk2_a.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Random Variables: Basic Definitions, Moments</td>
+</tr>
+<tr class="alt-row">
+<td>Random Variables: Transformations, Gaussians</td>
+</tr>
+<tr class="row">
+<td>Examples: Probability Theory &amp; Statistics</td>
+</tr>
+<tr class="alt-row">
+<td>Random Processes: Definitions, Gaussian, Poisson</td>
+</tr>
+<tr class="row">
+<td>Examples: Gaussian Processes</td>
+</tr>
+<tr class="alt-row">
+<td>Random Processes: Analytic Representation</td>
+</tr>
+<tr class="row">
+<td>Examples: Complex Gaussian Processes</td>
+</tr>
+<tr class="alt-row">
+<td>1st-Order Light Statistics</td>
+</tr>
+<tr class="row">
+<td>Examples: Thermal &amp; Laser Light</td>
+</tr>
+<tr class="alt-row">
+<td>2nd-Order Light Statistics: Coherence</td>
+</tr>
+<tr class="row">
+<td>Example: Integrated Intensity</td>
+</tr>
+<tr class="alt-row">
+<td>The van Cittert-Zernicke Theorem</td>
+</tr>
+<tr class="row">
+<td>Example: Diffraction From An Aperture</td>
+</tr>
+<tr class="alt-row">
+<td>The Intensity Interferometer<br /><br />Speckle (<a href="10/soapps.pdf">PDF - 2.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Examples: Stellar Interferometer, Radio Astronomy,<br />Optical Coherence Tomography</td>
+</tr>
+<tr class="alt-row">
+<td>Effects of Partial Coherence on Imaging</td>
+</tr>
+<tr class="row">
+<td>Information Theory: Entropy, Mutual Information (<a href="10/invintro.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Example: Gaussian Channels</td>
+</tr>
+<tr class="row">
+<td>Convolutions, Sampling, Fourier Transforms<br /><br />Information-Theoretic View of Inverse Problems (<a href="10/imgq.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Imaging Channels<br /><br />Regularization</td>
+</tr>
+<tr class="row">
+<td>Inverse Problem Case Study: Tomography<br /><br />Radon Transform, Slice Projection Theorem</td>
+</tr>
+<tr class="alt-row">
+<td>Filtered Backprojection</td>
+</tr>
+<tr class="row">
+<td>Super-Resolution and Image Restoration</td>
+</tr>
+<tr class="alt-row">
+<td>Information-Theoretic Performance of Inversion Methods</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 

@@ -24,7 +24,7 @@
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 <li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
-<li><a href="#course2">How and Why Machines Work</a></li>
+<li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
 <li><a href="#course3">Mechanics & Materials I</a></li>
 <li><a href="#course4">Mechanics and Materials II</a></li>
 <li><a href="#course5">Engineering Dynamics</a></li>
@@ -3207,7 +3207,166 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course26">Finite Element Analysis of Solids and Fluids I</h2>
 
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: why to study FEA</td>
+<td><span class="nobr">(<a href="6/MIT2_092F09_lec01.pdf">PDF - 7.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>The finite element analysis process</td>
+<td>(<a href="6/MIT2_092F09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Analysis of solids/structures and fluids</td>
+<td>(<a href="6/MIT2_092F09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The principle of virtual work</td>
+<td>(<a href="6/MIT2_092F09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The finite element formulation</td>
+<td>(<a href="6/MIT2_092F09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite element solution process</td>
+<td>(<a href="6/MIT2_092F09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Finite element solution process, cont'd</td>
+<td>(<a href="6/MIT2_092F09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Demonstration on using ADINA, part 1</td>
+<td>&nbsp;none</td>
+</tr>
+<tr class="row">
+<td>Demonstration on using ADINA, part 2</td>
+<td>&nbsp;none</td>
+</tr>
+<tr class="alt-row">
+<td>Nonlinear finite element analysis of solids and structures</td>
+<td>(<a href="6/MIT2_092F09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Heat transfer analysis</td>
+<td>(<a href="6/MIT2_092F09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Finite element analysis of heat transfer and incompressible fluid flow</td>
+<td>(<a href="6/MIT2_092F09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Physical explanation of Gauss elimination</td>
+<td>(<a href="6/MIT2_092F09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 1</td>
+<td>&nbsp;none</td>
+</tr>
+<tr class="row">
+<td>Solution of dynamic equilibrium equations</td>
+<td>(<a href="6/MIT2_092F09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Solution of dynamic equilibrium equations, cont'd</td>
+<td>(<a href="6/MIT2_092F09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Demonstration on finite element methods in ADINA; focus on student projects</td>
+<td>&nbsp;none</td>
+</tr>
+<tr class="alt-row">
+<td>Modeling for dynamic analysis and solution</td>
+<td>(<a href="6/MIT2_092F09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modeling for dynamic analysis and solution, cont'd</td>
+<td>(<a href="6/MIT2_092F09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wave propagation response</td>
+<td>(<a href="6/MIT2_092F09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Solution of the generalized eigenvalue problem</td>
+<td>(<a href="6/MIT2_092F09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2</td>
+<td>&nbsp;none</td>
+</tr>
+<tr class="row">
+<td>Solution of&nbsp;<strong>K&phi; =&nbsp;</strong>&lambda;<strong>M&phi;</strong></td>
+<td>(<a href="6/MIT2_092F09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wrap up, review</td>
+<td>&nbsp;none</td>
+</tr>
+<tr class="row">
+<td>Wrap up, review, cont'd</td>
+<td>&nbsp;none</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Using load displacement constraint (LDC) (<a href="6/HW5_LDC.in">IN</a>)</p>
+<p>Using a spring attached at the node (<a href="6/HW5_spring.idb">IDB</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Homework 1 (<a href="6/MIT2_092F09_hw1.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_sol1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2 (<a href="6/MIT2_092F09_hw2.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_sol2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 3 (<a href="6/MIT2_092F09_hw3.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_sol3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 4 (<a href="6/MIT2_092F09_hw4.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_hw4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 5 (<a href="6/MIT2_092F09_hw5.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_sol5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 6 (<a href="6/MIT2_092F09_hw6.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_hw6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 7 (<a href="6/MIT2_092F09_hw7.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_sol7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 8 (<a href="6/MIT2_092F09_hw8.pdf">PDF</a>)</td>
+<td>(<a href="6/MIT2_092F09_sol8.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Exam 1 (<a href="6/MIT2_092F09_exam1.pdf">PDF</a>), Solutions (<a href="6/MIT2_092F09_sol_exam1.pdf">PDF</a>)</p>
+<p>Exam 2 (<a href="6/MIT2_092F09_exam2.pdf">PDF</a>), Solutions (<a href="6/MIT2_092F09_sol_exam2.pdf">PDF</a>)</p>
+</br>

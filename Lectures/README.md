@@ -23,7 +23,30 @@
 <li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
-
+<li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
+<li><a href="#course2">How and Why Machines Work</a></li>
+<li><a href="#course3">Mechanics & Materials I</a></li>
+<li><a href="#course4">Mechanics and Materials II</a></li>
+<li><a href="#course5">Engineering Dynamics</a></li>
+<li><a href="#course6">Dynamics and Control I</a></li>
+<li><a href="#course7">Dynamics and Control II</a></li>
+<li><a href="#course8">Systems, Modeling, and Control II</a></li>
+<li><a href="#course9">Modeling Dynamics and Control II</a></li>
+<li><a href="#course10">Design and Manufacturing I</a></li>
+<li><a href="#course11">Design and Manufacturing II</a></li>
+<li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
+<li><a href="#course13">Hydrodynamics</a></li>
+<li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
+<li><a href="#course15">Design of Ocean Systems</a></li>
+<li><a href="#course16">Dynamics</a></li>
+<li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
+<li><a href="#course18">Systems and Controls</a></li>
+<li><a href="#course19">Wave Propagation</a></li>
+<li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
+<li><a href="#course21">Computational Ocean Acoustics</a></li>
+<li><a href="#course22">Structural Mechanics</a></li>
+<li><a href="#course23">Ship Structural Analysis & Design</a></li>
+<li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</h2>
@@ -3146,3 +3169,45 @@ MATLAB
 <p><a href="6/MIT2_086F12_quiz3_study.pdf">Quiz 3 study guide (PDF)</a><br /><a href="6/MIT2_086F12_quiz3_samples.pdf">Quiz 3 sample problems with solutions (PDF)</a></p>
 <p><a href="6/MIT2_086F12_quiz4_study.pdf">Quiz 4 study guide (PDF)</a><br /><a href="6/MIT2_086F12_quiz4_samples.pdf">Quiz 4 sample problems with solutions (PDF)</a></p>
 </br>
+<h2 id="course25">Engineering Math: Differential Equations and Linear Algebra</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">HOMEWORK&nbsp;ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="6/MIT2_087F14_Homework1.pdf">Homework 1 (PDF)</a></p>
+<ul>
+<li><a href="6/plane_fall_v3.m">MATLAB Script for Problem 9 (M)</a></li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT2_087F14_Homework2.pdf">Homework 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_087F14_Homework3.pdf">Homework 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_087F14_Homework4.pdf">Homework 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_087F14_Homework5.pdf">Homework 5 (PDF)</a></p>
+<ul>
+<li><a href="6/HW5_prob4v4.m">MATLAB Script for Problem 4 (M)</a></li>
+<li><a href="6/pendulum2.m">MATLAB Script for Problem 5B (M)</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+

@@ -19,7 +19,7 @@
 <li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
-<li><a href="#course21">The Anthropology of Cybercultures</a></li>
+<li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
 <li><a href="#course23">Technology and Culture</a></li>
 <li><a href="#course24">The Anthropology of Politics: Persuasion and Power</a></li>
@@ -2615,5 +2615,105 @@
 <p>Quiz (<a href="6/quiz.pdf">PDF</a>)</p>
 <p>Solution to Quiz (<a href="6/quiz_soln.pdf">PDF</a>)</p>
 
+</br>
+<h2 id="course21">Computational Ocean Acoustics</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Fundamentals of Ocean Acoustics</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The Acoustic Wave Equation, Integral Transforms, The Helmholtz Equation</td>
+<td>(<a href="6/lect_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sources in Unbounded and Bounded Media, Green's Functions, Green's Theorem</td>
+<td>(<a href="6/lect_32.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reflection and Transmission, Integral Transform Solution, Source in Half-spaces</td>
+<td>(<a href="6/lect_42.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ideal Waveguides, The Pekeris Waveguide</td>
+<td>(<a href="6/lect_51.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wavenumber Integration: Layer Solutions and Interface Conditions</td>
+<td>(<a href="6/lect_61.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wavenumber Integration: Global Matrix Solution</td>
+<td>(<a href="6/lect_72.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wavenumber Integration: Propagator Matrix and Invariant Embedding Solution</td>
+<td>(<a href="6/lect_81.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wavenumber Integration: Numerical Evaluation of Wavenumber Integral, Aliasing and Wrap-around</td>
+<td>(<a href="6/lect_91.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wavenumber Integration: Numerical Methods Used in Wavenumber Integration</td>
+<td><span class="nobr">(<a href="6/lect_101.pdf">PDF - 1.7 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Normal Modes: Mathematical Derivation, Model Expansion of the Green's Function</td>
+<td>(<a href="6/lect_113.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Normal Modes: Isovelocity Problem, Generalized Derivation</td>
+<td>(<a href="6/lect_121.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Normal Modes: Munk Profile, Numerical Approaches</td>
+<td>(<a href="6/lect_131.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Normal Modes: Numerical Approaches (contd.)</td>
+<td>(<a href="6/lect_141.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Normal Modes: Numerical Procedures</td>
+<td><span class="nobr">(<a href="6/lect_151.pdf">PDF - 1.5 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Normal Modes: Range-dependent Environment, Coupled Modes</td>
+<td>(<a href="6/lect_161.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Normal Modes: 3-D Environment</td>
+<td>(<a href="6/lect_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parabolic Equation: Derivation of Parabolic Equations</td>
+<td>(<a href="6/lect_181.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Parabolic Equation: Starting Fields<br />(Make Up Class)</td>
+<td>(<a href="6/lect_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parabolic Equation: Energy Conservation Problem, Solutions by FDs FEs</td>
+<td>(<a href="6/lect_201.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Doppler Shift in Waveguide<br />Reading: Kuperman&nbsp;and Schmidt "Spectral and modal representations of the Doppler-shifted field in ocean waveguides." The Journal of the Acoustical Society of America 96, no.1 (July 1994): 386-395.</td>
+<td>(<a href="6/lect_211.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Time Series Simulation, Signal and Noise</td>
+<td>(<a href="6/lect_224.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 </br>
 

@@ -6,7 +6,7 @@
 <li><a href="#course5">Engineering Dynamics</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
-<li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
+<li><a href="#course8">Systems, Modeling, and Control II</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
@@ -1118,12 +1118,235 @@
 </tbody>
 </table>
 </br>
+<h2 id="course8">Systems, Modeling, and Control II</h2>
+
+<ul>
+<li id="grid">&nbsp;Lecture 2 refers to the following MATLAB&reg; files for solving ODEs: (<a href="3/ODE.zip" data-smd-id="s108">ZIP</a>) (The ZIP file contains: shaft_w_coulomb_viscous.m, shaftcv_kernel.m, and shaftcv_solve.m files.)</li>
+</ul>
+</br>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction; mechanical elements</td>
+<td>(<a href="3/lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Solving ODEs; cruise control</td>
+<td>(<a href="3/lecture02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Laplace transforms; transfer functions; translational and rotational mechanical transfer functions</td>
+<td>(<a href="3/lecture03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electrical and electro-mechanical system transfer functions</td>
+<td>(<a href="3/lecture04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>DC motor transfer function</td>
+<td>(<a href="3/lecture05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Poles and zeros; 1st order systems</td>
+<td>(<a href="3/lecture06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2nd order systems</td>
+<td>(<a href="3/lecture07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2nd order systems (cont.)</td>
+<td>(<a href="3/lecture08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More than 2 poles; zeros; nonlinearities and linearization</td>
+<td>(<a href="3/lecture09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Examples of modeling &amp; transfer functions</td>
+<td>(<a href="3/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Block diagrams; feedback</td>
+<td>(<a href="3/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Analysis of feedback systems</td>
+<td>(<a href="3/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Stability; Routh-Hurwitz criterion</td>
+<td>(<a href="3/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stability analysis</td>
+<td>
+<p>Please see the following selections from MathWorks, Inc. "Control System Toolbox Getting Started Guide." (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://www.mathworks.com/help/pdf_doc/control/get_start.pdf">PDF - 1.8 MB</a>)</p>
+<p>Chapter 1, all<br />Chapter 2, pp. 1-9 and 23-25<br />Chapter 3, pp. 1-9, 17-20, and 32-39</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Steady state error analysis</td>
+<td>(<a href="3/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Root locus introduction</td>
+<td>(<a href="3/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Root locus example</td>
+<td>(<a href="3/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Design of transient response using root locus</td>
+<td>(<a href="3/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Positive feedback</td>
+<td>(<a href="3/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Examples of design via root locus</td>
+<td>(<a href="3/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Steady-state error compensation</td>
+<td>(<a href="3/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transient response compensation; transient and steady-state error compensation</td>
+<td>(<a href="3/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Compensation examples</td>
+<td>(<a href="3/lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Feedback compensation and its physical realization</td>
+<td>(<a href="3/lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Feedback design examples</td>
+<td>(<a href="3/lecture26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Frequency response; bode plots</td>
+<td>(<a href="3/lecture28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bode plot examples</td>
+<td>(<a href="3/29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gain margin and phase margin</td>
+<td>(<a href="3/lecture30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Design using the frequency response; lead, lag, lead-lag compensators</td>
+<td>(<a href="3/lecture31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The state-space representation</td>
+<td>(<a href="3/lecture32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Solving the state equations in the time and space domains</td>
+<td>(<a href="3/lecture33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>State equation examples</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Stability and steady-state error in state space; controllability and observability</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Optimal control; the minimum time problem</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Review: modeling and transfer functions</td>
+<td>(<a href="3/lecture37.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review: root locus, feedback design</td>
+<td>(<a href="3/lecture38.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review: frequency domain and design</td>
+<td>(<a href="3/lecture39.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
 
-
-
-
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="3/ps01.pdf">PDF</a>)</td>
+<td>(<a href="3/sol01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="3/ps02.pdf">PDF</a>)</td>
+<td>(<a href="3/sol02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="3/ps03.pdf">PDF</a>)</td>
+<td>(<a href="3/sol03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="3/ps04.pdf">PDF</a>)</td>
+<td>(<a href="3/sol04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="3/ps05.pdf">PDF</a>)</td>
+<td>(<a href="3/sol05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="3/ps06.pdf">PDF</a>)</td>
+<td>(<a href="3/sol06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="3/ps07.pdf">PDF</a>)</td>
+<td>(<a href="3/sol07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 8 (<a href="3/ps08.pdf">PDF</a>)</td>
+<td>(<a href="3/sol08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 9 (<a href="3/ps09.pdf">PDF</a>)</td>
+<td>(<a href="3/sol09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 10 (<a href="3/ps10.pdf">PDF</a>)</td>
+<td>(<a href="3/sol10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 

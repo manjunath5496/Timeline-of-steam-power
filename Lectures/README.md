@@ -424,6 +424,223 @@
 </br>
 <h2 id="course4">Mechanics and Materials II</h2>
 
+<table class="tablewidth50" summary="calendar">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Elasticity and Solid Mechanics</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Course Outline<br /><br />Material Behavior under Uniaxial Loading<br /><br />Displacement and Strain<br /><br />Stress and Equilibrium<br /><br />Stress-&shy;strain</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Applications: Beam Bending, Buckling and Vibration</td>
+<td headers="col3">(<a href="1/lec2.pdf">PDF 1</a>)<br /><br />(<a href="1/lec2a.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Mechanisms of Elasticity and Viscoelasticity</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab 1: Beam Bending, Buckling and Vibration</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">3-D Linear Thermo-elasticity: Strain-displacement, Stress-strain-temperature, and Stress-equilibrium&nbsp;</td>
+<td headers="col3">(<a href="1/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Simple States of Elastic Stress, Strain, and Displacement&nbsp;</td>
+<td headers="col3"><br />(<a href="1/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lab 2: Engineering Polymers: Viscoelasticity, Strength, and Ductility</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Limits to Elasticity: Strength&nbsp;and Multi&shy;-axial Yield Condition<br /><br />Boundary Conditions and Boundary Value Problems</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Elasticity of Composite Materials<br />Applications</td>
+<td headers="col3">(<a href="1/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab 3: Stress Concentration</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Plasticity and Creep</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Uniaxial Elastic&shy;-plastic Behavior<br />Elastic-&shy;plastic Beam&shy;-bending</td>
+<td headers="col3">(<a href="1/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ideal Shear Strength<br /><br />Dislocations</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab 4: Sheet Bending</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Strengthening Mechanisms<br />Strain Hardening</td>
+<td headers="col3">(<a href="1/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Limit Analysis</td>
+<td headers="col3">(<a href="1/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lab 5: Heat Treatment</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Applications of Limit Analysis</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quiz I</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">High&shy;-temperature Deformation: Creep and Stress Relaxation</td>
+<td headers="col3">(<a href="1/lec14.pdf">PDF 1</a>)<br /><br />(<a href="1/lec14a.pdf">PDF 2</a>)<br /><br />(<a href="1/lec14b.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">High-temperature Deformation Mechanisms<br /><br />Resisting Creep</td>
+<td headers="col3">(<a href="1/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab&nbsp;6: Project 1</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Fracture</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Ideal Cleavage Strength<br /><br />Stress Concentration and Cracks&nbsp;</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Crack-tip Stress Intensity Factors<br />Critical Stress Intensity&nbsp;</td>
+<td headers="col3">(<a href="1/lec17_ex_prob.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab&nbsp;7: Fracture Toughness</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Linear Elastic Fracture Mechanics (LEFM)&nbsp;</td>
+<td headers="col3">(<a href="1/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Applications of LEFM</td>
+<td headers="col3">(<a href="1/lec19_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lab 8: Project 2</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Fatigue</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fatigue Crack Propagation<br />Defect-tolerant Fatigue Design and Maintenance&nbsp;</td>
+<td headers="col3">(<a href="1/lec20_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Defect-free Fatigue Design: High-&shy;cycle Fatigue&nbsp;</td>
+<td headers="col3">(<a href="1/lec21_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Defect&shy;-free Fatigue Design: Low-cycle Fatigue&nbsp;</td>
+<td headers="col3">(<a href="1/lec22_ex_prob.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab 9: Project 3</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Applications: Strain-amplitude/Fatigue-life Behavior<br /><br />Notch Effects in High-cycle Fatigue</td>
+<td headers="col3"><em>Supporting Files<br /><br /></em>lec23_monocyclicro.m (<a href="1/lec23_monocyclicro.m">M</a>)<br /><br />lec23_notchfatigue.m (<a href="1/lec23_notchfatigue.m">M</a>)<br /><br />lec23_strainlife.m (<a href="1/lec23_strainlife.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Quiz II&nbsp;</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lab 10: Project Presentations</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Material Selection for Design</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Principles for Material Selection:&nbsp;Performance, Properties, and Constraints</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Optimization<br /><br />Material Indices of Merit</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lab 11: Course Review (Optional)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Final Exam</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
-
+<table class="tablewidth50" summary="assignments">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">ASSIGNMENTS</th>
+<th id="col3" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Homework 1&nbsp;(<a href="1/hw1.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="1/hw1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;2 (<a href="1/hw2.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="1/hw2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework&nbsp;3 (<a href="1/hw3.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="1/hw3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;4 (<a href="1/hw4.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="1/hw4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework&nbsp;5 (<a href="1/hw5.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="1/hw5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;6 (<a href="1/hw6.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="1/hw6_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Practice&nbsp;Exam I&nbsp;(<a href="1/practice_quiz1.pdf">PDF</a>)</p>
+<p>Solution for&nbsp;Practice Exam&nbsp;I (<a href="1/practice_q1_sol.pdf">PDF</a>)</p>
+<p>Practice Exam II&nbsp;(<a href="1/practice_quiz2.pdf">PDF</a>)</p>
+<p>Quiz I Solution&nbsp;(<a href="1/quiz1_sol.pdf">PDF</a>)</p>
+<p>Quiz II Solution (<a href="1/quiz2_sol.pdf">PDF</a>)</p>
+</br>

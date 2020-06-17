@@ -3723,46 +3723,46 @@ MATLAB
 </thead>
 <tbody>
 <tr class="row">
-<td>Lecture 1 (<a href=7/lecnotes1_fixed.pdf">PDF</a>)</td>
+<td>Lecture 1 (<a href="7/lecnotes1_fixed.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 2 (<a href=7/lecnotes2.pdf">PDF</a>)</td>
+<td>Lecture 2 (<a href="7/lecnotes2.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Lecture 3 (<a href=7/lecnotes3.pdf">PDF</a>)</td>
+<td>Lecture 3 (<a href="7/lecnotes3.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 4 and 5 (<a href=7/lecnotes45.pdf">PDF</a>)</td>
+<td>Lecture 4 and 5 (<a href="7/lecnotes45.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Lecture 6 (<a href=7/lecnotes6.pdf">PDF</a>)</td>
+<td>Lecture 6 (<a href="7/lecnotes6.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 8 (<a href=7/lecnotes8_fixed.pdf">PDF</a>)</td>
+<td>Lecture 8 (<a href="7/lecnotes8_fixed.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Lecture 9 (<a href=7/lecnotes9_fixed.pdf">PDF</a>)</td>
+<td>Lecture 9 (<a href="7/lecnotes9_fixed.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 10-12 (<a href=7/lecnotes10.pdf">PDF</a>)</td>
+<td>Lecture 10-12 (<a href="7/lecnotes10.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Lecture 13 (<a href=7/lecnotes13.pdf">PDF</a>)</td>
+<td>Lecture 13 (<a href="7/lecnotes13.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 14 and 15 (<a href=7/lecnotes14_fixed.pdf">PDF</a>)</td>
+<td>Lecture 14 and 15 (<a href="7/lecnotes14_fixed.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Lecture 19 (<a href=7/lecnotes19.pdf">PDF</a>)</td>
+<td>Lecture 19 (<a href="7/lecnotes19.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 20 (<a href=7/lecnotes20_fixed.pdf">PDF</a>)</td>
+<td>Lecture 20 (<a href="7/lecnotes20_fixed.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Lecture 21 (<a href=7/lecnotes21.pdf">PDF</a>)</td>
+<td>Lecture 21 (<a href="7/lecnotes21.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Lecture 23 (<a href=7/lecnotes23.pdf">PDF</a>)</td>
+<td>Lecture 23 (<a href="7/lecnotes23.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>

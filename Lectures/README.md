@@ -1065,7 +1065,7 @@
 </tbody>
 </table>
 </br>
-<p>Problem Set 2 refers to the spec sheet for the Maxon motor, here (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/DC-Das-wichtigste-ueber-maxonmotoren_11_DE-EN_ES_036-1.pdf">PDF</a>)</p>
+<p>Problem Set 2 refers to the spec sheet for the Maxon motor, here (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/8804419338270.pdf">PDF</a>)</p>
 </br>
 <table class="tablewidth50" summary="See table caption for summary.">
 <thead>

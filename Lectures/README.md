@@ -22,7 +22,7 @@
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
-<li><a href="#course24">The Anthropology of Politics: Persuasion and Power</a></li>
+<li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -2993,4 +2993,156 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course24">Numerical Computation for Mechanical Engineers</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TEXTBOOK UNITS</th>
+<th scope="col">READING&nbsp;ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="6/MIT2_086S13_Textbook.pdf" name="textbook">Entire Textbook as a Single File (PDF - 29.0MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_086S13_Unit1_Textbook.pdf">Unit I. (Numerical) Calculus; Elementary Programming Concepts (PDF - 2.6MB)</a></p>
+<ul>
+<li>Chapter 1: Motivation</li>
+<li>Chapter 2: Interpolation</li>
+<li>Chapter 3: Differentiation</li>
+<li>Chapter 4: Elements of a Program and MATLAB Basics</li>
+<li>Chapter 5: MATLAB Arrays</li>
+<li>Chapter 6: Functions in MATLAB</li>
+<li>Chapter 7: Integration</li>
+</ul>
+</td>
+<td>
+<p>Math and Numerics</p>
+<ul>
+<li>Chapter 1</li>
+<li>Sections 2.1, 3.1, and 7.1</li>
+</ul>
+<p>MATLAB</p>
+<ul>
+<li>Chapter 4</li>
+<li>Sections 5.1, 5.2, and 5.4</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_086S13_Unit2_Textbook.pdf">Unit II. Monte Carlo Methods (PDF - 1.9MB)</a></p>
+<ul>
+<li>Chapter 8: Introduction</li>
+<li>Chapter 9: Introduction to Random Variables</li>
+<li>Chapter 10: Statistical Estimation: Bernoulli (Coins)</li>
+<li>Chapter 11: Statistical Estimation: The Normal Density</li>
+<li>Chapter 12: Monte Carlo: Areas and Volumes</li>
+<li>Chapter 13: Monte Carlo: General Integration Procedures</li>
+<li>Chapter 14: Montel Carlo: Failure Probabilities</li>
+</ul>
+</td>
+<td>
+<p>Math and Numerics</p>
+<ul>
+<li>Chapters 8, 9, 10, 11, and 12</li>
+</ul>
+<p>MATLAB</p>
+<ul>
+<li>Sections 6.1&ndash;6.4, and 5.3</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_086S13_Unit3_Textbook.pdf">Unit III. Linear Algebra 1: Matrices and Least Squares; Regression (PDF - 2.3MB)</a></p>
+<ul>
+<li>Chapter 15: Motivation</li>
+<li>Chapter 16: Matrices and Vectors: Definitions and Operations</li>
+<li>Chapter 17: Least Squares</li>
+<li>Chapter 18: MATLAB Linear Algebra (Briefly)</li>
+<li>Chapter 19: Regression: Statistical Inference</li>
+</ul>
+</td>
+<td>
+<p>Math and Numerics</p>
+<ul>
+<li>Chapters 11, 15, 16, 17, and 19</li>
+</ul>
+<p>MATLAB</p>
+<ul>
+<li>Chapter 18</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_086S13_Unit4_Textbook.pdf">Unit IV. (Numerical) Differential Equations&nbsp;<span class="nobr">(PDF - 1.1MB)</span></a></p>
+<ul>
+<li><span class="nobr">Chapter 20: Motivation</span></li>
+<li><span class="nobr">Chapter 21: Initial Value Problems</span></li>
+<li>Chapter 22: Boundary Value Problems</li>
+<li>Chapter 23: Partial Differential Equations</li>
+</ul>
+</td>
+<td>
+<p>Math and Numerics</p>
+<ul>
+<li>Chapter 20</li>
+<li>Sections 21.1.1&ndash;21.1.5, and 21.2</li>
+</ul>
+<p>MATLAB:</p>
+<ul>
+<li>Section 6.5&ndash;6.6</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="6/MIT2_086S13_Unit5_Textbook.pdf">Unit V. (Numerical) Linear Algebra 2: Solution of Linear Systems (PDF - 13.7MB)</a></p>
+<ul>
+<li>Chapter 24: Motivation</li>
+<li>Chapter 25: Linear Systems</li>
+<li>Chapter 26: Gaussian Elimination and Back Substitution</li>
+<li>Chapter 27: Gaussian Elimination: Sparse Matrices</li>
+<li>Chapter 28: Sparse Matrices in MATLAB</li>
+</ul>
+</td>
+<td>
+<p>Math and Numerics:</p>
+<ul>
+<li>Chapters 24, 25, 26, and 27</li>
+</ul>
+MATLAB
+<ul>
+<li>Chapter 28</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="6/MIT2_086S13_Unit6_Textbook.pdf">Unit VI: Nonlinear Equations (PDF)</a></p>
+<ul>
+<li>Chapter 29: Newton Iteration</li>
+</ul>
+</td>
+<td>
+<p>Math and Numerics and MATLAB</p>
+<ul>
+<li>Chapter 29</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="6/MIT2_086F12_quiz1_study.pdf">Quiz 1 study guide (PDF)</a><br /><a href="6/MIT2_086F12_quiz1_samples.pdf">Quiz 1 sample problems with solutions (PDF)</a></p>
+<p><a href="6/MIT2_086F12_quiz2_study.pdf">Quiz 2 study guide (PDF)</a><br /><a href="6/MIT2_086F12_quiz2_samples.pdf">Quiz 2 sample problems with solutions (PDF)</a></p>
+<p><a href="6/MIT2_086F12_quiz3_study.pdf">Quiz 3 study guide (PDF)</a><br /><a href="6/MIT2_086F12_quiz3_samples.pdf">Quiz 3 sample problems with solutions (PDF)</a></p>
+<p><a href="6/MIT2_086F12_quiz4_study.pdf">Quiz 4 study guide (PDF)</a><br /><a href="6/MIT2_086F12_quiz4_samples.pdf">Quiz 4 sample problems with solutions (PDF)</a></p>
 </br>

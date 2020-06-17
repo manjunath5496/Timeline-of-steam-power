@@ -13,7 +13,7 @@
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
-<li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
+<li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">The Conquest of America</a></li>
 <li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
 <li><a href="#course18">The Anthropology of Sound</a></li>
@@ -2067,3 +2067,78 @@
 </tbody>
 </table>
 </br>
+<h2 id="course15">Design of Ocean Systems</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>N/A</td>
+</tr>
+<tr class="alt-row">
+<td>Ship Design Tool: PARAMARINE&trade;</td>
+<td>N/A</td>
+</tr>
+<tr class="row">
+<td>Ship Hydrostatics and Structures</td>
+<td>(<a href="5/MIT2_019S11_HydStr1.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ship Hydrostatics and Structures (cont.)</td>
+<td>N/A</td>
+</tr>
+<tr class="row">
+<td>Seakeeping</td>
+<td>(<a href="5/MIT2_019S11_SK1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Seakeeping (cont.)</td>
+<td>(<a href="5/MIT2_019S11_SK2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Seakeeping (cont.)</td>
+<td>(<a href="5/MIT2_019S11_SK3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Seakeeping (cont.)</td>
+<td>(<a href="5/MIT2_019S11_SK4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Drift Loads/Motions</td>
+<td>(<a href="5/MIT2_019S11_DVL1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Slowly-Varying Loads/Motions</td>
+<td rowspan="2">(<a href="5/MIT2_019S11_DVL2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Slowly-Varying Loads/Motions (cont.)</td>
+</tr>
+<tr class="row">
+<td>Ocean Environment</td>
+<td rowspan="2">(<a href="5/MIT2_019S11_OWE.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ocean Environment (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Mooring Dynamics</td>
+<td>(<a href="5/MIT2_019S11_MD1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mooring Dynamics (cont.)</td>
+<td>(<a href="5/MIT2_019S11_MD2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mooring Design</td>
+<td>(<a href="5/MIT2_019S11_MD3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+

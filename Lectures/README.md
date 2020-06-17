@@ -8,7 +8,7 @@
 <li><a href="#course7">Dynamics and Control II</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
-<li><a href="#course10">Law and Society</a></li>
+<li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
 <li><a href="#course12">Race and Science</a></li>
 <li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
@@ -1394,4 +1394,241 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Design and Manufacturing I</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col" width="50%">TOPICS</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course introduction, contest overview</td>
+<td>
+<p>(<a href="3/MIT2_007s09_lec01.pdf">PDF 1 - 1.5MB</a>)</p>
+<p>(<a href="3/MIT2_007s09_lec01_EVT.pdf">PDF 2</a>) (Courtesy of MIT Electric Vehicle Team. Used with permission.)</p>
+<p>(<a href="3/MIT2_007s09_lec01_FSAE.pdf">PDF 3</a>) (Courtesy of Justin Negrete. Used with permission.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Problem definition and design</td>
+<td>(<a href="3/MIT2_007s09_lec02.pdf">PDF - 4.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Actuators &ndash; DC motors, servomotors, pneumatics</td>
+<td>(<a href="3/MIT2_007s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Creating CAD components 1</td>
+<td>(<a href="3/MIT2_007s09_lec04.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Creating CAD components 2</td>
+<td>(<a href="3/MIT2_007s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mechanisms (2D kinematic analysis)</td>
+<td>(<a href="3/MIT2_007s09_lec06.pdf">PDF - 2.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Creating CAD assemblies</td>
+<td>(<a href="3/MIT2_007s09_lec07.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mechanisms (synthesis of 4 bar mechanisms)</td>
+<td>(<a href="3/MIT2_007s09_lec08.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Creating CAD assemblies 2</td>
+<td>
+<p>CAD Parts (to assemble):<br />SW2008 (<a href="3/lec09_parts.zip">ZIP</a>) (This ZIP file contains: 5 .sldprt files and 1 .sldasm file),<br />SW2007 (<a href="3/lec09_parts07.zip">ZIP</a>) (This ZIP file contains: 5 .sldprt files and 1 .sldasm file)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Creating CAD drawings</td>
+<td>Servo Mount (to draw):<br />SW2008/SW2007 (<a href="3/servomount.SLDPRT">SLDPRT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gears &ndash; basics, terminology, involute curve</td>
+<td>Original (<a href="3/MIT2_007s09_lec12.pdf">PDF - 1.2MB</a>), Annotated (<a href="3/MIT2_007s09_lec12_note.pdf">PDF - 1.2MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Gears &ndash; strength, gear trains</td>
+<td>Original (<a href="3/MIT2_007s09_lec13.pdf">PDF - 1.3MB</a>), Annotated (<a href="3/MIT2_007s09_lec13_note.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Microcontrollers</td>
+<td>Original (<a href="3/MIT2_007s09_lec14.pdf">PDF</a>), Annotated (<a href="3/MIT2_007s09_lec14_note.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lab time</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Sensors</td>
+<td>Original (<a href="3/MIT2_007s09_lec16.pdf">PDF</a>), Annotated (<a href="3/MIT2_007s09_lec16_note.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lab time</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Belts / chains / cams</td>
+<td>(<a href="3/MIT2_007s09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Lab time</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Optimization</td>
+<td>(<a href="3/MIT2_007s09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Professional ethics</td>
+<td>(<a href="3/MIT2_007s09_lec22.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Review of festivity procedures</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>A review of this year's machines</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Course summary / feedback</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEMS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Design process and machine elements (<a href="3/MIT2_007s09_hw01.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT2_007s09_sol_hw01.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Servomotors, mechanisms, and CAD (<a href="3/MIT2_007s09_hw02.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT2_007s09_sol_hw02.pdf">PDF</a>)</td>
+<td>Window mechanism:<br />SW2008 (<a href="3/window08.SLDPRT">SLDPRT</a>),<br />SW2007 (<a href="3/window07.SLDPRT">SLDPRT</a>)</td>
+</tr>
+<tr class="row">
+<td>Pneumatics, CAD, and gears (<a href="3/MIT2_007s09_hw03.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT2_007s09_sol_hw03.pdf">PDF</a>)</td>
+<td>
+<p>Chamber:<br />SW2008 (<a href="3/chamber08.SLDPRT">SLDPRT</a>),<br />SW2007 (<a href="3/chamber07.SLDPRT">SLDPRT</a>)</p>
+<p>Gears:<br />12-tooth (<a href="3/12tooth.dxf">DXF</a>),<br />24-tooth (<a href="3/24tooth.dxf">DXF</a>),<br />48-tooth(<a href="3/48tooth.dxf">DXF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2 concepts (<a href="3/MIT2_007s09_hw04.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p>Exam 1: Drawing, CAD, Motors, Pneumatics, and Mechanisms with Solutions (<a href="3/MIT2_007s09_sol_exam01.pdf">PDF</a>)</p>
+<ul>
+<li>Practice Exam A (<a href="3/MIT2_007s09_exam01A.pdf">PDF</a>), Solutions (<a href="3/MIT2_007s09_sol_exam01A.pdf">PDF</a>)</li>
+<li>Practice Exam B (<a href="3/MIT2_007s09_exam01B.pdf">PDF</a>), Solutions (<a href="3/MIT2_007s09_sol_exam01B.pdf">PDF</a>)</li>
+</ul>
+<p>Exam 2: Gears, Springs, Sensors, Programming, Drawing, etc. with Solutions (<a href="3/MIT2_007s09_sol_exam02.pdf">PDF</a>)</p>
+<ul>
+<li>Practice Exam A (<a href="3/MIT2_007s09_exam02A.pdf">PDF</a>), Solutions (<a href="3/MIT2_007s09_sol_exam02A.pdf">PDF</a>)</li>
+</ul>
+</br>
+
+
+<h2 class="subhead">Parts and Equipment</h2>
+<p>Project Kit List (<a href="3/MIT2_007s09_kit.pdf">PDF</a>)<br />SolidWorks Parts Archive (<a href="3/parts09.zip">ZIP</a>) (This ZIP file contains: 36 .sldprt files, 1 .rpt file, 1 .xlo file, 1 .igs file and 1 .sldasm file.)<br />Notes on Lithium Polymer Batteries (<a href="3/MIT2_007s09_LiPo.pdf">PDF</a>)</p>
+<h2 class="subhead">Milestones</h2>
+</br>
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LAB&nbsp;ACTIVITIES</th>
+<th scope="col">MILESTONES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Explore kit&nbsp;&amp; contest&nbsp;(<a href="3/MIT2_007s09_f01.pdf">PDF</a>)</td>
+<td>Kit and contest exploration (<a href="3/MIT2_007s09_m01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Build a simple car &amp; preliminary strategy&nbsp;(<a href="3/MIT2_007s09_f02.pdf">PDF</a>)</td>
+<td>Develop strategy and work toward final car design (<a href="3/MIT2_007s09_m02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Design concept&nbsp;(<a href="3/MIT2_007s09_f03.pdf">PDF</a>)</td>
+<td>Develop concept and finalize car design (<a href="3/MIT2_007s09_m03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Design of&nbsp;most critical module&nbsp;(<a href="3/MIT2_007s09_f04.pdf">PDF</a>)</td>
+<td>Design MCM and build final car (<a href="3/MIT2_007s09_m04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td rowspan="2">Fabrication of&nbsp;most critical&nbsp;module&nbsp;(<a href="3/MIT2_007s09_f05.pdf">PDF</a>)</td>
+<td>Fabricate MCM (<a href="3/MIT2_007s09_m05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Complete MCM fabrication (<a href="3/MIT2_007s09_m06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Demonstration of most critical module (<a href="3/MIT2_007s09_f06.pdf">PDF</a>)</td>
+<td>Demonstration of MCM (<a href="3/MIT2_007s09_m07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integration of design (<a href="3/MIT2_007s09_f07.pdf">PDF</a>)</td>
+<td>Completion plan (<a href="3/MIT2_007s09_m08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Demonstration of integrated machine (<a href="3/MIT2_007s09_f08.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Design iteration (<a href="3/MIT2_007s09_f09.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Fabrication of improved machine (<a href="3/MIT2_007s09_f10.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Demonstration of improved machine</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Final refinements</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Debriefs with section&nbsp;(<a href="3/MIT2_007s09_f11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>

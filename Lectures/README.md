@@ -16,7 +16,7 @@
 <li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
-<li><a href="#course18">The Anthropology of Sound</a></li>
+<li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
 <li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
 <li><a href="#course21">The Anthropology of Cybercultures</a></li>
@@ -2272,3 +2272,117 @@
 <p>Exam (<a href="5/finalexam.pdf">PDF</a>)</p>
 <p>Solutions (<a href="5/finalexam_sol.pdf">PDF</a>)</p>
 </br>
+<h2 id="course18">Systems and Controls</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES AND HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction to the class</p>
+<p>From the physical model to the ordinary differential equation (ODE)</p>
+</td>
+<td><a href="5/MIT2_04AS13_Lecture1.pdf">Lecture 1 Slides (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;order system behavior (from the ODE)</td>
+<td><a href="5/MIT2_04AS13_Lecture2.pdf">Lecture 2 Slides (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td>Translation and rotational mechanical system (in the flywheel)</td>
+<td>
+<p><span class="nobr"><a href="5/MIT2_04AS13_Lecture3.pdf">Lecture 3 (+ Lab) Slides (PDF - 1.4MB)</a></span></p>
+<p><a href="5/MIT2_04AS13_LabReading.pdf">Description of the Experimental Rotational Plant (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Laplace transform, solving ODEs</td>
+<td><a href="5/MIT2_04AS13_Lecture4.pdf">Lecture 4 Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Transfer functions, poles, zeros</p>
+<p>Observation of behavior based on transfer functions in the flywheel</p>
+</td>
+<td><a href="5/MIT2_04AS13_Lecture5.pdf">Lecture 5 (+ Lab) Slides (PDF - 1.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Electrical elements R, L, C, op-amp</p>
+<p>The DC motor and its dynamics</p>
+</td>
+<td><span class="nobr"><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="5/MIT2_04AS13_Lecture6.pdf">Lecture 6 (+ Lab) Slides (PDF - 1.6MB)</a></span></td>
+</tr>
+<tr class="row">
+<td>1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;order system characteristics: theory</td>
+<td><span class="nobr"><a href="5/MIT2_04AS13_Lecture7.pdf">Lecture 7 Slides (PDF - 1.6MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;order systems: observation on the flywheel</td>
+<td><a href="5/MIT2_04AS13_Lecture8.pdf">Lecture 8 (+ Lab) Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Feedback TF, MATLAB<sup>&copy;</sup>&nbsp;LTI, and SISO tools</p>
+<p>Root locus (concept and observation)</p>
+</td>
+<td>
+<p><span class="nobr"><a href="5/MIT2_04AS13_Lecture9.pdf">Lecture 9 (+ Lab) Slides (PDF - 2.0MB)</a></span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Drawing root locus (part I: theory)</td>
+<td>
+<p><a href="5/MIT2_04AS13_Lecture10.pdf">Lecture 10 Slides (PDF - 1.9MB)</a></p>
+<p><a href="5/MIT2_04AS13_SuppLecture10.pdf">Supplement to Lecture 10 (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Drawing root locus (part II: MATLAB and flywheel)</p>
+<p>Introduction to the class project, team arrangements</p>
+</td>
+<td>
+<p><span class="nobr"><a href="5/MIT2_04AS13_Lecture11.pdf">Lecture 11 (+ Lab) Slides (PDF - 1.8MB)</a></span></p>
+<p><a href="5/MIT2_04AS13_ClassProject.pdf">Description of the Class Project (PDF - 1.2MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>P control-flywheel modeling</td>
+<td><a href="5/MIT2_04AS13_Lecture12.pdf">Lecture 12 Slides (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td>P control on the flywheel-effect of gain</td>
+<td><span class="nobr"><a href="5/MIT2_04AS13_Lecture13.pdf">Lecture 13 (+ Lab) Slides (PDF - 2.5MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>PI control on the flywheel-steady state error</td>
+<td><a href="5/MIT2_04AS13_Lecture14.pdf">Lecture 14 (+ Lab) Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Practice on root locus and P-control</td>
+<td>No Slides (blackboard only)</td>
+</tr>
+<tr class="alt-row">
+<td>PID control: speeding up and stabilization</td>
+<td><a href="5/MIT2_04AS13_Lecture16-17.pdf">Lecture 16 &amp; 17 (+ Lab) Slides (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td>Control of an Inverted pendulum</td>
+<td>
+<p>No Slides</p>
+<p><a href="5/MIT2_04AS13_Lecture18.pdf">Supplement to Lectures 18 &amp; 19 (+ Lab) (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="5/MIT2_04AS13_PID_template.m">Tower SISO PID Controller: MATLAB Template (M)</a></p>
+</br>
+
+
+

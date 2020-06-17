@@ -9,7 +9,7 @@
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
-<li><a href="#course11">Gender, Sexuality, and Society</a></li>
+<li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Race and Science</a></li>
 <li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
 <li><a href="#course14">Culture, Embodiment and the Senses</a></li>
@@ -1632,3 +1632,135 @@
 </tbody>
 </table>
 </br>
+<h2 id="course11">Design and Manufacturing II</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction, Overview Lab Section Selection (<a href="3/01introduction_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Process Planning CAD/CAM (<a href="3/02_cad_cam_6.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Design for Manufacturing (<a href="3/03sys_design_f_6.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Polymer Processing (<a href="3/04_polymer_1_6_f.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Injection Molding (<a href="3/05polymer_2_6f1.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Thermoforming Casting (<a href="3/06polymer_3_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Cutting I Tools and Fixtures (<a href="3/07cutting_1_6_f.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Cutting II Machine Tools/Fixtures Precision Engineering (<a href="3/08cutting_2_6_f.pdf">PDF - 2.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Joining I Assembly (<a href="3/09assemnjoin_6f1.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Joining II DFA (<a href="3/10weldnjoin_6f.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">MEMS (<a href="3/11mems_1_6_f.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Micro/Nano Manufacturing (<a href="3/12tinyprod_6_f_1.pdf">PDF 1 of 2&nbsp;- 1.0 MB</a>) (<a href="3/12tinyprod_6_f_2.pdf">PDF 2 of 2 - 2.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Metal Forming (<a href="3/13deforming.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Manufacturing Cost (<a href="3/14_cost.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Quality/Control I (<a href="3/15quality.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quality/Control II (<a href="3/16process_ctrl.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Manufacturing Systems I (<a href="3/17manufact_sys.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Manufacturing Systems II (<a href="3/18manufact_sys2.pdf">PDF - 1.3 MB</a>) (Courtesy of Prof. Stanley B. Gershwin. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Metal Casting (<a href="3/19casting.pdf">PDF</a>)<br /><br />Plant Tour</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Plant Tour</td>
+</tr>
+<tr class="row">
+<td headers="col2">Environment Issues in Manufacturing</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Advances in Manufacturing I</td>
+</tr>
+<tr class="row">
+<td headers="col2">Advances in Manufacturing II</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Presentations<br /><br />End of Class</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<ul>
+<li class="maintabletemplate">&nbsp;Quiz I (<a href="3/quiz1_sol.pdf">PDF</a>)</li>
+</ul>
+</br>
+
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>PROBLEM SETS</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="3/H1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="3/H2.pdf">PDF</a>)</td>
+<td>Problem Set 2 Solutions (<a href="3/H2sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="3/H3.pdf">PDF</a>)</td>
+<td>Problem Set 3 Solutions (<a href="3/H3sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="3/H4.pdf">PDF</a>)</td>
+<td>Problem Set 4 Solutions (<a href="3/H4sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="3/H5.pdf">PDF</a>)</td>
+<td>Problem Set 5 Solutions (<a href="3/h5sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="3/H6.pdf">PDF</a>)</td>
+<td>Problem Set 6 Solutions (<a href="3/h6sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="3/H7.pdf">PDF</a>)</td>
+<td>Problem Set 7 Solutions (<a href="3/h7sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+

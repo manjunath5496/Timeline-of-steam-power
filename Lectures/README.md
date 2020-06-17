@@ -35,7 +35,7 @@
 <li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
 <li><a href="#course35">Marine Hydrodynamics</a></li>
 <li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
-<li><a href="#course13">Hydrodynamics</a></li>
+<li><a href="#course37">Advanced Fluid Mechanics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">Dynamics</a></li>
@@ -4535,5 +4535,69 @@ MATLAB
 
 </br>
 
+<h2 id="course37">Advanced Fluid Mechanics</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES&nbsp;AND&nbsp;EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="8/MIT2_25F13_Quiz1.pdf">Quiz 1 (PDF)</a></td>
+<td><a href="8/MIT2_25F13_SolQuiz1.pdf">Solutions to Quiz 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT2_25F13_Quiz2.pdf">Quiz 2 (PDF)</a></td>
+<td><span class="nobr"><a href="8/MIT2_25F13_SolQuiz2.pdf">Solutions to Quiz 2 (PDF - 1.2MB)</a></span></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="8/MIT2_25F13_FinalExam.pdf">Final Exam (PDF)</a></p>
+<p><span class="nobr"><a href="8/MIT2_25F13_EquationSheet.pdf">Equation Sheet for Final Exam (PDF)</a></span></p>
+</td>
+<td><span class="nobr"><a href="8/MIT2_25F13_SolFinalExam.pdf">Solutions to the Final Exam (PDF - 1.1MB)</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Class Notes</h2>
+<ul>
+<li><a href="8/MIT2_25F13_OverviewofLag.pdf">Overview of Lagrangian and Eulerian Descriptions (PDF)</a></li>
+<li><a href="8/MIT2_25F13_Geometric_Inte.pdf">Geometric Interpretation of Fluid Kinematics In Steady Shear Flow (PDF)</a></li>
+<li><a href="8/MIT2_25F13_The_cont_equa.pdf">The Continuity Equation: Conservation of Mass for a Fluid Element (PDF)</a></li>
+<li><a href="8/MIT2_25F13_Solid_Body_Ro.pdf">Solid Body Rotation, Extra Notes (PDF)</a></li>
+</ul>
+<h2 class="subhead">Videos Seen During Class</h2>
+<ul>
+<li><a href="https://youtu.be/mdN8OOkx2ko">Eulerian Lagrangian Description video</a>&nbsp;and&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/01ELDFM.pdf">Film Notes (PDF)</a></li>
+<li><a href="https://youtu.be/nuQyKGuXJOs">Flow Visualization Video</a>&nbsp;and&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="8/05FV.pdf">Film Notes (PDF - 1.1MB)</a></li>
+</ul>
+<h2 class="subhead">Assignment</h2>
+<h3 class="subsubhead">Problem Set 1</h3>
+<div class="maintabletemplate">
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="8/MIT2_25F13_Part_Kinemat.pdf">Particle Kinematics (PDF)</a></td>
+<td><a href="8/MIT2_25F13_Part_Kine_Solu.pdf">Solutions to Particle Kinematics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="8/MIT2_25F13_Problem_1.00.pdf">Problem 1.00 (PDF)</a></td>
+<td><a href="8/MIT2_25F13_1.00_Solution.pdf">Solutions to Problem 1.00 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="8/MIT2_25F13_Vector_Problem.pdf">Vector Calculus Review Problems (PDF)</a></td>
+<td><a href="8/MIT2_25F13_vec_cal_re_pro.pdf">Solutions to Vector Calculus Review Problems (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>

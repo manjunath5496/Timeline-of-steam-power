@@ -45,7 +45,7 @@
 <li><a href="#course44">Optical Engineering</a></li>
 <li><a href="#course45">Elements of Mechanical Design</a></li>
 <li><a href="#course46">Precision Machine Design</a></li>
-<li><a href="#course23">Ship Structural Analysis & Design</a></li>
+<li><a href="#course47">Multi-Scale System Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 </ul>
 <p>&nbsp;</p>
@@ -5427,3 +5427,128 @@ MATLAB
 <li>Milestones (<a href="10/milestones.pdf">PDF - 1.8 MB</a>)</li>
 </ul>
 </br>
+<h2 id="course47">Multi-Scale System Design</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">SESSION CATEGORIES</th>
+<th id="col4" scope="col">INSTRUCTORS</th>
+<th id="col5" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2"><em>Introduction to MuSS and SPM Case Study</em><br /><br />Course Goals, Logistics and Expectations<br /><br />Comparison of MuSS and MoSS Fundamentals<br /><br />MuSS Example: Overview of SPM Technology</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>MuSS Design Fundamentals and Methods</em><br /><br />MuSS Design Fundamentals and Methods<br /><br />Design Principles and Systems Design<br /><br />MuSS Manufacturing Issues</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Sang-Gook Kim</td>
+<td headers="col5">(<a href="10/lecture_2.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Macro/Meso-scales Components and Characteristics</em><br /><br />Principles, Metrics and Types of Cross-scale Incompatibilities<br /><br />Incompatibilities of Macro/Meso Parts with Micro/Nano Parts<br /><br />Integrating Constraints on Macro/Meso-scale Parts</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_3.pdf">PDF - 2.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Micro-scale Components and Characteristics</em><br /><br />Principles of Macro/Meso-scale and Micro-scale Part Integration<br /><br />Incompatibilities of Micro Parts with Nano Parts<br /><br />Micro-scale Part Errors and Implications for Integration</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_4.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Nano-scale Components and Characteristics</em><br /><br />Principles of nm-scale Physics which Govern Integration Incompatibility<br /><br />Nano-scale Actuators, Structures and Sensors<br /><br />Trasmissability of Nano-scale Errors to other Scales</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_5.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Scanning Probe Microscopy Project Introduction</em><br /><br />Project Goals and Expectations<br /><br />Demonstration of 2.76 SPM<br /><br />Questions, Team Selection and Planning</td>
+<td headers="col3">Case Study/Application</td>
+<td headers="col4">Soohyung Kim, Course TA</td>
+<td headers="col5">(<a href="10/lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Piezo MEMS: Materials</em><br /><br />Piezoelectricity<br /><br />Materials<br /><br />Processing</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Sang-Gook Kim</td>
+<td headers="col5">(<a href="10/lecture_7prt1.pdf">PDF 1 of&nbsp;2 -&nbsp;3.0 MB</a>)<br /><br />(<a href="10/lecture_7prt2.pdf">PDF 2 of&nbsp;2 - 2.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Piezoelectric MEMS: Applications</em><br /><br />Piezoelectric Transducers<br /><br />Micro-actuators<br /><br />Sensors and Generators</td>
+<td headers="col3">Case Study/Application</td>
+<td headers="col4">Prof. Sang-Gook Kim</td>
+<td headers="col5">(<a href="10/lecture_8.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Optical MEMS</em><br /><br />Functionality<br /><br />Devices<br /><br />Materials</td>
+<td headers="col3">Fundamental Principles</td>
+<td headers="col4">Prof. Sang-Gook Kim</td>
+<td headers="col5">(<a href="10/lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Nominal and Statistical Error Budgets</em><br /><br />Principles of Determinism, Accuracy, Repeatability<br /><br />Kinematic Error Modeling of Rigid-flexible Systems<br /><br />Nominal and Probabilitic System Error Modeling</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Presentations on Paper Critiques</td>
+<td headers="col3">&nbsp;</td>
+<td headers="col4">Students</td>
+<td headers="col5">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Mechanical Interfaces for Cross-scale Alignment</em><br /><br />Principles of Mechanical Constraint<br /><br />Design of Rigid, Flexible and Rigid-flexible Constraint<br /><br />Manufacturing and Assembly of Cross-scale Interfaces</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_12.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Mechanisms for Inter-scale Motion</em><br /><br />Principles of Mass, Momentum and Energy Incompatibility<br /><br />Momentum Incompatibilities<br /><br />Energy Incompatibilities</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Prof. Martin L. Culpepper</td>
+<td headers="col5">(<a href="10/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Carbon Nanotubes</em><br /><br />Synthesis<br /><br />Properties and Applications<br /><br />Issues of Manufacturing</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Prof. Sang-Gook Kim</td>
+<td headers="col5">(<a href="10/lecture_14.pdf">PDF - 2.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Complexity of MuSS</em><br /><br />Uncertainty and Difficulty<br /><br />Complexity<br /><br />Functional Periodicity</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Prof. Sang-Gook Kim</td>
+<td headers="col5">(<a href="10/lecture_15.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Metrology</em><br /><br />System Requirements<br /><br />Components and Selection Process<br /><br />Metrology-Machine Integration</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Guest Lecturer</td>
+<td headers="col5">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Telescopes and the Oil Industry</em><br /><br />X-Ray Telescopes<br /><br />Oil-well MEMS Sensors<br /><br />Questions and Discussion</td>
+<td headers="col3">Case Study/Application</td>
+<td headers="col4">Guest Lecturer</td>
+<td headers="col5">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Data Acquisition, Sensors and Control</em><br /><br />Programming in Simulink&reg;<br /><br />Introduction to dSPACE Control System<br /><br />Demonstration of Acquisition and Control System</td>
+<td headers="col3">Design and Manufacturing</td>
+<td headers="col4">Guest Lecturer</td>
+<td headers="col5">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+

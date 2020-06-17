@@ -17,7 +17,7 @@
 <li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
-<li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
+<li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
 <li><a href="#course21">The Anthropology of Cybercultures</a></li>
 <li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
@@ -2383,6 +2383,120 @@
 </br>
 <p><a href="5/MIT2_04AS13_PID_template.m">Tower SISO PID Controller: MATLAB Template (M)</a></p>
 </br>
+<h2 id="course19">Wave Propagation</h2>
 
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">WEEK #</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1-2</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap1.pdf">Chapter 1: Sample Wave Problems (PDF)</a></h3>
+<ul>
+<li>Transverse Vibration of a Taut String</li>
+<li>Longitudinal Vibration of an Elastic Rod</li>
+<li>Traffic Flow on a Freeway</li>
+<li>Wave Propagation in Arteries</li>
+<li>Shallow Water Waves and Linearization</li>
+<li>Sound in Fluids</li>
+<li>Flexural Waves in a Beam on an Elastic Foundation</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>3-4</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap2.pdf">Chapter 2: One Dimensional Waves (PDF)</a></h3>
+<ul>
+<li>General Solution to Wave Equation</li>
+<li>Branching of Arteries</li>
+<li>Waves in an Infinite Domain due to Initial Disturbances</li>
+<li>Reflection from the Fixed End of a String</li>
+<li>Forced Waves in an Infinite Domain</li>
+<li>String Embedded in an Elastic Surrounding</li>
+<li>Dispersion from a Localized Initial Disturbance</li>
+<li>Scattering of Sinusoidal Waves</li>
+<li>General Identities in Scattering by Arbitrary in Homogeneities</li>
+<li>Refraction in a Slowly Varying Medium</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>5-7</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap3.pdf">Chapter 3: Two Dimensional Waves&nbsp;<span class="nobr">(PDF - 2.4MB)</span></a></h3>
+<ul>
+<li>Reflection and Transmission of Sound at an Interface</li>
+<li>Equations for Elastic Waves</li>
+<li>Free Waves in Infinite Space</li>
+<li>Elastic Waves in a Plane</li>
+<li>Reflection of Elastic Waves from a Plane Boundary</li>
+<li>Scattering of Monochromatic SH Waves</li>
+<li>Diffraction of SH Wave by a Long Crack</li>
+<li>Rayleigh Surface Waves</li>
+<li>Elastic Waves due to a Load Traveling on the Ground Surface</li>
+<li>Partial Wave Expansion</li>
+<li>Approximate Evaluation of an Integral</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>8-10</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap4.pdf">Chapter 4: Waves in Water (PDF)</a></h3>
+<ul>
+<li>Governing Equations for Waves on the Sea Surface</li>
+<li>Progressive Waves on a Sea of Constant Depth</li>
+<li>Wave Resistance of a Two-dimensional Obstacle</li>
+<li>Narrow-banded Dispersive Waves in General</li>
+<li>Radiation of Surface Waves Forced by an Oscillating Pressure</li>
+<li>The Kelvin Pattern of Ship Wave</li>
+<li>Basic Theory for Two-dimensional Internal Waves in a Stratified Fluid</li>
+<li>Internal Waves Modes for Finite N</li>
+<li>Internal Waves in a Vertically Unbounded Fluid</li>
+<li>Reflection of Internal Waves at Boundary</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>11</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap5.pdf">Chapter 5: Wave Localization (PDF)</a></h3>
+<ul>
+<li>Wave Localization in a Random Medium</li>
+<li>References</li>
+</ul>
+</td>
+</tr>
+<tr class="alt-row">
+<td>12-13</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap6.pdf">Chapter 6: Forced Dispersive Waves Along a Narrow Channel (PDF)</a></h3>
+<ul>
+<li>Free Wave Propagation Along a Narrow Waveguide</li>
+<li>Forced Wave Propagation Along a Narrow Waveguide</li>
+<li>Initial Boundary Value Problem</li>
+</ul>
+</td>
+</tr>
+<tr class="row">
+<td>14-15</td>
+<td>
+<h3 class="subsubhead"><a href="5/MIT2_062J_S17_Chap7.pdf">Chapter 7: Internal Waves in a Stratified Fluid&nbsp;<span class="nobr">(PDF - 1.1MB)</span></a></h3>
+<ul>
+<li>Introduction</li>
+<li>Governing Equations for Incompressible Density-stratified Fluid</li>
+<li>The Buoyancy Frequency (Brunt-Vaisala Frequency)</li>
+<li>Internal Gravity Waves in Unbounded Stratified Fluid</li>
+<li>Waveguide Behavior</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>

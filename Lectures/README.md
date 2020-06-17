@@ -41,7 +41,7 @@
 <li><a href="#course40">Numerical Fluid Mechanics</a></li>
 <li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
 <li><a href="#course42">Internal Combustion Engines</a></li>
-<li><a href="#course19">Wave Propagation</a></li>
+<li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
@@ -5145,4 +5145,117 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course43">Fundamentals of Advanced Energy Conversion</h2>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">WEEK&nbsp;#</th>
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">1</td>
+<td headers="col2">Introduction (<a href="10/intro.pdf">PDF - 1.6 MB</a>)<br /><br />Thermodynamics (<a href="10/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">2</td>
+<td headers="col2">Thermomechanical Conversion (<a href="10/lecture2.pdf">PDF 1</a>) (<a href="10/lecture3.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">3</td>
+<td headers="col2">Chemical Thermodynamics - Part I&nbsp;<span class="nobr">(<a href="10/lecture4.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="10/lecture5.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">4</td>
+<td headers="col2">Chemical Thermodynamics - Part II&nbsp;<span class="nobr">(<a href="10/lecture6.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="10/lecture7.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="row">
+<td headers="col1">5</td>
+<td headers="col2">Chemical Thermodynamics - Part III&nbsp;<span class="nobr">(<a href="10/lecture8.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="10/lecture9.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">6</td>
+<td headers="col2">Electrochemical Energy Conversion and Storage I - Thermodynamics (<a href="10/lecture10.pdf">PDF 1</a>) (<a href="10/lecture11.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">7</td>
+<td headers="col2">Chemical Kinetics - Part I (<a href="10/lecture12.pdf">PDF 1</a>) (<a href="10/lecture13.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">8</td>
+<td headers="col2">Chemical Kinetics - Part II (<a href="10/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">9</td>
+<td headers="col2">High Power Conversion Efficiency for Advanced Gas, Coal and Nuclear Plants (<a href="10/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">10</td>
+<td headers="col2">Supercritical Cycles for Nuclear Power Plants (<a href="10/lecture18.pdf">PDF 1</a>) (<a href="10/lecture19.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">11</td>
+<td headers="col2">Transport Processes - I (<a href="10/lecture20.pdf">PDF 1</a>) (<a href="10/lecture21.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">12</td>
+<td headers="col2">Hydrogen for Vehicles: Technology and Economy Issues (<a href="10/lecture22.pdf">PDF 1</a>) (<a href="10/lecture23.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">13</td>
+<td headers="col2">Fuel Cell (<a href="10/lecture24.pdf">PDF 1</a>) (<a href="10/lecture25.pdf">PDF 2</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">ASSIGNMENTS</th>
+<th id="col3" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;1 (<a href="10/hw_1.pdf">PDF</a>)&nbsp;</td>
+<td headers="col3">(<a href="10/hw_1_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework 2 (<a href="10/hw_2.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="10/hw_2_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework&nbsp;3 (<a href="10/hw_3.pdf">PDF</a>)&nbsp;</td>
+<td headers="col3">(<a href="10/hw_3_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework 4 (<a href="10/hw_4.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="10/hw_4_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Homework 5 (<a href="10/hw_5.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="10/hw_5_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Homework&nbsp;6 (<a href="10/hw_6.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="10/hw_6_solution.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 

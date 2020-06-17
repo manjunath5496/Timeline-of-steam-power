@@ -18,7 +18,7 @@
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
-<li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
+<li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">The Anthropology of Cybercultures</a></li>
 <li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
 <li><a href="#course23">Technology and Culture</a></li>
@@ -2500,3 +2500,120 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Advanced Structural Dynamics and Acoustics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="tableheader">
+<th>TOPICS</th>
+<th>LECTURERS</th>
+<th>LECTURE NOTES</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Structural Dynamics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Structural Dynamics</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Acoustics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction<br /><br />The Acoustic Wave Equation</td>
+<td>Schmidt</td>
+<td>(<a href="5/lect114.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Helmholtz Equation<br /><br />Plane Waves<br /><br />Wavenumber Representation</td>
+<td>Schmidt</td>
+<td>(<a href="5/lect_2_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Radiation from Infinite Plate<br /><br />2-d Wavenumber Space<br /><br />Spherical Waves from Point Source</td>
+<td>Schmidt</td>
+<td>(<a href="5/lect_3_5.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Directivity Function<br /><br />Radiation from Baffled Rectangular Piston</td>
+<td>Schmidt</td>
+<td>(<a href="5/lect_4_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Radiation from Planar Sources</td>
+<td>Schmidt</td>
+<td>(<a href="5/lect_5_4.pdf">PDF</a>)<br /><br />Supporting Files (<a href="5/lect_18.zip">ZIP</a>) (The ZIP file contains: circ.m, circ_arr.m, dba.m, dbp.m, rect.m, rect_arr.m, sinc.m, and wavei.m.)</td>
+</tr>
+<tr class="row">
+<td>Radiation from Elastic Plates</td>
+<td>Schmidt</td>
+<td>(<a href="5/lect_6_4.pdf">PDF</a>)<br /><br />Supporting Files (<a href="5/lect_19.zip">ZIP</a>) (The ZIP file contains: plate.m.)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Spherical Waves<br /><br />Spherical Harmonics</td>
+<td>Battle</td>
+<td>(<a href="5/lect_7_31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Spherical Multipole Radiation</td>
+<td>Battle</td>
+<td>(<a href="5/lect_8_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Scattering from Spheres</td>
+<td>Battle</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Cylindrical Waves</td>
+<td>Battle</td>
+<td>(<a href="5/lect_10_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Helical Waves</td>
+<td>Battle</td>
+<td>(<a href="5/lect_11_5.pdf">PDF</a>)<br /><br />Supporting Files (<a href="5/lect_25.zip">ZIP</a>) (This ZIP file contains: readme.txt, cylrad.m, dH_ndx.m, dhndx.m, dipole.m, djndx.m, H_n.m, hard_sphere.m, helical.m, hn.m, jn.m, lpoly.m, monopole.m, sharm.m, soft_sphere.m, Ymn.m, and yn.m.)</td>
+</tr>
+<tr class="alt-row">
+<td>Radiation from Cylinders</td>
+<td>Battle</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="tableheader">
+<th>ASSIGNMENTS</th>
+<th>SOLUTIONS</th>
+</tr>
+<tr class="row">
+<td>Problem Set 1 (<a href="5/13_811ps1.pdf">PDF</a>)</td>
+<td>(<a href="5/13_811ps1sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;2 (<a href="5/13_811ps2.pdf">PDF</a>)</td>
+<td>(<a href="5/13_811ps2sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;3 (<a href="5/13_811ps3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p>Quiz (<a href="6/quiz.pdf">PDF</a>)</p>
+<p>Solution to Quiz (<a href="6/quiz_soln.pdf">PDF</a>)</p>
+
+</br>
+

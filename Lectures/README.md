@@ -32,7 +32,7 @@
 <li><a href="#course31">Computational Geometry</a></li>
 <li><a href="#course32">Identification, Estimation, and Learning</a></li>
 <li><a href="#course33">Hydrofoils and Propellers</a></li>
-<li><a href="#course10">Design and Manufacturing I</a></li>
+<li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
@@ -3926,6 +3926,84 @@ MATLAB
 <p>The MPVL code associated with these projects is available on the&nbsp;<a href="https://ocw.mit.edu/courses/mechanical-engineering/2-23-hydrofoils-and-propellers-spring-2007/tools">tools</a>&nbsp;page.</p>
 
 </br>
+<h2 id="course34">Ocean Wave Interaction with Ships and Offshore Energy Systems </h2>
 
-
-
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Conservation Laws And Boundary Conditions (<a href="7/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Linear and Second-Order Wave Theory (<a href="7/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Plane Progressive Regular Waves (<a href="7/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wave Energy Density and Flux (<a href="7/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wave Momentum Flux (<a href="7/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wavemaker Theory (<a href="7/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Translating Coordinate Systems (<a href="7/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ship Kelvin Wake (<a href="7/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear Wave-Body Interaction (<a href="7/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Added-Mass, Damping Coefficients And Exciting Forces (<a href="7/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Long Wavelength Approximations (<a href="7/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wave Scattering By A Vertical Circular Cylinder (<a href="7/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Forward-Speed Ship Wave Flows (<a href="7/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Strip Theory Of Ship Motions. Heave &amp; Pitch (<a href="7/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ship Roll-Sway-Yaw Motions (<a href="7/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Derivative Seakeeping Quantities (<a href="7/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Seakeeping In Random Waves (<a href="7/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Solution of Wave-Body Flows, Green's Theorem (<a href="7/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rankine Intergral Equations For Ship Flows (<a href="7/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Panel Methods (<a href="7/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wave Drift Forces (<a href="7/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Second-Order Wave Theory (<a href="7/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Second-Order Wave Effect On Offshore Platforms (<a href="7/lecture23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>

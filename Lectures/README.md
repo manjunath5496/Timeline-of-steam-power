@@ -2033,5 +2033,37 @@
 </tbody>
 </table>
 </br>
-
-
+<p>Project Descriptions (<a href="5/MIT2_017JF09_options.pdf">PDF</a>)</p>
+<p>Guidelines for each project document were provided by the instructors. All student work is presented with permission of the authors.</p>
+</br>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROJECTS</th>
+<th scope="col">PROPOSALS</th>
+<th scope="col">MILESTONES</th>
+<th scope="col">REPORTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Guidelines</td>
+<td>(<a href="5/MIT2_017JF09_proposal.pdf">PDF</a>)</td>
+<td>(<a href="5/MIT2_017JF09_milestone.pdf">PDF</a>)</td>
+<td>(<a href="5/MIT2_017JF09_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Group 1: Autonomous Navigation of a Quadrotor Helicopter<br />Using GPS and Vision Control</td>
+<td>(<a href="5/MIT2_017JF09_sw1_proposal.pdf">PDF</a>)</td>
+<td>(<a href="5/MIT2_017JF09_sw1_milstone.pdf">PDF</a>)</td>
+<td>(<a href="5/MIT2_017JF09_sw1_final.pdf">PDF - 2.4MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Group 2: Design of an Autonomous Bridge-Mapping Hydroplane</td>
+<td>(<a href="5/MIT2_017JF09_sw2_proposal.pdf">PDF</a>)</td>
+<td>(<a href="5/MIT2_017JF09_sw2_milstone.pdf">PDF - 3.5MB</a>)</td>
+<td>(<a href="5/MIT2_017JF09_sw2_final.pdf">PDF - 2.9MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>

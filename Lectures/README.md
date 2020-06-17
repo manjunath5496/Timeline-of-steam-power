@@ -36,7 +36,7 @@
 <li><a href="#course35">Marine Hydrodynamics</a></li>
 <li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
 <li><a href="#course37">Advanced Fluid Mechanics</a></li>
-<li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
+<li><a href="#course38">Compressible Fluid Dynamics</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
@@ -4601,3 +4601,65 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course38">Compressible Fluid Dynamics</h2>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Mass Conservation, Euler's Equation<br /><br />Sound Speed, Mach Number</td>
+<td headers="col3">(<a href="9/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Thermo<br /><br />Ideal Gases<br /><br />Steady Isentropic Flow, Stagnation State</td>
+<td headers="col3">(<a href="9/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Variable Area Flow, Choked Flow,&nbsp;Subsonic&nbsp;and&nbsp;Supersonic Nozzles, Restrictors</td>
+<td headers="col3">(<a href="9/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Energy Equation<br /><br />Entropy Equation<br /><br />Flow with Fricton, Fanno Line</td>
+<td headers="col3">(<a href="9/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Flow with Heat Addition, Rayleigh Line<br /><br />Shock Waves: Conservation Relations</td>
+<td headers="col3">(<a href="9/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Hugoniot Relation, Normal Shocks, Moving Shocks, Weak&nbsp;and Strong Shocks</td>
+<td headers="col3">(<a href="9/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Oblique Shocks<br /><br />Detonations</td>
+<td headers="col3">(<a href="9/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Continuum Shock Wave Structure<br /><br />Condensation Discontinuities<br /><br />Unsteady 1D Flows: Finite Amplitude Waves, Characteristics, Riemann Invariants</td>
+<td headers="col3">(<a href="9/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Piston Problems, Boundary Interactions, Shock Tubes</td>
+<td headers="col3">(<a href="9/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Steady 2D Supersonic Flows: Mach Waves, Prandtl-Meyer Function, Expansion Fans</td>
+<td headers="col3">(<a href="9/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Term Paper Presentations</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p>Problem Set 1 (<a href="9/ps1.pdf">PDF</a>)<br />Problem Set&nbsp;2 (<a href="9/ps2.pdf">PDF</a>)<br />Problem Set&nbsp;3 (<a href="9/ps3.pdf">PDF</a>)<br />Final&nbsp;Project&nbsp;Assignment (<a href="9/final_project.pdf">PDF</a>)</p>
+<p><em>A representative final project</em><br />"Similarity Transformation Methods in the Analysis of the Two Dimensional Steady Compressible Laminar Boundary Layer," by Yeunwoo Cho and Angelica Aessopos (<a href="9/pap_cho_aessopos.pdf">PDF</a>) (Courtesy of Yeunwoo Cho. Used with permission.)</p>
+</br>
+
+

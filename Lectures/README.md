@@ -39,7 +39,7 @@
 <li><a href="#course38">Compressible Fluid Dynamics</a></li>
 <li><a href="#course39">Turbulent Flow and Transport</a></li>
 <li><a href="#course40">Numerical Fluid Mechanics</a></li>
-<li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
+<li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
@@ -4852,4 +4852,145 @@ MATLAB
 
 
 </br>
+
+<h2 id="course41">Numerical Marine Hydrodynamics</h2>
+
+
+<p>All of the lecture notes may be downloaded as a single file (<a href="9/lecture_notes.pdf">PDF - 5.6 MB</a>).</p>
+<p><strong>Week 1: Incompressible Fluid Mechanics Background&nbsp;</strong>(<a href="9/fluid_mech.pdf">PDF</a>)</p>
+<ul>
+<li>Particle Image Velocimetry</li>
+<li>Averaged Navier-Stokes Equations</li>
+<li>The Pressure Equation for an Incompressible Fluid</li>
+<li>The Vorticity Equation</li>
+<li>Inviscid Fluid Mechanics, Euler's Equation</li>
+<li>Bernoulli Theorems for Inviscid Flow</li>
+<li>Vorticity Dynamics and Kelvin's Circulation Theorem</li>
+<li>Potential Flows and Mostly Potential Flows</li>
+<li>Green Functions, Green's Theorem and Boundary Integral Equations</li>
+<li>Example of Method Solution</li>
+<li>Interpretation of Boundary Integral Equation in Terms of Source and Dipole Layers</li>
+<li>The Kelvin-Neumann Problem</li>
+<li>The Kelvin-Neumann Green Function</li>
+<li>Source Only and Dipole Only Distributions</li>
+<li>Green's Theorem in Two Dimensions</li>
+<li>Force on a Vortex</li>
+<li>Lift on a Vortex in a Cylinder</li>
+<li>Example: Design of 2D Airfoil Mean Line Using Dipoles and Vortices</li>
+</ul>
+<p><strong>Week 2: Some Useful Results from Calculus&nbsp;</strong>(<a href="9/calculus_results.pdf">PDF</a>)</p>
+<ul>
+<li>Derivation of Gauss' Theorem</li>
+<li>Example of Use of Gauss Theorem: Froude Krylov Surge Force on a Ship</li>
+<li>The Transport Theorem</li>
+<li>Pressure Forces and Moments on an Object</li>
+</ul>
+<p><strong>Week 3: An Application Using Complex Numbers&nbsp;</strong>(<a href="9/complex_num_appn.pdf">PDF</a>)</p>
+<ul>
+<li>Example of Programming with Complex Numbers: Conformal Mapping of a Circle into an Airfoil</li>
+<li>Procedure to Compute Pressure Coefficient</li>
+</ul>
+<p><strong>Week 4: Root Finding&nbsp;</strong>(<a href="9/root_finding.pdf">PDF</a>)</p>
+<ul>
+<li>Bisection Method</li>
+<li>Newton's Method for Finding Roots of&nbsp;<em>y(x)</em></li>
+<li>Review of Matrix Algebra</li>
+<li>Determinant of a Matrix</li>
+<li>Transpose of a Matrix, Calculating the Inverse of a Matrix</li>
+<li>Matrix Norms</li>
+<li>The Condition Number of a Matrix</li>
+<li>Gaussian Elimination</li>
+<li>Gaussian Elimination Operation Count for n Equations</li>
+<li>Errors in Numerical Solutions of Sets of Linear Equations, Scaled Partial Pivoting Rule</li>
+<li>Solution of Linear Equations by LU Decomposition</li>
+<li>Procedure for Factorization of A</li>
+</ul>
+<p><strong>Week 5:Curve Fitting and Interpolation&nbsp;</strong>(<a href="9/curve_fitting.pdf">PDF</a>)</p>
+<ul>
+<li>Polynomial Approximation to a Function</li>
+<li>Lagrange Polynomials Example</li>
+</ul>
+<p><strong>Week 6: Numerical Differentiation&nbsp;</strong>(<a href="9/num_difrntiation.pdf">PDF</a>)</p>
+<ul>
+<li>Finite Difference Differentiation</li>
+</ul>
+<p><strong>Week 7: Numerical Integration&nbsp;</strong>(<a href="9/num_integration.pdf">PDF</a>)</p>
+<ul>
+<li>Trapezoidal Rule</li>
+<li>Trapezoidal Rule Error</li>
+<li>Usual Trapezoidal Rule</li>
+<li>Numerical Integration</li>
+<li>Simpson's Rule</li>
+</ul>
+<p><strong>Week 8: Numerical Integration of Differential Equations&nbsp;</strong>(<a href="9/differential_eqs.pdf">PDF</a>)</p>
+<ul>
+<li>Euler's Method, Modified Euler's Method</li>
+<li>Fourth Order Runge Kutta Method</li>
+<li>Predictor-Corrector Methods</li>
+<li>Higher Order Differential Equations</li>
+<li>Review and Extension</li>
+</ul>
+<p><strong>Week 9: Some Examples and Numerical Errors&nbsp;</strong>(<a href="9/num_errors.pdf">PDF</a>)</p>
+<ul>
+<li>Types of Numerical Hydrodynamics Problems, Example of Function Evaluation</li>
+<li>Example of Solution of Ordinary Differential Equation</li>
+<li>Example of Solution of Partial Differential Equation</li>
+<li>Cylindrical Coordinates</li>
+<li>Example of Discretized Integral Equation</li>
+<li>Stability</li>
+</ul>
+<p><strong>Week 10: Panel Methods&nbsp;</strong>(<a href="9/panel_methods.pdf">PDF</a>)</p>
+<ul>
+<li>Boundary Condition of Perturbation Potential, Three Dimensional Flows</li>
+<li>Interpretation of Green's Theorem</li>
+<li>Arrangement of the Integral Equation</li>
+<li>Numerical Form of the Integral Equation</li>
+<li>Making the Numerical Equations</li>
+<li>Solution Steps</li>
+<li>Two Dimensional Panel Methods</li>
+<li>Numerical Form of the Two Dimensional Integral Equation</li>
+<li>Situations with the Generation of Lift</li>
+<li>Computation of Pressures and Forces</li>
+</ul>
+<p><strong>Week 11: Boundary Layers&nbsp;</strong>(<a href="9/bondry_layers.pdf">PDF - 1.3 MB</a>)</p>
+<ul>
+<li>Two-Dimensional Steady Boundary Layer Equations</li>
+<li>Boundary Layer Parameters</li>
+<li>Mass Fluxes</li>
+<li>Example of Solution of Momentum Integral BL Equation</li>
+<li>Calculation of Turbulent Boundary Layer When Pressure Distribution is Known</li>
+<li>Laminar Closure Relations, Turbulent Closure Relations</li>
+<li>Sea Waves</li>
+<li>Example of Simulation</li>
+<li>Sea Spectra</li>
+<li>Fourier Transforms</li>
+<li>Computational FFT and IFFT of Real Numbers</li>
+<li>Simulation of Random Waves</li>
+<li>Review of Fourier Transforms, Inverse Fourier Transforms, FFT's IFFT's and Wave Simulation</li>
+<li>Generating Gaussian Random Numbers (Courtesy of Everett F. Carter Jr.)</li>
+<li>Wave Statistics</li>
+<li>Results from Theory</li>
+<li>Definition of a Gaussian Random Process</li>
+<li>Average Amplitude of the 1/n'th Highest Waves</li>
+<li>Extreme Waves</li>
+<li>Stiff Equations</li>
+<li>Dynamics of Horizontal Shallow Sag Cables in Water</li>
+</ul>
+<p><strong>Week 12: Oscillating Rigid Objects&nbsp;</strong>(<a href="9/rigid_objects.pdf">PDF</a>)</p>
+<ul>
+<li>Potentials and Boundary Conditions</li>
+<li>Strip Theory</li>
+<li>Boundary Conditions on Hull</li>
+<li>Sway, Roll and Yaw Equations</li>
+<li>Simulations of Ship Motions in Random Seas</li>
+<li>Added Resistance and Drift Forces</li>
+<li>Gerritsma and Beukelman Theory for Added Resistance</li>
+<li>Nonlinear Wave Force Calculations</li>
+<li>Vertical Sea Loads</li>
+</ul>
+<p><strong>Appendix: Further Material on Panel Methods and Strip Theory (Courtesy of Alexis Mantzaris)&nbsp;</strong><span class="nobr">(<a href="9/appendix.pdf">PDF - 1.0 MB</a>)</span></p>
+<br/>
+
+
+
 

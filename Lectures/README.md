@@ -60,7 +60,7 @@
 <li><a href="#course58">Design of Medical Devices and Implants</a></li>
 <li><a href="#course59">Optics</a></li>
 <li><a href="#course60">Decision Making in Large Scale Systems</a></li>
-<li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
+<li><a href="#course61">Direct Solar/Thermal to Electrical Energy Conversion Technologies</a></li>
 <li><a href="#course42">Internal Combustion Engines</a></li>
 <li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course44">Optical Engineering</a></li>
@@ -7048,5 +7048,97 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course61">Direct Solar/Thermal to Electrical Energy Conversion Technologies</h2>
 
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+<th scope="col">AUDIO</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="13/MIT2_997F09_lec01.pdf">PDF - 1.5MB</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-1-introduction/id391500439?i=87015497">MP3 - 19MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec01.mp3">MP3 - 19MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Thermoelectric effect and thermoelectric devices</td>
+<td>(<a href="13/MIT2_997F09_lec02.pdf">PDF - 1.3MB</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-2-thermoelectric-effect/id391500439?i=87015494">MP3 - 20MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec02.mp3">MP3 - 20MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Energy states in matter</td>
+<td>(<a href="13/MIT2_997F09_lec03.pdf">PDF</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-3-energy-states-in/id391500439?i=87015499">MP3 - 19MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec03.mp3">MP3 - 19MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Kinetic formulation of thermoelectricity</td>
+<td>(<a href="13/MIT2_997F09_lec04.pdf">PDF</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-4-kinetic-formulation/id391500439?i=87015492">MP3 - 20MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec04.mp3">MP3 - 20MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Current research on thermoelectric materials</td>
+<td>(<a href="13/MIT2_997F09_lec05.pdf">PDF - 1.9MB</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-5-current-research/id391500439?i=87015493">MP3 - 20MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec05.mp3">MP3 - 20MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Thermionic power conversion</td>
+<td>(<a href="13/MIT2_997F09_lec06.pdf">PDF</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-6-thermionic-power/id391500439?i=87015500">MP3 - 20MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec06.mp3">MP3 - 20MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Photovoltaic cells</td>
+<td>(<a href="13/MIT2_997F09_lec07.pdf">PDF - 1.2MB</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-7-photovoltaic-cells/id391500439?i=87015498">MP3 - 18MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec07.mp3">MP3 - 18MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Radiative heat transfer</td>
+<td>(<a href="13/MIT2_997F09_lec08.pdf">PDF - 1.0MB</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-8-radiative-heat-transfer/id391500439?i=87015496">MP3 - 18MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec08.mp3">MP3 - 18MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Solar concentration and solar thermal technology</td>
+<td>(<a href="13/MIT2_997F09_lec09.pdf">PDF - 1.4MB</a>)</td>
+<td>
+<p><span class="nobr">iTunes U (<a href="http://itunes.apple.com/us/podcast/lecture-9-solar-concentration/id391500439?i=87015495">MP3 - 19MB</a>)</span><br /><span class="nobr">Internet Archive (<a href="13/MIT2.997F09/MIT2_997F09_lec09.mp3">MP3 - 19MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Guest Lecture: Chris Schuh, "Nanostructured Materials: Stability Against Thermal Coarsening."</td>
+<td>(slides not available)</td>
+<td>
+<p>(audio not available)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Guest Lecture: Ivan Čelanović, "Photonic Crystals: Shaping the Flow of Thermal Radiation."</td>
+<td>(<a href="13/MIT2_997F09_lec11.pdf">PDF - 5.9MB</a>) (Courtesy of Ivan Čelanović. Used with permission.)</td>
+<td>(audio not available)</td>
+</tr>
+<tr class="alt-row">
+<td>Applications of thermoelectrics and photovoltaics</td>
+<td>(<a href="13/MIT2_997F09_lec12.pdf">PDF</a>)</td>
+<td>(audio not available)</td>
+</tr>
+</tbody>
+</table>
+</br>

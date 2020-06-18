@@ -69,7 +69,7 @@
 <li><a href="#course68">Manufacturing Systems Analysis</a></li>
 <li><a href="#course69">Mechanical Assembly and Its Role in Product Development</a></li>
 <li><a href="#course70">Introduction to Numerical Analysis for Engineering</a></li>
-<li><a href="#course68">Manufacturing Systems Analysis</a></li>
+<li><a href="#course71">Management in Engineering</a></li>
 
 
 
@@ -7964,5 +7964,282 @@ MATLAB
 
 <p>&nbsp;Take-home Exam (<a href="14/take_home_exam.pdf">PDF</a>)</p>
 </br>
+<h2 id="course71">Management in Engineering</h2>
 
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">CASE/LECTURE&nbsp;TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and Group Assignment</td>
+<td>
+<p><a href="14/MIT2_96F12_lec01.pdf">Introduction and Group Assignment (PDF)</a></p>
+<p>Guest lecture: "The Zipcar Case Study."&nbsp;<em>Derby Management</em>. [This lecture addresses how an entrepreneur can raise venture capital along with ideas about sales and marketing].</p>
+<p>Guest lecture: "Hubspot Case."&nbsp;<em>Derby Management</em>. [This lecture addresses what kind of research is required while founding a company].</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Business Plan I</td>
+<td>
+<p>Guest lecture: Derby, Jack. "Writing the Winning Business Plan."&nbsp;<em>Derby Management</em>, 2012. [This lecture addresses how a winning business plan can be developed and written].</p>
+<p>Guest lecture: Derby, Jack. "The Roles of Business Planning for Successful Business Growth."&nbsp;<em>Derby Management</em>, 2012. [This lecture addresses expectations, growth, and roles of business plans for a business].</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>Financials I</td>
+<td><a href="14/MIT2_96F12_lec03.pdf">Financials I (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Sales and Marketing I</td>
+<td>Guest lecture: "Just What is Marketing."&nbsp;<em>Derby Management</em>, 2012. [This lecture addresses business planning architecture, five stages of growth, and marketing].</td>
+</tr>
+<tr class="row">
+<td>Financials II</td>
+<td><a href="14/MIT2_96F12_lec05.pdf">Financials II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Sales and Marketing II</td>
+<td>Guest lecture (cont.): "Just What is Marketing."&nbsp;<em>Derby Management</em>, 2012. [This lecture addresses business planning architecture, five stages of growth, and marketing].</td>
+</tr>
+<tr class="row">
+<td>Financials III</td>
+<td><a href="14/MIT2_96F12_lec07.pdf">Financials III (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Intellectual Property and Licensing</td>
+<td>Guest lecture: Turner, Jack. "Inventions, Patents, and MIT Policy and Practice." 2012. [This lecture addresses inventions, patents, and MIT policy and practice].</td>
+</tr>
+<tr class="row">
+<td>Ratio Analysis I</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Ratio Analysis II</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Prelude Lobster Case</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Project Progress Report</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Quiz Review</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Designing and Building Yachts</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Commoditization vs. Differentiation</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Total Quality Management</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Entrepreneurship</td>
+<td>Guest lecture: Marano, John. "Vascular Insights."&nbsp;<em>ClariVein</em>, 2012. [This lecture addresses funding, operational strategy, manufacturing, marketing, and company details of ClariVein].</td>
+</tr>
+<tr class="row">
+<td>HP Printer Case</td>
+<td><a href="14/MIT2_96F12_lec19.pdf">HP Printer Case (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Strategic Planning of R&amp;D</td>
+<td><a href="14/MIT2_96F12_lec20.pdf">Strategic Planning of R&amp;D (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Teradyne Business Plan</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Pilkington Float Glass Case</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Omniport Houston Case</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Ethics</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Project Presentation</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Project Presentation (cont.)</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">CASE/LECTURE&nbsp;TOPICS</th>
+<th scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and Group Assignment</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Business Plan I</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Financials I</td>
+<td>
+<p><a href="14/MIT2_96F12_psetq01.pdf">Problem Set 1 Question (PDF)</a></p>
+<p><a href="14/MIT2_96F12_psets01.pdf">Problem Set 1 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Sales and Marketing I</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Financials II</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Sales and Marketing II</td>
+<td>
+<p><a href="14/MIT2_96F12_assn01.pdf">Ratio Analysis Group (PDF)</a></p>
+<p>Prelude Case Study &amp; Questions: [Complete "Prelude Corporation" Reading first]</p>
+<p>Answer the following questions. Your answer for each question should not exceed one paragraph.</p>
+<ol>
+<li>As a potential investor, what is the most important ratio to calculate? Why?</li>
+<li>What are the key issues this company is facing?</li>
+<li>Should we invest in this company? Why or why not?</li>
+</ol>
+</td>
+</tr>
+<tr class="row">
+<td>Financials III</td>
+<td>
+<p>Project Progress Report : Each group must be prepared to give a short presentation about your business plan. The purpose of this presentation is to update the instructors and the rest of the class on the progress of your plan. By now you should have a solid business idea.</p>
+<p><a href="14/MIT2_96F12_assn02.pdf">Presenting Business Opportunities (PDF)</a>&nbsp;[We are looking for you to sell your idea to us in a short period of time; don't worry yet about all the details of your final plan/presentation.]</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Intellectual Property and Licensing</td>
+<td>
+<p><a href="14/MIT2_96F12_assn04.pdf">SUL Part 1 (PDF)</a>,&nbsp;<a href="14/MIT2_96F12_assn05.pdf">Part 2 (PDF)</a></p>
+<p><a href="14/MIT2_96F12_assn03.pdf">HP Case Study (PDF)</a></p>
+<p>[Complete "Hewlett-Packard" Reading first]</p>
+</td>
+</tr>
+<tr class="row">
+<td>Ratio Analysis I</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Ratio Analysis II</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Prelude Lobster Case</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Project Progress Report</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Quiz Review</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Designing and Building Yachts</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Commoditization vs. Differentiation</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Total Quality Management</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Entrepreneurship</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>HP Printer Case</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Strategic Planning and Management of Technology</td>
+<td>
+<p>Pilkington Float Glass: [Complete "Pilkington Float Glass" Reading first]</p>
+<p>For the written assignment, please answer the question below. Limit your response to half a page, single-spaced.</p>
+<ol>
+<li>Estimate the projected revenue and financing requirements if Pilkington sets up its float plants worldwide. Please state your assumptions and methodology for doing so clearly.</li>
+<li>What would be the pros and cons based on the above financial projections?</li>
+</ol>
+</td>
+</tr>
+<tr class="row">
+<td>Teradyne Business Plan</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Pilkington Float Glass Case</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Omniport Houston Case</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Ethics</td>
+<td><a href="14/MIT2_96F12_assn06.pdf">Ethics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Project Presentation</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Project Presentation (cont.)</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Fall 2011</h2>
+<p><a href="14/MIT2_96F12_quiz11q.pdf">Quiz questions (PDF)</a></p>
+<p><a href="14/MIT2_96F12_quiz11s.pdf">Quiz solutions (PDF)</a></p>
+<p>&nbsp;</p>
+<h2 class="subhead">Fall 2012</h2>
+<p><a href="14/MIT2_96F12_quiz12qs1.pdf">Quiz questions &amp; solutions (PDF)</a></p>
+<p>&nbsp;</p>
+<h2 class="subhead">Reference files (Contains background calculations for quiz solutions)</h2>
+<p><a href="14/MIT2_96F12_qs2Q3BS.xlsx">Balance Sheet 1 (XLSX)</a></p>
+<p><a href="14/MIT2_96F12_qs2Q3CF.xlsx">Cash Flow&nbsp;</a><a href="14/MIT2_96F12_qs2Q3BS.xlsx">(XLSX)</a></p>
+<p><a href="14/MIT2_96F12_qs2Q3IS.xlsx">Income Statement&nbsp;</a><a href="14/MIT2_96F12_qs2Q3BS.xlsx">(XLSX)</a></p>
+<p><a href="14/MIT2_96F12_qs2Q4.xlsx">Balance Sheet 2&nbsp;</a><a href="14/MIT2_96F12_qs2Q3BS.xlsx">(XLSX)</a></p>
+</br>

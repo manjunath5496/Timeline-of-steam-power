@@ -64,7 +64,7 @@
 <li><a href="#course63">Designing Paths to Peace</a></li>
 <li><a href="#course64">Economics of Marine Transportation Industries</a></li>
 <li><a href="#course65">Tribology</a></li>
-<li><a href="#course46">Precision Machine Design</a></li>
+<li><a href="#course66">System Design and Analysis based on AD and Complexity Theories</a></li>
 <li><a href="#course47">Multi-Scale System Design</a></li>
 <li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
 
@@ -7403,3 +7403,86 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course66">System Design and Analysis based on AD and Complexity Theories</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl321id0_1" scope="col">TOPICS</th>
+<th id="tbl321id0_2" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl321id0_1">Introduction to Axiomatic Design</td>
+<td headers="tbl321id0_2">(<a href="13/lec202.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl321id0_1">Information Content and Robustness</td>
+<td headers="tbl321id0_2">(<a href="13/lec214.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Information Content (cont.)<br /><br />Project Discussion</td>
+<td headers="tbl321id0_2">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/lec216.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl321id0_1">Multi-FR Design</td>
+<td headers="tbl321id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Information Content (cont.)</td>
+<td headers="tbl321id0_2">(<a href="13/lec228.pdf">PDF</a>)<br /><br />Supplementary Lecture Note (<a href="13/lec228_supplemnt.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl321id0_1">Design of Systems</td>
+<td headers="tbl321id0_2">(<a href="13/lec309.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Guest Lecture</td>
+<td headers="tbl321id0_2">&nbsp;</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl321id0_1">Design of Manufacturing Systems</td>
+<td headers="tbl321id0_2">(<a href="13/lec328.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Axiomatic Design of Manufacturing Systems<br /><br />Case Study - Complex System Design (NASA / Project)</td>
+<td headers="tbl321id0_2">(<a href="13/lec330_pt1.pdf">PDF 1</a>)<br /><br />(<a href="13/lec330_pt2.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl321id0_1">Complexity I<br /><br />Project Discussion</td>
+<td headers="tbl321id0_2">(<a href="13/lec404.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Complexity II</td>
+<td headers="tbl321id0_2">(<a href="13/lec406.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl321id0_1">Complexity Review</td>
+<td headers="tbl321id0_2">(<a href="13/lec420.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Reduction of Complexity with Geometric Functional Periodicity</td>
+<td headers="tbl321id0_2">(<a href="13/lec425.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl321id0_1">Reduction of Complexity in Materials through Functional Periodicity<br /><br />Visit to Tribotek, Inc.</td>
+<td headers="tbl321id0_2">(<a href="13/lec427.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Complexity of Socio-Economic Political Systems: Application of Functional Periodicity</td>
+<td headers="tbl321id0_2">(<a href="13/lec429.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl321id0_1">Cost Engineering in Axiomatic Design</td>
+<td headers="tbl321id0_2">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/lec502.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl321id0_1">Project Presentations</td>
+<td headers="tbl321id0_2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+

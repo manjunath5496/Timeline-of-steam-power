@@ -70,10 +70,7 @@
 <li><a href="#course69">Mechanical Assembly and Its Role in Product Development</a></li>
 <li><a href="#course70">Introduction to Numerical Analysis for Engineering</a></li>
 <li><a href="#course71">Management in Engineering</a></li>
-
-
-
-
+<li><a href="#course72">Control of Manufacturing Processes</a></li>
 
 
 </ul>
@@ -8243,3 +8240,214 @@ MATLAB
 <p><a href="14/MIT2_96F12_qs2Q3IS.xlsx">Income Statement&nbsp;</a><a href="14/MIT2_96F12_qs2Q3BS.xlsx">(XLSX)</a></p>
 <p><a href="14/MIT2_96F12_qs2Q4.xlsx">Balance Sheet 2&nbsp;</a><a href="14/MIT2_96F12_qs2Q3BS.xlsx">(XLSX)</a></p>
 </br>
+<h2 id="course72">Control of Manufacturing Processes</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="15/lecture1.pdf">Introduction&mdash;Processes and Variation Framework (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture2.pdf">Semiconductor Process Variation (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture3.pdf">Mechanical Process Variation (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture4.pdf">Probability Models of Manufacturing Processes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture5.pdf">Probability Models, Parameter Estimation, and Sampling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture6.pdf">Sampling Distributions and Statistical Hypotheses (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture7.pdf">Shewhart SPC and Process Capability (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture8.pdf">Process Capability and Alternative SPC Methods (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture9.pdf">Advanced and Multivariate SPC (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture10.pdf">Yield Modeling (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture11.pdf">Introduction to Analysis of Variance (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture12.pdf">Full Factorial Models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture13.pdf">Modeling Testing and Fractional Factorial Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture14.pdf">Aliasing and Higher Order Models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture15.pdf">Response Surface Modeling and Process Optimization (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture16.pdf">Process Robustness (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture17.pdf">Nested Variance Components (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture18.pdf">Sequential Experimentation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture19.pdf">Case Study 1: Tungsten CVD DOE/RSM (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture20.pdf">Case Study 2: Cycle to Cycle Control (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="15/lecture21.pdf">Case Study 3: Spatial Modeling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="15/lecture22.pdf">Case Study 4: "Modeling the Embossing/Imprinting of Thermoplastic Layers." (PDF - 2.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">PROBLEMS</th>
+<th scope="col" align="center">DATA</th>
+<th scope="col" align="center">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td align="center">1</td>
+<td>(<a href="15/ps1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>(<a href="15/sol1.pdf">PDF</a>) (Courtesy of Eehern Wong.)</td>
+</tr>
+<tr class="alt-row">
+<td align="center">2</td>
+<td>(<a href="15/ps2.pdf">PDF</a>)</td>
+<td>
+<p>Problem 4:(<a href="15/24.xls">XLS</a>)</p>
+<p><a href="https://ocw.mit.edu/courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/assignments#control_lab_video">Control lab video</a></p>
+</td>
+<td>(<a href="15/sol2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td align="center">3</td>
+<td>(<a href="15/ps3.pdf">PDF</a>)</td>
+<td>
+<p>Problem 4: (<a href="15/34.xls">XLS</a>)</p>
+<p>Problem 5: (<a href="15/35.xls">XLS</a>)</p>
+</td>
+<td>(<a href="15/sol3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td align="center">4</td>
+<td>(<a href="15/ps4.pdf">PDF</a>)</td>
+<td>Problem 2: (<a href="15/42.xls">XLS</a>)</td>
+<td>(<a href="15/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td align="center">5</td>
+<td>(<a href="15/ps5.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>(<a href="15/sol5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td align="center">6</td>
+<td>(<a href="15/ps6.pdf">PDF</a>)</td>
+<td>Problem 1: (<a href="15/61.xls">XLS</a>)</td>
+<td>(<a href="15/sol6.pdf">PDF</a>) (Courtesy of Xiangyong Su, Koji Umeda, and Kaizhao Lee.)</td>
+</tr>
+<tr class="row">
+<td align="center">7</td>
+<td>(<a href="15/ps7.pdf">PDF</a>)</td>
+<td>Problem 3: (<a href="15/73.xls">XLS</a>)</td>
+<td>(<a href="15/sol7.pdf">PDF</a>) (Courtesy of Xiangyong Su and Richard Schwenke.)</td>
+</tr>
+<tr class="alt-row">
+<td align="center">8</td>
+<td>(<a href="15/ps8.pdf">PDF</a>)</td>
+<td>Problem 1: (<a href="15/81.xls">XLS</a>)</td>
+<td>(<a href="15/sol8.pdf">PDF</a>) (Courtesy of Mohammed Imani Nejad and Xiao Shen.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Final Project</h2>
+<p>The students also completed a group project as part of this course. The following documents explain the assignment, including a report template and a sample report and presentation from last year. The list of 2008 presentation topics is also included.</p>
+<p>Project guidelines (<a href="15/team_project_08.pdf">PDF</a>)</p>
+<p>Project report template (<a href="15/ieee_template.pdf">PDF</a>)</p>
+<p>Sample project report: "Profit Maximization in Ethanol Production (May 2007)." (<a href="15/sample_report.pdf">PDF</a>) (Courtesy of R. Sriram, S. Subramaniam, and G. Tomlin. Used with permission.)</p>
+<p>Sample project presentation: "An Industrial Example of Oxide Etch Process Control and Optimization." (<a href="15/sample_presenta.pdf">PDF</a>) (Courtesy of Jing Yao, Kai Meng, and Yi Qian. Used with permission.)</p>
+<p>Presentation topics 2008 (<a href="15/projects_schedu.pdf">PDF</a>)</p>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">YEAR</th>
+<th scope="col">QUIZ&nbsp;1</th>
+<th scope="col">QUIZ&nbsp;2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>2005</td>
+<td>Problems (<a href="15/q1_2005.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2006</td>
+<td>
+<p>Problems (<a href="15/q1_2006.pdf">PDF</a>)</p>
+<p>Solutions (<a href="15/q1_sol_2006.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>Problems (<a href="15/q2_2006.pdf">PDF</a>)</p>
+<p>Solutions (<a href="15/q2_sol_2006.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>2007</td>
+<td>
+<p>Problems (<a href="15/q1_2007.pdf">PDF</a>)</p>
+<p>Solutions (<a href="15/q1_sol_2007.pdf">PDF</a>)</p>
+</td>
+<td>Problems (<a href="15/q2_2007.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2008</td>
+<td>
+<p>Problems (<a href="15/q1_2008.pdf">PDF</a>)</p>
+<p>Solutions (<a href="15/q1_sol_2008.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>Problems (<a href="15/q2_2008.pdf">PDF</a>)</p>
+<p>Solutions (<a href="15/q2_sol_2008.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Study Materials</h2>
+<p>Degrees of freedom handout (<a href="15/dof.pdf">PDF</a>)</p>
+<p>Example, 2^2 with centerpoints (<a href="15/cp_example.xls">XLS</a>)</p>
+<p>Example, Drain Chapter 3, problem 4 (<a href="15/Drain_P4.xls">XLS</a>)</p>
+<p>Quiz 2 study guide (<a href="15/q2_guide.pdf">PDF</a>)</p>
+<p>Quiz 2 review session (<a href="15/q2_slides.pdf">PDF</a>)</p>
+</br>
+
+
+

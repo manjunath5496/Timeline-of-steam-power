@@ -7501,9 +7501,9 @@ MATLAB
 <tr class="alt-row">
 <td><a href="13/MIT2_854F16_Probability.pdf">Probability (PDF)</a></td>
 <td>
-<p><a href="13/notes-on-covariance">Notes on Covariance</a></p>
+
 <p><a href="13/MIT2_854F16_IndependenceEx.pdf">Example of independence (PDF)</a></p>
-<p><a href="13/memorylessness">Memorylessness</a></p>
+
 </td>
 </tr>
 <tr class="row">
@@ -7518,7 +7518,7 @@ MATLAB
 </tr>
 <tr class="alt-row">
 <td><a href="13/MIT2_854F16_Inventory.pdf">Inventory (PDF)</a></td>
-<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf">Information Inaccuracy in Inventory Systems (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="kang-gershwin-autoid04.pdf">Information Inaccuracy in Inventory Systems (PDF)</a></td>
 </tr>
 <tr class="row">
 <td><a href="13/MIT2_854F16_Optimization.pdf">Optimization (PDF)</a></td>
@@ -7529,7 +7529,7 @@ MATLAB
 </tr>
 <tr class="alt-row">
 <td><a href="13/MIT2_854F16_SinglePart.pdf">Single-Part-Type Systems (PDF - 2.2MB)</a></td>
-<td><a href="13/the-mysterious-t">The Mysterious &tau;</a></td>
+<td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td><a href="13/MIT2_854F16_MultiplePart.pdf">Single-Part-Type, Multiple-Stage Systems (PDF)</a></td>

@@ -59,7 +59,7 @@
 <li><a href="#course57">Cell-Matrix Mechanics</a></li>
 <li><a href="#course58">Design of Medical Devices and Implants</a></li>
 <li><a href="#course59">Optics</a></li>
-<li><a href="#course40">Numerical Fluid Mechanics</a></li>
+<li><a href="#course60">Decision Making in Large Scale Systems</a></li>
 <li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
 <li><a href="#course42">Internal Combustion Engines</a></li>
 <li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
@@ -6909,8 +6909,144 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course60">Decision Making in Large Scale Systems</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Markov Decision Processes<br /><br />Finite-Horizon Problems: Backwards Induction<br /><br />Discounted-Cost Problems: Cost-to-Go Function, Bellman's Equation</td>
+<td>(<a href="13/lec_1_v2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Value Iteration<br /><br />Existence and Uniqueness of Bellman's Equation Solution<br /><br />Gauss-Seidel Value Iteration</td>
+<td>(<a href="13/lec_2_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Optimality of Policies derived from the Cost-to-Go Function<br /><br />Policy Iteration<br /><br />Asynchronous Policy Iteration</td>
+<td>(<a href="13/lec_3_v3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Average-Cost Problems<br /><br />Relationship with Discounted-Cost Problems<br /><br />Bellman's Equation<br /><br />Blackwell Optimality</td>
+<td>(<a href="13/lec_4_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Average-Cost Problems<br /><br />Computational Methods</td>
+<td>(<a href="13/lec_5_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Application of Value Iteration to Optimization of Multiclass Queueing Networks<br /><br />Introduction to Simulation-based Methods Real-Time Value Iteration</td>
+<td>(<a href="13/lec_6_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Q-Learning<br /><br />Stochastic Approximations</td>
+<td>(<a href="13/lec_7_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stochastic Approximations: Lyapunov Function Analysis<br /><br />The ODE Method<br /><br />Convergence of Q-Learning</td>
+<td>(<a href="13/lec_8_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exploration versus Exploitation: The Complexity of Reinforcement Learning</td>
+<td>(<a href="13/lec_9_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Value Function Approximation<br /><br />Curse of Dimensionality<br /><br />Approximation Architectures</td>
+<td>(<a href="13/lec_10_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Model Selection and Complexity</td>
+<td>(<a href="13/lec_11_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Value Function Approximation Algorithms<br /><br />Performance Bounds</td>
+<td>(<a href="13/lec_12_v11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Temporal-Difference Learning with Value Function Approximation</td>
+<td>(<a href="13/lec_13_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Temporal-Difference Learning with Value Function Approximation (cont.)</td>
+<td>(<a href="13/lec_14_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Temporal-Difference Learning with Value Function Approximation (cont.)<br /><br />Optimal Stopping Problems<br /><br />General Control Problems</td>
+<td>(<a href="13/lec_15_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Approximate Linear Programming</td>
+<td>(<a href="13/lec_16_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Approximate Linear Programming (cont.)</td>
+<td>(<a href="13/lec_17_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Efficient Solutions for Approximate Linear Programming</td>
+<td>(<a href="13/lec_18_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Efficient Solutions for Approximate Linear Programming: Factored MDPs</td>
+<td>(<a href="13/lec_19_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Policy Search Methods</td>
+<td>(<a href="13/lec_20_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Policy Search Methods (cont.)</td>
+<td>(<a href="13/lec_21_v1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Policy Search Methods for POMDPs<br /><br />Application: Call Admission Control<br /><br />Actor-Critic Methods</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Approximate POMDP Compression</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Policy Search Methods: PEGASUS<br /><br />Application: Helicopter Control</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
 
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="col1" scope="col">TOPICS</th>
+<th id="col2" scope="col">STUDENTS</th>
+<th id="col3" scope="col">PROJECTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Approximate Dynamic Programming (Via Linear Programming) for Stochastic Scheduling</td>
+<td headers="col2">Mohamed Mostagir<br /><br />Nelson Uhan</td>
+<td headers="col3">Paper (<a href="13/most_uhan_paper.pdf">PDF</a>) (Courtesy of Mohamed Mostagir and Nelson Uhan. Used with permission.)<br /><br />Slides (<a href="13/most_uhan_slides.pdf">PDF</a>) (Courtesy of Mohamed Mostagir and Nelson Uhan. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">How to choose the State Relevance Weight in the Approximate Linear Programming Approach for Dynamic Programming?</td>
+<td headers="col2">Yann Le Tallec<br /><br />Theophane Weber</td>
+<td headers="col3">Paper (<a href="13/web_let_cho_pap.pdf">PDF</a>) (Courtesy of Yann Le-Tallec and Theophane Weber. Used with permission.)<br /><br />Slides (<a href="13/web_let_cho_sli.pdf">PDF</a>) (Courtesy of Yann Le-Tallec and Theophane Weber. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Decentralized Strategies for the Assignment Problem</td>
+<td headers="col2">Hariharan Lakshmanan</td>
+<td headers="col3">Slides (<a href="13/hari_decent_mov.pdf">PDF</a>) (Courtesy of Hariharan Lakshamanan. Used with permission.)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 

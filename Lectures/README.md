@@ -65,7 +65,7 @@
 <li><a href="#course64">Economics of Marine Transportation Industries</a></li>
 <li><a href="#course65">Tribology</a></li>
 <li><a href="#course66">System Design and Analysis based on AD and Complexity Theories</a></li>
-<li><a href="#course47">Multi-Scale System Design</a></li>
+<li><a href="#course67">Introduction to Manufacturing Systems</a></li>
 <li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
 
 
@@ -7484,5 +7484,89 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course67">Introduction to Manufacturing Systems</h2>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE NOTES</th>
+<th scope="col">SUPPORTING FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="13/MIT2_854F16_Introduction.pdf">Manufacturing Systems Overview (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_854F16_Probability.pdf">Probability (PDF)</a></td>
+<td>
+<p><a href="13/notes-on-covariance">Notes on Covariance</a></p>
+<p><a href="13/MIT2_854F16_IndependenceEx.pdf">Example of independence (PDF)</a></p>
+<p><a href="13/memorylessness">Memorylessness</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_Queueing.pdf">Queueing Systems (PDF)</a></td>
+<td>
+<p><a href="13/MM1_sim.fsm">MM1 Simulation (FSM)</a></p>
+<p><a href="13/DD1_sim.fsm">DD1 Simulation (FSM)</a></p>
+<p><a href="13/derivation-of-exponential-distribution">Derivation of Exponential Distribution</a></p>
+<p><a href="13/MIT2_854F16_Mm1Queue.pdf">M/M/1 Queue (PDF)</a></p>
+<p><a href="13/MIT2_854F16_TransitionEqu.pdf">Example of Transition Equation (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_854F16_Inventory.pdf">Inventory (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf">Information Inaccuracy in Inventory Systems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_Optimization.pdf">Optimization (PDF)</a></td>
+<td>
+<p><a href="13/MIT2_854F16_LpExample.pdf">LP Example (PDF)</a></p>
+<p><a href="13/MIT2_854F16_KktExample.pdf">KKT Example (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_854F16_SinglePart.pdf">Single-Part-Type Systems (PDF - 2.2MB)</a></td>
+<td><a href="13/the-mysterious-t">The Mysterious &tau;</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_MultiplePart.pdf">Single-Part-Type, Multiple-Stage Systems (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_854F16_MatrialRequire.pdf">Material Requirements Planning (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_Control.pdf">Multi-Stage Control and Scheduling (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/MIT2_854F16_Simulation.pdf">Simulation (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_ToyotaProdSys.pdf">Toyota Production System (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/MIT2_854F16_Qualquan.pdf">Quality / Quantity Interactions (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_Analysis.pdf">Analysis, Control, and Design of Stochastic Flow Systems with Limited Storage (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_854F16_CtrlPointPolcy.pdf">The Control Point Policy (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_854F16_Recycling.pdf">Recycling Systems Engineering (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>

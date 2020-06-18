@@ -7236,6 +7236,9 @@ MATLAB
 </br>
 <h2 id="course63">Designing Paths to Peace</h2>
 
+<ul>
+<li class="maintabletemplate">Lecture 1 (<a href="13/pathways_course_outline.pdf">PDF</a>)</li>
+<li class="maintabletemplate">Pathways to Peace: From Heart to Art to Part (<a href="13/pathways_course_outline1.pdf">PDF</a>)</li>
+</ul>
 
-
-
+</br>

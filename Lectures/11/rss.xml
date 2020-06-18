@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/styles/rss.xsl"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+         xmlns:media="http://search.yahoo.com/mrss/">    
+
+    <channel rdf:about="https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments">
+        
+        <title>2.627 / 2.626 Fundamentals of Photovoltaics | Assignments</title>
+        
+        <description>This page presents the problem sets, manufacturing simulation assignment, and team project required for the course. Videos of final project presentations from the 2011 class are included.</description>
+        
+        <link>https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments</link>
+        
+        <dc:date>2020-03-10T11:35:46+05:00</dc:date>
+        
+        <dc:publisher>MIT OpenCourseWare https://ocw.mit.edu</dc:publisher>
+        
+        <dc:language>en-US</dc:language>
+        
+        <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see https://ocw.mit.edu/terms/index.htm</dc:rights>
+        
+        <items>
+        
+            <rdf:Seq>
+            
+                <rdf:li rdf:resource="https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-1"/>
+                <rdf:li rdf:resource="https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-2"/>
+            
+            </rdf:Seq>
+        
+        </items>
+        
+    </channel>
+    
+    <item rdf:about="https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-1">
+          
+          <title>2011 Student Project Presentations, Part 1</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Students give presentations on their projects: smart retrofitting and photovoltaic grids.&lt;/p&gt; &lt;p&gt;This video is from the Fall 2011 version of the class.&lt;/p&gt;Transcript: &lt;a href= /courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-1/hewgCK5oZAo.pdf&gt;PDF&lt;/a&gt;&lt;br&gt;Captions: &lt;a href= English - US&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= https://img.youtube.com/vi/hewgCK5oZAo/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT2.627F11/MIT2_627F11_proj01_300k.mp4 &gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/student-project-presentations/id779564371?i=208445724 &gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= https://www.youtube.com/v/hewgCK5oZAo&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'https://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-1</link>
+		  
+		                 
+          
+          <dc:creator>Buonassisi, Tonio</dc:creator>
+          
+          <dc:date>2015-01-05T21:48:29+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          
+          <dc:publisher>MIT OpenCourseWare https://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see https://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-2">
+          
+          <title>2011 Student Project Presentations, Part 2</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Students give presentations on their projects: photovoltaic lights for Lighting Africa, NextGen modules, and NextGen performance simulation.&lt;/p&gt; &lt;p&gt;This video is from the Fall 2011 version of the class.&lt;/p&gt;Transcript: &lt;a href= /courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-2/a6NFLJ082vI.pdf&gt;PDF&lt;/a&gt;&lt;br&gt;Captions: &lt;a href= English - US&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= https://img.youtube.com/vi/a6NFLJ082vI/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT2.627F11/MIT2_627F11_proj02_300k.mp4 &gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/student-project-presentations/id779564371?i=208449713 &gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= https://www.youtube.com/v/a6NFLJ082vI&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'https://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>https://ocw.mit.edu/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/student-project-presentations-part-2</link>
+		  
+		                 
+          
+          <dc:creator>Buonassisi, Tonio</dc:creator>
+          
+          <dc:date>2015-01-05T21:48:29+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          
+          <dc:publisher>MIT OpenCourseWare https://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see https://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    
+</rdf:RDF>

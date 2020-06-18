@@ -52,7 +52,7 @@
 <li><a href="#course50">Radiative Transfer</a></li>
 <li><a href="#course51">Nano-to-Macro Transport Processes</a></li>
 <li><a href="#course52">Desalination and Water Purification</a></li>
-<li><a href="#course33">Hydrofoils and Propellers</a></li>
+<li><a href="#course53">Macromolecular Hydrodynamics</a></li>
 <li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
 <li><a href="#course35">Marine Hydrodynamics</a></li>
 <li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
@@ -6151,9 +6151,35 @@ MATLAB
 </table>
 </br>
 
+<h2 id="course53">Macromolecular Hydrodynamics</h2>
 
 
+<p><a href="11/MIT2_341JS16_Lec02-slides.pdf">Topic 1: Review of Newtonian Fluid Mechanics (Sessions 1&ndash;3) (PDF - 1.5MB)</a></p>
+<p><a href="11/MIT2_341JS16_Lec06-slides.pdf">Topic 2: Materials Functions (Sessions 4&ndash;6) (PDF - 2.2MB)</a></p>
+<p><a href="11/MIT2_341JS16_Lec09-slides.pdf">Topic 3: Generalized Newtonian Fluids (GNF) (Sessions 7&ndash;8) (PDF - 1.2MB)</a></p>
+<p>Topic 4: Linear Viscoelasticity (Sessions 9&ndash;11: Notes are currently unavailable.)</p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Lec13-slides.pdf">Topic 5: Polymer Physics: Gaussian Chains and Entropic Elasticity (Sessions 12&ndash;13) (PDF - 3.1MB)</a></p>
+<p>Topic 6: Ordered Fluid Expansions (Sessions 14&ndash;15: Notes are currently unavailable.)</p>
+<p>Topic 7: Differential Constitutive Equations (Sessions 16&ndash;20: Notes are currently unavailable.)</p>
+<p>Topic 8: Gels and Gel Rheology (Sessions 21&ndash;22: Notes are currently unavailable.)</p>
+<p><a href="11/MIT2_341JS16_Lec23-slides.pdf">Topic 9: Suspensions Rheology (Sessions 23&ndash;24) (PDF - 2.2MB)</a></p>
+</br>
 
+<p>Homework 1: 1B.4, 1B.5, 1B.7 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Hw1_Soln.pdf">Solutions to Homework 1 (PDF)</a>)</p>
+<p>Homework 2: 2B.4, 3B.1, 3B.3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Hw2_Soln.pdf">Solutions to Homework 2 (PDF)</a>)</p>
+<p>Homework 3: 4B.1, 4B.4, 4B.7, 4B.12 and Optional 4C.3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Hw3_Soln.pdf">Solutions to Homework 3 (PDF)</a>)</p>
+<p>Homework 4: 5B.3, 5B.5, 5B.8, 5C.2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Hw4_Soln.pdf">Solutions to Homework 4 (PDF)</a>)</p>
+<p>Homework 5: 6B.2, 6B.3, 6B.12, 6C.1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Hw5_Soln.pdf">Solutions to Homework 5 (PDF)</a>)</p>
+<p>Homework 6: 7B.1, 7B.2, 7B.10 and Optional 7C.4 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_Hw6_Soln.pdf">Solutions to Homework 6 (PDF)</a>)</p>
+
+</br>
+
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_2014Quiz1.pdf">Quiz 1 from 2014 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_341JS16_2014Quiz1_sol.pdf">Solutions to Quiz 1 from 2014 (PDF - 4.5MB)</a></p>
+<p><a href="11/MIT2_341JS16_2012Quiz2.pdf">Quiz 2 from 2012 (PDF)</a></p>
+<p><a href="11/MIT2_341JS16_2012Quiz2_sol.pdf">Solutions to Quiz 2 from 2012 (PDF)</a></p>
+
+</br>
 
 
 

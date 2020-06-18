@@ -66,7 +66,7 @@
 <li><a href="#course65">Tribology</a></li>
 <li><a href="#course66">System Design and Analysis based on AD and Complexity Theories</a></li>
 <li><a href="#course67">Introduction to Manufacturing Systems</a></li>
-<li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
+<li><a href="#course68">Manufacturing Systems Analysis</a></li>
 
 
 
@@ -7569,4 +7569,114 @@ MATLAB
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course68">Manufacturing Systems Analysis</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="14/MIT2_852S10_intro.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Probability &mdash; Basic concepts</td>
+<td rowspan="4"><span class="nobr">(<a href="14/MIT2_852S10_probability.pdf">PDF - 1.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Markov chains and processes</td>
+</tr>
+<tr class="alt-row">
+<td>The M/M/1 queues</td>
+</tr>
+<tr class="alt-row">
+<td>Continuous random variables</td>
+</tr>
+<tr class="row">
+<td>Transfer lines &mdash; Models and bounds</td>
+<td rowspan="4"><span class="nobr">(<a href="14/MIT2_852S10_transfer_lines.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Two-machine lines</td>
+</tr>
+<tr class="row">
+<td>"Deterministic" lines</td>
+</tr>
+<tr class="row">
+<td>Exponential and continuous lines</td>
+</tr>
+<tr class="alt-row">
+<td>Long lines</td>
+<td rowspan="3">(<a href="14/MIT2_852S10_long_lines.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Long lines (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Long lines (cont.)</td>
+</tr>
+<tr class="row">
+<td>"Deterministic" line &mdash; Long line optimization</td>
+<td rowspan="2"><span class="nobr">(<a href="14/MIT2_852S10_line_opt.pdf">PDF - 1.2MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>"Deterministic" line &mdash; Long line optimization (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Assembly/disassembly systems</td>
+<td rowspan="2"><span class="nobr">(<a href="14/MIT2_852S10_a_d_systems.pdf">PDF - 2.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Assembly/disassembly systems (cont.)</td>
+</tr>
+<tr class="row">
+<td>A/D loops</td>
+<td rowspan="3">(<a href="14/MIT2_852S10_loops.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>A/D loops (cont.)</td>
+</tr>
+<tr class="row">
+<td>A/D loops (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Guest lecture: Chuan Shi, "Efficient Buffer Design Algorithms for Production Line Profit Maximization."</td>
+<td>
+<p><span class="nobr">(<a href="14/MIT2_852S10_shi_a.pdf">PDF 1 of 3 - 4.9MB</a>),</span></p>
+<p><span class="nobr">(<a href="14/MIT2_852S10_shi_b.pdf">PDF 2 of 3 - 5.0MB</a>),</span></p>
+<p><span class="nobr">(<a href="14/MIT2_852S10_shi_c.pdf">PDF 3 of 3 - 10.5MB</a>)</span>&nbsp;(Courtesy of Chuan Shi. Used with permission.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Quality/quantity models</td>
+<td rowspan="2">(<a href="14/MIT2_852S10_qq.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quality/quantity models (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Guest lecture: Fernando Tubilla, "Scheduling of Setup Changes."</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Real-time control of manufacturing system</td>
+<td rowspan="2">
+<p>(<a href="14/MIT2_852S10_control.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Real-time control of manufacturing systems (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Guest lecture: Alain Patchong</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 </br>

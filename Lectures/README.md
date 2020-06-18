@@ -47,6 +47,34 @@
 <li><a href="#course46">Precision Machine Design</a></li>
 <li><a href="#course47">Multi-Scale System Design</a></li>
 <li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
+
+<li><a href="#course49">Acoustical Oceanography</a></li>
+<li><a href="#course30">Maneuvering and Control of Surface and Underwater Vehicles</a></li>
+<li><a href="#course31">Computational Geometry</a></li>
+<li><a href="#course32">Identification, Estimation, and Learning</a></li>
+<li><a href="#course33">Hydrofoils and Propellers</a></li>
+<li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
+<li><a href="#course35">Marine Hydrodynamics</a></li>
+<li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
+<li><a href="#course37">Advanced Fluid Mechanics</a></li>
+<li><a href="#course38">Compressible Fluid Dynamics</a></li>
+<li><a href="#course39">Turbulent Flow and Transport</a></li>
+<li><a href="#course40">Numerical Fluid Mechanics</a></li>
+<li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
+<li><a href="#course42">Internal Combustion Engines</a></li>
+<li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
+<li><a href="#course44">Optical Engineering</a></li>
+<li><a href="#course45">Elements of Mechanical Design</a></li>
+<li><a href="#course46">Precision Machine Design</a></li>
+<li><a href="#course47">Multi-Scale System Design</a></li>
+<li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
+
+
+
+
+
+
+
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</h2>
@@ -5597,3 +5625,81 @@ MATLAB
 </table>
 
 </br>
+<h2 id="course49">Acoustical Oceanography</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">BACKGROUND&nbsp;NOTES</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec01.pdf">Lecture 1 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec01.pdf">Lecture 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec02.pdf">Lecture 2 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec02.pdf">Lecture 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec03.pdf">Lecture 3 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec0405.pdf">Lectures 4-5 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec04.pdf">Lecture 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec06.pdf">Lecture 6 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec07.pdf">Lecture 7 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec07.pdf">Lecture 7 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec08.pdf">Lecture 8 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec08.pdf">Lecture 8 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec09.pdf">Lecture 9 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec09.pdf">Lecture 9 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec10.pdf">Lecture 10 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec10.pdf">Lecture 10 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec11.pdf">Lecture 11 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec11.pdf">Lecture 11 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec12.pdf">Lecture 12 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec12.pdf">Lecture 12 (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec13.pdf">Lecture 13 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec13.pdf">Lecture 13 (PDF - 3.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="10/MIT2_682S12_bglec14.pdf">Lecture 14 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="10/MIT2_682S12_bglec15.pdf">Lecture 15 (PDF)</a></td>
+<td><a href="10/MIT2_682S12_lec15.pdf">Lecture 15 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td><a href="10/MIT2_682S12_lec16.pdf">Lecture 16 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+

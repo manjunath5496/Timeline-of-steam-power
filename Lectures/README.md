@@ -62,7 +62,7 @@
 <li><a href="#course60">Decision Making in Large Scale Systems</a></li>
 <li><a href="#course61">Direct Solar/Thermal to Electrical Energy Conversion Technologies</a></li>
 <li><a href="#course62">Biomedical Devices Design Laboratory</a></li>
-<li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
+<li><a href="#course63">Designing Paths to Peace</a></li>
 <li><a href="#course44">Optical Engineering</a></li>
 <li><a href="#course45">Elements of Mechanical Design</a></li>
 <li><a href="#course46">Precision Machine Design</a></li>
@@ -7153,76 +7153,76 @@ MATLAB
 <tbody>
 <tr class="row">
 <td>
-<p>Introduction (<a href="14/lecture01.pdf">PDF</a>)</p>
-<p>Robopsy slide (<a href="14/robopsy_slide.pdf">PDF</a>)</p>
+<p>Introduction (<a href="13/lecture01.pdf">PDF</a>)</p>
+<p>Robopsy slide (<a href="13/robopsy_slide.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="alt-row">
 <td>
 <h3 class="subsubhead">Basic electronics</h3>
-<p>Linear elements, thevenin-norton, impedance analysis (<a href="14/lecture02.pdf">PDF</a>)</p>
+<p>Linear elements, thevenin-norton, impedance analysis (<a href="13/lecture02.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="row">
 <td>
 <h3 class="subsubhead">Diodes and transistors</h3>
-<p>Models, LEDs, peak-detector, zeners, diode protection circuits, BJT, FET, amplifiers, drivers, H-bridges (<a href="14/lecture03.pdf">PDF</a>)</p>
+<p>Models, LEDs, peak-detector, zeners, diode protection circuits, BJT, FET, amplifiers, drivers, H-bridges (<a href="13/lecture03.pdf">PDF</a>)</p>
 <h3 class="subsubhead">Handouts</h3>
-<p>The Interactive Balloon (<a href="14/96_04_ibm_bln_pr.pdf">PDF</a>)</p>
-<p>Balloons.mov (<a href="14/Balloons.mov">MOV</a>)</p>
+<p>The Interactive Balloon (<a href="13/96_04_ibm_bln_pr.pdf">PDF</a>)</p>
+<p>Balloons.mov (<a href="13/Balloons.mov">MOV</a>)</p>
 </td>
 </tr>
 <tr class="alt-row">
 <td>
 <h3 class="subsubhead">Power supplies</h3>
-<p>Proper bypassing, linear power supplies, switching power supplies (<a href="14/lec4_pwr_suplies.pdf">PDF</a>)</p>
+<p>Proper bypassing, linear power supplies, switching power supplies (<a href="13/lec4_pwr_suplies.pdf">PDF</a>)</p>
 <p>MIT libraries lectures on literature and patent searching</p>
 </td>
 </tr>
 <tr class="row">
 <td>
 <h3 class="subsubhead">Microprocessors I</h3>
-<p>Basic topologies, feedback, stability, accurate peak detector (<a href="14/lec5_mcroprcsr_1.pdf">PDF</a>)</p>
+<p>Basic topologies, feedback, stability, accurate peak detector (<a href="13/lec5_mcroprcsr_1.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="alt-row">
 <td>
 <h3 class="subsubhead">Microprocessors II</h3>
-<p>Practical considerations, reading op amp datasheets error propagation, filters (<a href="14/lc6_mcroprcsor2.pdf">PDF</a>)</p>
+<p>Practical considerations, reading op amp datasheets error propagation, filters (<a href="13/lc6_mcroprcsor2.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="row">
 <td>
 <h3 class="subsubhead">OpAmps I</h3>
-<p>Basics programming concepts, memory organization, clocks, ADCs (<a href="14/lec7_opamps1.pdf">PDF</a>)</p>
+<p>Basics programming concepts, memory organization, clocks, ADCs (<a href="13/lec7_opamps1.pdf">PDF</a>)</p>
 <h3 class="subsubhead">Handouts</h3>
-<p>Ones complement (<a href="14/onescomplement.pdf">PDF</a>)</p>
-<p>main.c (<a href="14/main.c">C</a>)</p>
-<p>adc_example.zip (<a href="14/adc_example.zip">ZIP</a>) (The ZIP file contains: adc_xample_code.pdf and main.c files.)</p>
-<p>demo2.zip (<a href="14/demo2.zip">ZIP</a>) (The ZIP file contains: main.c, crc.h, and other supporting files for 2nd demo.)</p>
-<p>demo.zip (<a href="14/demo.zip">ZIP</a>) (The ZIP file contains: main.c and other supporting files for demo.)</p>
-<p>dio_example.zip (<a href="14/dio_example.zip">ZIP</a>) (The ZIP file contains: dio_xample_code.pdf and main.c files.)</p>
-<p>MSP430F22xx_example_C_code.zip (<a href="14/MSP430F22xx_example_C_code.zip">ZIP</a>) (The ZIP file contains: 123 .c files.)</p>
-<p>timer_example.zip (<a href="14/timer_example.zip">ZIP</a>) (The ZIP file contains: timr_xample_code.pdf and main.c files.)</p>
-<p>uart_example.zip (<a href="14/uart_example.zip">ZIP</a>) (The ZIP file contains: uart_xample_code.pdf and other supporting files for the communication peripherals UART.)</p>
+<p>Ones complement (<a href="13/onescomplement.pdf">PDF</a>)</p>
+<p>main.c (<a href="13/main.c">C</a>)</p>
+<p>adc_example.zip (<a href="13/adc_example.zip">ZIP</a>) (The ZIP file contains: adc_xample_code.pdf and main.c files.)</p>
+<p>demo2.zip (<a href="13/demo2.zip">ZIP</a>) (The ZIP file contains: main.c, crc.h, and other supporting files for 2nd demo.)</p>
+<p>demo.zip (<a href="13/demo.zip">ZIP</a>) (The ZIP file contains: main.c and other supporting files for demo.)</p>
+<p>dio_example.zip (<a href="13/dio_example.zip">ZIP</a>) (The ZIP file contains: dio_xample_code.pdf and main.c files.)</p>
+<p>MSP430F22xx_example_C_code.zip (<a href="13/MSP430F22xx_example_C_code.zip">ZIP</a>) (The ZIP file contains: 123 .c files.)</p>
+<p>timer_example.zip (<a href="13/timer_example.zip">ZIP</a>) (The ZIP file contains: timr_xample_code.pdf and main.c files.)</p>
+<p>uart_example.zip (<a href="13/uart_example.zip">ZIP</a>) (The ZIP file contains: uart_xample_code.pdf and other supporting files for the communication peripherals UART.)</p>
 </td>
 </tr>
 <tr class="alt-row">
 <td>
 <h3 class="subsubhead">OpAmps II</h3>
-<p>Timers, communications, wireless (<a href="14/lec8_opamps2.pdf">PDF</a>)</p>
+<p>Timers, communications, wireless (<a href="13/lec8_opamps2.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="row">
 <td>
 <h3 class="subsubhead">Analog signal processing</h3>
-<p>ADC, references, noise, synchronous detection (<a href="14/lec9_anlg_procsn.pdf">PDF</a>)</p>
+<p>ADC, references, noise, synchronous detection (<a href="13/lec9_anlg_procsn.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="alt-row">
 <td>
 <h3 class="subsubhead">Sensors I</h3>
-<p>Capacitive, impedance, optical (<a href="14/lec10_sensors.pdf">PDF</a>)</p>
+<p>Capacitive, impedance, optical (<a href="13/lec10_sensors.pdf">PDF</a>)</p>
 </td>
 </tr>
 <tr class="row">
@@ -7234,3 +7234,8 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course63">Designing Paths to Peace</h2>
+
+
+
+

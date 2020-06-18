@@ -49,7 +49,7 @@
 <li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
 
 <li><a href="#course49">Acoustical Oceanography</a></li>
-<li><a href="#course30">Maneuvering and Control of Surface and Underwater Vehicles</a></li>
+<li><a href="#course50">Radiative Transfer</a></li>
 <li><a href="#course31">Computational Geometry</a></li>
 <li><a href="#course32">Identification, Estimation, and Learning</a></li>
 <li><a href="#course33">Hydrofoils and Propellers</a></li>
@@ -5698,8 +5698,250 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course50">Radiative Transfer</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl83id0_1" scope="col">TOPICS</th>
+<th id="tbl83id0_2" scope="col">PROFESSOR CHEN'S NOTES</th>
+<th id="tbl83id0_3" scope="col">STUDENT'S NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>Week 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Review of Basic Thermal Radiation Concepts, Blackbody Radiation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>View Factor, Simple Radiative Transfer</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 2</strong></td>
+</tr>
+<tr class="row">
+<td>Radiative Transfer in Enclosures</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Radiative Transfer in Enclosures (cont.)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 3</strong></td>
+</tr>
+<tr class="alt-row">
+<td>EM Waves</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 4</strong></td>
+</tr>
+<tr class="alt-row">
+<td>EM Wave Modeling of Surfaces</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture6.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>EM Wave Modeling of Thin Films</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture7.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 5</strong></td>
+</tr>
+<tr class="row">
+<td>EM Wave Modeling of Particles</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture8.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Scattering Properties of Particulates</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture9.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 6</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Dielectric Properties of Solid, Drude Model</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture10.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lorentz Model</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture11.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 7</strong></td>
+</tr>
+<tr class="row">
+<td>Radiative Properties of Gases</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture12.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Radiative Properties of Gases (cont.)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture13.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 8</strong></td>
+</tr>
+<tr class="alt-row">
+<td>First Mid-term (In-class, Open Book)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture14.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Equation of Radiative Transfer in Participating Media</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture15.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 9</strong></td>
+</tr>
+<tr class="row">
+<td>Solution of ERT for One-dimensional Gray Media</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture16.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discrete Ordinate Method</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture17.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 10</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Spherical Harmonics Method</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture18.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 11</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Approximate Solutions</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture19.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Monte Carlo Simulation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture20.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 12</strong></td>
+</tr>
+<tr class="row">
+<td>Presentation and Discussion on Global Warming</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture21.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Near Field Thermal Radiation, Fluctuation-dissipation Theory</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture22.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Week 13</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Near Field Thermal Radiation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/lecture23.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/student_lect23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Solar Cells</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Week 14</strong></td>
+</tr>
+<tr class="row">
+<td>Coherent Radiation Source, Lasers</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Laser Materials Interactions</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="11/ps1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/sol1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="11/ps2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/sol2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="11/ps3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/sol3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="11/ps4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="11/ps5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/sol5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="11/ps6.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>First Mid-term (In-class, Open Book)</td>
+<td>(<a href="11/exam1_solutions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Second Mid-term (Take-home)</td>
+<td>(<a href="11/exam2.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
 
 

@@ -5950,7 +5950,7 @@ MATLAB
 <li><a href="MIT2_57S12_lec_notes_2004.pdf">Complete 2004 Lecture Notes (PDF - 3.5MB)</a></li>
 <li><a href="MIT2_57S12_Mul_Ex_Gn_Pr.pdf"><em>More Efficient Solar Cells via Multi Excition Generation</em>&nbsp;(PDF)</a>&nbsp;(Courtesy of an MIT student.&nbsp; Used with Permission.)</li>
 <li><a href="MIT2_57S12_Ab_in_Metamat.pdf"><em>Absorption in Metamaterials: Turning Loss into Gain</em>&nbsp;(PDF)</a>&nbsp;(Courtesy of an MIT student.&nbsp; Used with Permission.)</li>
-<li>&nbsp;</li>
+
 </ul>
 
 </br>
@@ -6085,7 +6085,7 @@ MATLAB
 </tr>
 <tr class="alt-row">
 <td>Solar desalination systems; CSP water/power cogeneration</td>
-<td>Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf">PDF - 7.4MB</a>)</td>
+<td>Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/AQUA-CSP-Full-Report-Final.pdf">PDF - 7.4MB</a>)</td>
 </tr>
 <tr class="row">
 <td>Particulate removal. Flocculation. Summary</td>

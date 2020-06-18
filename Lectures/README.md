@@ -57,7 +57,7 @@
 <li><a href="#course55">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course56">Marine Power and Propulsion</a></li>
 <li><a href="#course57">Cell-Matrix Mechanics</a></li>
-<li><a href="#course38">Compressible Fluid Dynamics</a></li>
+<li><a href="#course58">Design of Medical Devices and Implants</a></li>
 <li><a href="#course39">Turbulent Flow and Transport</a></li>
 <li><a href="#course40">Numerical Fluid Mechanics</a></li>
 <li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
@@ -6585,3 +6585,190 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course58">Design of Medical Devices and Implants</h2>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">INSTRUCTORS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3"><strong>I. Principles Of Implant Design (Working Paradigms)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Clinical Problems Requiring Implants for Solution</td>
+<td>I. V. Yannas / M. Spector</td>
+<td>
+<p>Overview Slides (<a href="13/ch1_overview.pdf">PDF - 1.2 MB</a>)</p>
+<p>Four Design Principles for Medical Devices (<a href="13/ch1_design_princ.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Principles of Implant Design / Design Parameters: Permanent versus Absorbable Devices</td>
+<td>I. V. Yannas / M. Spector</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The Missing Organ and its Replacement</td>
+<td>I. V. Yannas</td>
+<td>The Problem of the Missing Organ (<a href="13/ch3_missing_orga.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Criteria for Materials Selection</td>
+<td>I. V. Yannas</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Tissue Engineering I: Scaffolds</td>
+<td>M. Spector</td>
+<td>
+<p>Tissue Engineering I: Overview (<a href="13/ch5_te1.pdf">PDF - 1.4 MB</a>)</p>
+<p>Tissue Engineering II: Scaffolds (<a href="13/ch5_te2.pdf">PDF - 1.4 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Tissue Engineering II: Cells and Regulators</td>
+<td>M. Spector</td>
+<td>
+<p>Tissue Engineering III: Growth Factors and Genes (<a href="13/ch5_te3.pdf">PDF - 1.3 MB</a>)</p>
+<p>Tissue Engineering IV: Stem Cells (<a href="13/ch5_te4.pdf">PDF - 1.2 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Case Study of Organ Regeneration</td>
+<td>I. V. Yannas</td>
+<td>Design Case Study: Device for Partial Regeneration of Skin (<a href="13/ch5_skin_case.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>II. Design Parameters</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Design Specifications: Biomaterials Survey</td>
+<td>M. Spector</td>
+<td>
+<p>Biomaterials Survey (<a href="13/ch6_biomatl.pdf">PDF</a>)</p>
+<p>Implant Fixation, Mechanical Stability and Modulus Matching (<a href="13/ch6_implant.pdf">PDF - 1.2 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Quiz</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Biocompatibility: Local and Systemic Effects</td>
+<td>M. Spector</td>
+<td>Biocompatibility (<a href="13/ch7_biocompat.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Design Specifications: Tissue Bonding and Modulus Matching</td>
+<td>M. Spector</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Degradation of Devices: Natural and Synthetic Polymers</td>
+<td>I. V. Yannas</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Biocompatibility: Scar Formation and Contraction</td>
+<td>I. V. Yannas</td>
+<td>Scar Formation Around Implants (<a href="13/ch7_scar.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Degradation of Devices: Corrosion and Wear</td>
+<td>M. Spector</td>
+<td>Degradation of Devices: Corrosion and Wear (<a href="13/ch8_wear.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Federal Regulation of Devices I</td>
+<td>M. Spector</td>
+<td>
+<p>Federal Regulation of Medical Devices (<a href="13/ch9_fda1.pdf">PDF - 1.2 MB</a>)</p>
+<p>Recommended Biocompatibility Testing and Regulation of Tissue Engineered Products (<a href="13/ch9_fda2.pdf">PDF - 1.0 MB</a>)</p>
+<p>Summary of Federal Regulatory Issues and Clinical Trials (<a href="13/ch9_fda3.pdf">PDF - 1.1 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Oral Presentations of Proposals for Design II</td>
+<td>I. V. Yannas / M. Spector</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Federal Regulation of Devices II</td>
+<td>M. Spector</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>III. Design Solution In-use</strong></td>
+</tr>
+<tr class="row">
+<td>Scaffolds for Cartilage Repair</td>
+<td>S. Vickers</td>
+<td>Statistics: Type I and Type II errors (<a href="13/ch9_stats.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Implants for Bone</td>
+<td>M. Spector</td>
+<td>Bone Substitute Materials and Tissue Engineering (<a href="13/ch12_bone.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Implants for Plastic Surgery</td>
+<td>Dr. D. P. Orgill</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Cardiovascular Prostheses: Heart Valves and Blood Vessels</td>
+<td>Dr. F. Schoe</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Devices for Nerve Regeneration</td>
+<td>I. V. Yannas</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Musculoskeletal Soft Tissues: Meniscus, Intervertebral Disk</td>
+<td>M. Spector</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Dental and Otologic Implants</td>
+<td>M. Spector</td>
+<td>Dental Tissue Engineering (<a href="13/ch11_dentalte.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Other Devices: Spinal Cord, Heart Lung</td>
+<td>M. Spector</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Final Oral Presentation of Designs (Mock FDA Panel)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<ul>
+<li>Homework 1 (<a href="13/hw1.pdf">PDF</a>)</li>
+<li>Homework 1 Solution (<a href="13/hw1_soln.pdf">PDF</a>)</li>
+<li>FDA Report: total length 8 pages including all images and references, 1 1/2 line spacing, 12 pt. Times font (<a href="13/fda_report_outln.pdf">PDF</a>)</li>
+</ul>
+
+</br>
+
+
+
+
+
+
+
+

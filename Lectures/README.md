@@ -50,7 +50,7 @@
 
 <li><a href="#course49">Acoustical Oceanography</a></li>
 <li><a href="#course50">Radiative Transfer</a></li>
-<li><a href="#course31">Computational Geometry</a></li>
+<li><a href="#course51">Nano-to-Macro Transport Processes</a></li>
 <li><a href="#course32">Identification, Estimation, and Learning</a></li>
 <li><a href="#course33">Hydrofoils and Propellers</a></li>
 <li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
@@ -5943,5 +5943,15 @@ MATLAB
 
 </br>
 
+<h2 id="course51">Nano-to-Macro Transport Processes</h2>
 
+
+<ul>
+<li><a href="MIT2_57S12_lec_notes_2004.pdf">Complete 2004 Lecture Notes (PDF - 3.5MB)</a></li>
+<li><a href="MIT2_57S12_Mul_Ex_Gn_Pr.pdf"><em>More Efficient Solar Cells via Multi Excition Generation</em>&nbsp;(PDF)</a>&nbsp;(Courtesy of an MIT student.&nbsp; Used with Permission.)</li>
+<li><a href="MIT2_57S12_Ab_in_Metamat.pdf"><em>Absorption in Metamaterials: Turning Loss into Gain</em>&nbsp;(PDF)</a>&nbsp;(Courtesy of an MIT student.&nbsp; Used with Permission.)</li>
+<li>&nbsp;</li>
+</ul>
+
+</br>
 

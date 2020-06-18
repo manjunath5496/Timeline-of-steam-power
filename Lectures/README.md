@@ -51,7 +51,7 @@
 <li><a href="#course49">Acoustical Oceanography</a></li>
 <li><a href="#course50">Radiative Transfer</a></li>
 <li><a href="#course51">Nano-to-Macro Transport Processes</a></li>
-<li><a href="#course32">Identification, Estimation, and Learning</a></li>
+<li><a href="#course52">Desalination and Water Purification</a></li>
 <li><a href="#course33">Hydrofoils and Propellers</a></li>
 <li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
 <li><a href="#course35">Marine Hydrodynamics</a></li>
@@ -5954,4 +5954,208 @@ MATLAB
 </ul>
 
 </br>
+<h2 id="course52">Desalination and Water Purification</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">READINGS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to water supply</td>
+<td>
+<p>Specter, Michael. "<a href="http://www.newyorker.com/archive/2006/10/23/061023fa_fact1">The Last Drop</a>."&nbsp;<em>The New Yorker</em>, October 23, 2006.</p>
+<p>Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/129556e.pdf">PDF</a>)</p>
+<p>Reynolds, T. D., and P. A. Richards. "Water Quality." In&nbsp;<em>Unit Operations and Processes in Environmental Engineering</em>. Boston, MA: PWS Publishing, 1995, pp. 78-91. ISBN: 9780534948849.</p>
+<p>Introduction (<a href="11/MIT2_500s09_lec01.pdf">PDF - 6.7MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Characteristics of seawater. Concentration and molality</td>
+<td>
+<p>Stewart, Robert H. "<a href="11/stewart_textbook.pdf">Definition of Salinity</a>." Section 6.1 in&nbsp;<em>Introduction to Physical Oceanography</em>. Texas A &amp; M University, 2008. (<a href="11/MIT2_500s09_read02.pdf">PDF</a>) (Courtesy of Robert H. Stewart. Used with permission.)</p>
+<p>ASTM Standard D1141 1998 (2008). "Standard for Practice for the Preparation of Substitute Ocean Water." West Conshohocken, PA:&nbsp;<a href="http://www.astm.org/">ASTM International</a>, 2008. DOI: 10.1520/D1141-98R08.</p>
+</td>
+</tr>
+<tr class="row">
+<td>Gibbs energy. Work of separation</td>
+<td>Dean, Cornelia. "<a href="http://www.nytimes.com/2009/01/31/science/earth/31ocean.html?_r=2">Rising Acidity is Threatening Food Web of Oceans, Science Panel Says</a>."&nbsp;<em>New York Times</em>, January 30, 2009.</td>
+</tr>
+<tr class="alt-row">
+<td>Chemical activity. Work of separation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Separation at finite recovery. Osmosis</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Reverse osmosis. Solution-diffusion model</td>
+<td>Fritzmann, C., et al. "State-of-the-Art Reverse Osmosis Desalination."&nbsp;<em>Desalination</em>&nbsp;216 (October 2007): 1-76.</td>
+</tr>
+<tr class="row">
+<td>Solution-diffusion model. Crossflow separators</td>
+<td>Paul, D. R. "Reformulation of the Solution-Diffusion Theory of Reverse Osmosis."&nbsp;<em>Journal of Membrane Science</em>&nbsp;241 (October 2004): 371-386.</td>
+</tr>
+<tr class="alt-row">
+<td>Concentration polarization. RO System engineering</td>
+<td>
+<p>Sauvet-Guichon, Bruno. "Ashkelon Desalination Plant &mdash; A Successful Challenge."&nbsp;<em>Desalination</em>&nbsp;203 (February 2007): 75-81.</p>
+<p>Reverse Osmosis Systems (<a href="11/MIT2_500s09_lec08.pdf">PDF - 2.9MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Introduce term project. Electrodialysis</td>
+<td>Guest lecture: Amy Smith (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_500s09_lec09.pdf">PDF - 1.3MB</a>) (Courtesy of Amy Smith. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>Visit to Koch Membrane Systems</td>
+<td>Guest lecture: John McArdle (<a href="11/MIT2_500s09_lec10.pdf">PDF - 4.7MB</a>) (Courtesy of Koch Membrane Systems. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>Visit GE Ionics</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Electrodialysis</td>
+<td>
+<p>&nbsp;Strathmann, Heiner. "The Ion-Exchange Equilibrium and the Donnan Potential," and "The Electrochemical Equilibrium." Sections 3.1.2 and 3.1.3, chapter 2 in&nbsp;<em>Ion-Exchange Membrane Separation Processes</em>. Boston, MA: Elsevier, 2004. ISBN: 9780444502360.</p>
+<p>&nbsp;Probstein, Ronald F. "The Electrolytic Cell," "Electrodialysis," and "Ion Exchange." Sections 6.1-6.3 in&nbsp;<em>Physicochemical Hydrodynamics</em>. Hoboken, NJ: Wiley-Interscience, 2003. ISBN: 9780471458302.</p>
+<p>Strathmann, Heiner. "Electromembrane Processes: State-of-the-Art Processes and Recent Developments." European Desalination Society, 2007. (<a href="11/MIT2_500s09_read12.pdf">PDF - 1.4MB</a>) (Courtesy of Heiner Strathmann. Used with permission.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Electrodialysis (cont.). Ion exchange</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to thermal desalination</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Scale formation. Distillation. Least heat of distillation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>GOR. Combined power generation and distillation</td>
+<td>El-Sayed, Y. M., and R. S. Silver. "Fundamentals of Distillation." Chapter 2 in Spielger, K. S., and A. D. K. Laird.&nbsp;<em>Principles of Desalination</em>. 2nd ed., Part A. New York, NY: Academic Press, 1980. ISBN: 9780126567014.</td>
+</tr>
+<tr class="row">
+<td>Single effect distillation. Multi-effect distillation</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Single-stage flash distillation. Multi-stage flash evaporation</td>
+<td>Multi-Effect Distillation and Multi-Stage Flash Evaporation (<a href="11/MIT2_500s09_lec18.pdf">PDF - 4.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Vapor compression distillation. Relative desalination costs. Freeze distillation</td>
+<td>Miller, James E. "Review of Water Resources and Desalination Technologies." Sandia National Labs (March 2003): SAND 2003-0800. (<a href="11/MIT2_500s09_read19.pdf">PDF</a>) (Courtesy of Sandia National Labs. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>Discussion of term project. Details about Haiti</td>
+<td>Guest lecture: Amanda Adams, Mercy and Sharing (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="11/MIT2_500s09_lec20.pdf">PDF - 3.2MB</a>) (Courtesy of Ray Ginther and Amy Smith. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>Disinfection. Chlorination. Pop quiz!</td>
+<td>
+<p>Hammer, Mark J., and Mark J. Hammer, Jr. "Water Processing." Chapter 7 in&nbsp;<em>Water and Wastewater Technology</em>. Upper Saddle River, NJ: Pearson/Prentice Hall, 2007. ISBN: 9780131745421.</p>
+<p>Murcott, Susan. "Water and Sanitation Literacy Quiz." (<a href="11/MIT2_500s09_read21.pdf">PDF</a>) (Courtesy of Susan Murcott. Used with permission.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Wastewater treatment in the developing world</td>
+<td>
+<p>Harleman, D. R. F., and S. Murcott. "An Innovative Approach to Urban Wastewater Treatment in the Developing World."&nbsp;<em>Water21: Magazine of the International Water Association</em>&nbsp;(June 2001): 1-13.</p>
+<p>&nbsp;Ujang, Z., and M. Henze. "Sustainable Sanitation for Developing Countries." Chapter 1 in&nbsp;<em>Municipal Wastewater Management in Developing Countries: Principles and Engineering</em>. London, England: IWA Publishing, 2006. ISBN: 9781843390305.</p>
+<p>Tarr, J. A., et al. "Water and Wastes: A Retrospective Assessment of Wastewater Technology in the United States, 1800-1932."&nbsp;<em>Technology and Culture</em>&nbsp;25 (April 1984): 226-263.</p>
+<p>&nbsp;Tarr, J. A. "Origins of the Piped Society." Appendix, in del Porto, David, and Carol Steinfeld.&nbsp;<em>The Composting Toilet System Book</em>. Concord, MA: Center for Ecological Pollution Prevention, 2000, pp. 209-233. ISBN: 9780966678307.</p>
+<p>Guest lecture: Susan Murcott (<a href="11/MIT2_500s09_lec22.pdf">PDF - 7.7MB</a>) (Courtesy of Susan Murcott. Used with permission.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Solar energy. Solar collectors. Solar stills</td>
+<td>
+<p>Fath, Hassan E. S., et al. "PV and Thermally Driven Small-Scale, Stand-Alone Solar Desalination Systems with Very Low Maintenance Needs."&nbsp;<em>Desalination</em>&nbsp;225 (2008): 58-69.</p>
+<p>&nbsp;Ettouney, H., and L. Rizzuti. "Solar Desalination: A Challenge for Sustainable Fresh Water in the 21st Century." Chapter 1 in&nbsp;<em>Solar Desalination for the 21st Century: A Review of Modern Technologies and Researched on Desalination Coupled to Renewable Energies</em>. Edited by Lucio Rizzuti, Hisham M. Ettouney, and Andrea Cipollina. Dordrecht, The Netherlands: Springer, 2007. ISBN: 9781402055065.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Solar desalination systems; CSP water/power cogeneration</td>
+<td>Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf">PDF - 7.4MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Particulate removal. Flocculation. Summary</td>
+<td>Conclusion (<a href="11/MIT2_500s09_lec25.pdf">PDF - 5.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final project presentations</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Homework</h2>
+<p>Four problem sets were distributed during the semester.</p>
+<p>Homework 1 (<a href="11/MIT2_500s09_hw01.pdf">PDF</a>)</p>
+<p>Homework 2 (<a href="11/MIT2_500s09_hw02.pdf">PDF</a>)</p>
+<p>Homework 3 (<a href="11/MIT2_500s09_hw03.pdf">PDF</a>)</p>
+<p>Homework 4 (<a href="11/MIT2_500s09_hw04.pdf">PDF</a>)</p>
+<h2 class="subhead">Term Project</h2>
+<p>Problem Statement (<a href="11/MIT2_500s09_project.pdf">PDF</a>) - This describes conditions in Phaeton and Paulette, including the results of field tests of several water supplies in the villages. It also sets out the requirements for the term project.</p>
+<p>Map of Cap Haitien (<a href="11/haiti.kml">KML</a>) - Download this file to explore in Google Earth, or copy the URL into&nbsp;<a href="http://maps.google.com/">Google Maps</a>.</p>
+<p>Q&amp;A (<a href="11/MIT2_500s09_questions.pdf">PDF</a>) - These are answers to some student questions by Amy Smith and Kofi Taha.</p>
+<p>Phaeton &amp; Paulette Water Testing (<a href="11/MIT2_500s09_testing01.pdf">PDF</a>) - Test results for Phaeton and Paulette, Haiti. We believe that these may refer to the diesel pumped supply, not the ground water.</p>
+<p>Phaeton Family Well Testing (<a href="11/MIT2_500s09_testing02.pdf">PDF</a>) - Test results for the water sample collected from a hand-dug well in Phaeton during March 2009. They also include results for Sous Sale Bay and Pestel Harbor.</p>
+<h2 class="subhead">Student Reports</h2>
+<p>All student work is presented with permission of the authors.</p>
+<div class="maintabletemplate">
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">GROUPS</th>
+<th scope="col">PRESENTATIONS</th>
+<th scope="col">REPORTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Karan Mistry and Ed Summers. "Purification of water in Phaeton and Paulette, Haiti."</td>
+<td>(<a href="11/MIT2_500s09_sw01_pres.pdf">PDF</a>)</td>
+<td>(<a href="11/MIT2_500s09_sw01_report.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Cisterns: a potential water source for Paulette and Phaeton."</td>
+<td>(<a href="11/MIT2_500s09_sw02_pres.pdf">PDF - 1.9MB</a>)</td>
+<td>(<a href="11/MIT2_500s09_sw02_report.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"A proposal and analysis of water desalination systems for the villages of Phaeton and Paulette, Haiti."</td>
+<td>(<a href="11/MIT2_500s09_sw03_pres.pdf">PDF</a>)</td>
+<td>(<a href="11/MIT2_500s09_sw03_report.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"A potable water system for Paulette and Phaeton, Haiti."</td>
+<td>(<a href="11/MIT2_500s09_sw04_pres.pdf">PDF</a>)</td>
+<td>(<a href="11/MIT2_500s09_sw04_report.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Prakash Narayan, et al. "Purification of water in Phaeton and Paulette."</td>
+<td>(<a href="11/MIT2_500s09_sw05_pres.pdf">PDF</a>)</td>
+<td>(<a href="11/MIT2_500s09_sw05_report.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
 

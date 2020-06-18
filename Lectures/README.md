@@ -67,7 +67,9 @@
 <li><a href="#course66">System Design and Analysis based on AD and Complexity Theories</a></li>
 <li><a href="#course67">Introduction to Manufacturing Systems</a></li>
 <li><a href="#course68">Manufacturing Systems Analysis</a></li>
-
+<li><a href="#course69">Mechanical Assembly and Its Role in Product Development</a></li>
+<li><a href="#course67">Introduction to Manufacturing Systems</a></li>
+<li><a href="#course68">Manufacturing Systems Analysis</a></li>
 
 
 
@@ -7679,4 +7681,90 @@ MATLAB
 </tbody>
 </table>
 
+</br>
+<h2 id="course69">Mechanical Assembly and Its Role in Product Development</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl160id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl160id0_1">Introduction, Logistics, Context, History (<a href="14/class1_intro_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Assembly in the Small - Step-by-step Process -Assembly Motions and Forces (<a href="14/class2_aits_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Assembly in the Small -Rigid Part Mating Theory and RCC (<a href="14/cls3_rgd_prt_mn4.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Key Characteristics (<a href="14/class_kcs_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Mathematical Models of Assemblies, Feature-based Modeling of Assemblies (<a href="14/cls5_assy_mdls04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Constraint in Assembly-1 (<a href="14/cls6_7cnstrnt04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Constraint in Assembly-2 (<a href="14/cls6_7cnstrnt04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Variation Buildup in Assemblies-1 (<a href="14/cls8_part_var04a.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Variation Buildup in Assemblies-2 (<a href="14/cls9_assy_var04b.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Assembly Sequence Analysis, Algorithms, and Software (<a href="14/cls10_asy_seq_04.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">The Datum Flow Chain-1 (<a href="14/cls11_13_dfc_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">The Datum Flow Chain-2 (<a href="14/cls11_13_dfc_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">More DFC (<a href="14/cls11_13_dfc_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Assembly in The Large - Basic Issues, Economics, Step-by-step Process (<a href="14/cls14_aitl_bsc04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Product Architecture, Flexibility (<a href="14/cls15_prod_arch4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Design for Assembly - Theory and Examples (<a href="14/class16_dfa04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">AITL System Design Issues: Kinds of Assembly Lines and Equipment, Production Volume, Cycle Times (<a href="14/cs17_atl_sysdsn4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Mid-term Presentation of Student Projects Covering First Three Reports</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Assembly in The Large: Workstation Design Issues (<a href="14/cs19_wrkst_dsgn4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Assembly System Design Techniques and Simulation (<a href="14/c20_as_sds_b2f51.pdf">PDF 1</a>) (<a href="14/cls20_smltion04.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Economic Analysis of Assembly Systems (<a href="14/cls21_ecn_anlys4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">Flexible Manufacturing Systems (<a href="14/class22_fma.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Outsourcing, and Supply Chain Management or Student Show and Tell&nbsp; (<a href="14/cls23_make_buy.pdf">PDF</a>) (Courtesy of Charles Fine.&nbsp;Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl160id0_1">767 Wing Case Study (<a href="14/cls24_767_case04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl160id0_1">Student Project Presentations</td>
+</tr>
+</tbody>
+</table>
 </br>

@@ -63,7 +63,7 @@
 <li><a href="#course61">Direct Solar/Thermal to Electrical Energy Conversion Technologies</a></li>
 <li><a href="#course62">Biomedical Devices Design Laboratory</a></li>
 <li><a href="#course63">Designing Paths to Peace</a></li>
-<li><a href="#course44">Optical Engineering</a></li>
+<li><a href="#course64">Economics of Marine Transportation Industries</a></li>
 <li><a href="#course45">Elements of Mechanical Design</a></li>
 <li><a href="#course46">Precision Machine Design</a></li>
 <li><a href="#course47">Multi-Scale System Design</a></li>
@@ -7241,4 +7241,79 @@ MATLAB
 <li class="maintabletemplate">Pathways to Peace: From Heart to Art to Part (<a href="13/pathways_course_outline1.pdf">PDF</a>)</li>
 </ul>
 
+</br>
+<h2 id="course64">Economics of Marine Transportation Industries</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Part I. Review of Economic Theory</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction and Overview</td>
+</tr>
+<tr class="row">
+<td>Fundamentals of Market Economics: Supply and Demand, Elasticity, etc. (<a href="13/market_econ.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fundamentals of Market Economics (cont.): Common Property Resources, Economic Efficiency, Market Failure, etc.</td>
+</tr>
+<tr class="row">
+<td>
+<p>Economics of the Environment (<a href="13/enviro_econ.pdf">PDF</a>)</p>
+<p>The Time Value of Money (<a href="13/time_value.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Economic Sustainability</p>
+<p>Macroeconomics: National Income Accounting (<a href="13/nipa.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td><strong>Part II. Applications to Marine Industries</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Shipping Markets and Cycles</td>
+</tr>
+<tr class="row">
+<td>
+<p>Bulk Shipping</p>
+<p>LNG Shipping (<a href="13/lng_shipping.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Ship Charter/Purchase Decisions (Guest Lecture by Sydney Levine, Shipping Intelligence Inc.)</td>
+</tr>
+<tr class="row">
+<td>Shipping and the Environment: Tanker Spills, Right Whales</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Liner Shipping and Ports</p>
+<p>FPSOs, Fast Ferries, Fast Freight Ships (<a href="13/fastferry_fpso.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Shipping Finance, Risk and Return (Guest Lecture by Kevin Hazel, Marsoft Inc. Files Courtesy of Marsoft. Used with Permission.) (<a href="13/marsoft_cycle.pdf">PDF 1</a>) (<a href="13/marsoft_containr.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Student Presentations</p>
+<p>Course Evaluation</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Student Presentations (cont.)</p>
+<p>Course Wrap-up</p>
+</td>
+</tr>
+</tbody>
+</table>
 </br>

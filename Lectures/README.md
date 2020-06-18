@@ -53,7 +53,7 @@
 <li><a href="#course51">Nano-to-Macro Transport Processes</a></li>
 <li><a href="#course52">Desalination and Water Purification</a></li>
 <li><a href="#course53">Macromolecular Hydrodynamics</a></li>
-<li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
+<li><a href="#course54">Fundamentals of Photovoltaics</a></li>
 <li><a href="#course35">Marine Hydrodynamics</a></li>
 <li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
 <li><a href="#course37">Advanced Fluid Mechanics</a></li>
@@ -6181,7 +6181,38 @@ MATLAB
 
 </br>
 
+<h2 id="course54">Fundamentals of Photovoltaics</h2>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS&nbsp;#</th>
+<th scope="col">SUPPORTING&nbsp;MATERIALS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="11/MIT2_627F13_pset1.pdf"><span class="nobr">Problem set 1 (PDF)</span></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="11/MIT2_627F13_pset2.pdf">Problem set 2 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="11/MIT2_627F13_pset3.pdf">Problem set 3 (PDF)</a></td>
+<td>
+<p>For Question 1:&nbsp;<a href="11/MIT2_627F13_pset3_q1data.xlsx">Dark and Illuminated I-V Measurement Data (XLS)</a></p>
+<p><em>References</em><br />Slides for&nbsp;<a href="11/MIT2_627F13_lec06.pdf">Lecture 6: Charge Separation, Part II (PDF - 2.1MB)</a></p>
+<p>Green, M. A. "Design of Silicon Solar Cells." Chapter 8 in&nbsp;<em>Solar Cells: Operating Principles, Technology, and System Applications</em>. Prentice Hall, 1981. ISBN: 9780138222703.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Manufacturing Simulation</h2>
+<p>Download the manufacturing simulation software:&nbsp;<a href="https://sites.google.com/site/virtualsolarcellsinc/virtual-mes-software">Virtual MES</a></p>
+<p>Assignment:&nbsp;<a href="11/MIT2_627F13_assn_sim.pdf">Hypothesis Testing of New Wafer Supplies (PDF)</a></p>
+</br>
 

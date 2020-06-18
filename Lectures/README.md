@@ -68,7 +68,7 @@
 <li><a href="#course67">Introduction to Manufacturing Systems</a></li>
 <li><a href="#course68">Manufacturing Systems Analysis</a></li>
 <li><a href="#course69">Mechanical Assembly and Its Role in Product Development</a></li>
-<li><a href="#course67">Introduction to Manufacturing Systems</a></li>
+<li><a href="#course70">Introduction to Numerical Analysis for Engineering</a></li>
 <li><a href="#course68">Manufacturing Systems Analysis</a></li>
 
 
@@ -7768,3 +7768,201 @@ MATLAB
 </tbody>
 </table>
 </br>
+<h2 id="course70">Introduction to Numerical Analysis for Engineering</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl94id0_1" scope="col">TOPICS</th>
+<th id="tbl94id0_2" scope="col">LECTURE&nbsp;NOTES</th>
+<th id="tbl94id0_3" scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl94id0_1">
+<p>Introduction</p>
+<p>Computer Architecture</p>
+<p>Number Representations</p>
+<p>Recursion</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_1.pdf">PDF - 1.7 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>horner.m (<a href="14/horner.m">M</a>)<br />radd.m (<a href="14/radd.m">M</a>)<br />recur.m (<a href="14/recur.m">M</a>)<br />sqr.m (<a href="14/sqr.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl94id0_1">
+<p>Error Propagation</p>
+<p>Error Estimation</p>
+<p>Condition Numbers</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_2.pdf">PDF - 2.6 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>euler.m (<a href="14/euler.m">M</a>)<br />radd.m (<a href="14/radd.m">M</a>)<br />sbfj.m (<a href="14/sbfj.m">M</a>)<br />sbfj_3.m (<a href="14/sbfj_3.m">M</a>)<br />sbfj_f.m (<a href="14/sbfj_f.m">M</a>)<br />sbfj_f_3.m (<a href="14/sbfj_f_3.m">M</a>)<br />sbfy.m (<a href="14/sbfy.m">M</a>)<br />tsbfj.m (<a href="14/tsbfj.m">M</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl94id0_1">
+<p>Linear Systems of Equations: Cramer's Rule</p>
+<p>Gaussian Elimination</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_3.pdf">PDF - 1.8 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>tbt2.m (<a href="14/tbt2.m">M</a>)<br />tbt3.m (<a href="14/tbt3.m">M</a>)<br />tbt4.m (<a href="14/tbt4.m">M</a>)<br />tbt5.m (<a href="14/tbt5.m">M</a>)<br />tbt.m (<a href="14/tbt.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl94id0_1">
+<p>Linear Systems: Gaussian Elimination</p>
+<p>Pivoting</p>
+<p>LU Factorization</p>
+<p>Error Analysis</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_4.pdf">PDF - 1.1 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>tbt6.m (<a href="14/tbt6.m">M</a>)<br />tbt7.m (<a href="14/tbt7.m">M</a>)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl94id0_1">
+<p>Linear Systems: Tri-diagonal Systems</p>
+<p>Special Matrices</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_5.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl94id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl94id0_1">
+<p>Linear Systems: Iterative Methods</p>
+<p>Convergence of Iterative Schemes</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_6.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>vib_string.m (<a href="14/vib_string.m">M</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl94id0_1">
+<p>Roots of Non-linear Equations: Bisection</p>
+<p>Newton-Ralphson Iteration</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_7.pdf">PDF - 1.5 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>bisect.m (<a href="14/bisect.m">M</a>)<br />cube.m (<a href="14/cube.m">M</a>)<br />div.m (<a href="14/div.m">M</a>)<br />heron.m (<a href="14/heron.m">M</a>)<br />sqr.m (<a href="14/sqr.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl94id0_1">
+<p>Interpolation of Functions by Polynomials</p>
+<p>Lagrange Interpolation</p>
+<p>Triangular Family</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_8.pdf">PDF - 2.6 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>langrange.m (<a href="14/lagrange.m">M</a>)<br />newton.m (<a href="14/newton.m">M</a>)<br />newton_coef.m (<a href="14/newton_coef.m">M</a>)<br />newton_test.m (<a href="14/newton_test.m">M</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl94id0_1">
+<p>Numerical Differentiation and Integration</p>
+<p>Error Estimates</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_9.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl94id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl94id0_1">
+<p>Ordinary Differential Equations</p>
+<p>Initial Value Problems: Euler and Runge-Kutta Methods</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_10.pdf">PDF - 3.0 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>euler.m (<a href="14/euler.m">M</a>)<br />rk.m (<a href="14/rk.m">M</a>)<br />rkg.m (<a href="14/rkg.m">M</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl94id0_1">
+<p>Ordinary Differential Equations (cont.)</p>
+<p>Boundary Value Problems: Finite Difference Methods</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_11.pdf">PDF - 1.7 MB</a>)</p>
+</td>
+<td headers="tbl94id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl94id0_1">
+<p>Minimization Problems</p>
+<p>Least Square Approximation</p>
+<p>Optimization</p>
+</td>
+<td headers="tbl94id0_2">
+<p>(<a href="14/lect_12.pdf">PDF</a>)</p>
+</td>
+<td headers="tbl94id0_3">
+<p>cost.m (<a href="14/cost.m">M</a>)<br />curve.m (<a href="14/curve.m">M</a>)<br />lstsq.m (<a href="14/lstsq.m">M</a>)<br />salesman.m (<a href="14/salesman.m">M</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p>Handout on MATLAB&reg; Basics (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/matlab_handout.pdf">PDF</a>) (Courtesy of Prof. John Leonard. Used with permission.)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 0 (In-class Assignment) (<a href="14/ps0.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 1 (<a href="14/ps1.pdf">PDF</a>)</td>
+<td>(<a href="14/ps1solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/ps2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/ps2solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/ps3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/ps3solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 4 (<a href="14/ps4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="14/ps4solution.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p>&nbsp;Take-home Exam (<a href="14/take_home_exam.pdf">PDF</a>)</p>
+</br>
+
+

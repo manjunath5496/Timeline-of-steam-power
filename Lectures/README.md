@@ -56,7 +56,7 @@
 <li><a href="#course54">Fundamentals of Photovoltaics</a></li>
 <li><a href="#course55">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course56">Marine Power and Propulsion</a></li>
-<li><a href="#course37">Advanced Fluid Mechanics</a></li>
+<li><a href="#course57">Cell-Matrix Mechanics</a></li>
 <li><a href="#course38">Compressible Fluid Dynamics</a></li>
 <li><a href="#course39">Turbulent Flow and Transport</a></li>
 <li><a href="#course40">Numerical Fluid Mechanics</a></li>
@@ -6482,7 +6482,6 @@ MATLAB
 <td>
 <p>Review, catch-up</p>
 <p>Air independent propulsion (<a href="12/26aip.pdf">PDF</a>)</p>
-<p>Animation of a stirling engine&nbsp;<span class="nobr">(<a href="12/26stirling.avi">AVI - 39.5 MB</a>)</span></p>
 </td>
 <td>&nbsp;</td>
 </tr>
@@ -6541,6 +6540,48 @@ MATLAB
 
 </br>
 
+<h2 id="course57">Cell-Matrix Mechanics</h2>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMNETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/MIT2_785JF14_Homework_1.pdf">Homework 1 (PDF)</a></td>
+<td><a href="12/MIT2_785JF14_Homework_1_Sol.pdf">Solutions to Homework 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="12/MIT2_785JF14_Homework_2.pdf">Homework 2 (PDF)</a></td>
+<td><a href="12/MIT2_785JF14_Homework_2_Sol.pdf">Solutions to Homework 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/MIT2_785JF14_Homework_3.pdf">Homework 3 (PDF)</a></td>
+<td><a href="12/MIT2_785JF14_Homework_3_Sol.pdf">Solutions to Homework 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="12/MIT2_785JF14_Homework_4.pdf">Homework 4 (PDF)</a></td>
+<td>Solutions are not available.</td>
+</tr>
+<tr class="row">
+<td><a href="12/MIT2_785JF14_Homework_5.pdf">Homework 5 (PDF)</a></td>
+<td>Solutions are not available.</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/MIT2_785JF14_Homework_6.pdf">Homework 6 (PDF)</a></td>
+<td><a href="12/MIT2_785JF14_Homework_6_Sol.pdf">Solutions to Homework 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Homework 7 is not available.</td>
+<td>Solutions are not available.</td>
+</tr>
+<tr class="alt-row">
+<td><a href="12/MIT2_785JF14_Homework_8.pdf">Homework 8 (PDF)</a></td>
+<td>Solutions are not available.</td>
+</tr>
+</tbody>
+</table>
+</br>

@@ -47,7 +47,6 @@
 <li><a href="#course46">Precision Machine Design</a></li>
 <li><a href="#course47">Multi-Scale System Design</a></li>
 <li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
-
 <li><a href="#course49">Acoustical Oceanography</a></li>
 <li><a href="#course50">Radiative Transfer</a></li>
 <li><a href="#course51">Nano-to-Macro Transport Processes</a></li>
@@ -64,7 +63,7 @@
 <li><a href="#course62">Biomedical Devices Design Laboratory</a></li>
 <li><a href="#course63">Designing Paths to Peace</a></li>
 <li><a href="#course64">Economics of Marine Transportation Industries</a></li>
-<li><a href="#course45">Elements of Mechanical Design</a></li>
+<li><a href="#course65">Tribology</a></li>
 <li><a href="#course46">Precision Machine Design</a></li>
 <li><a href="#course47">Multi-Scale System Design</a></li>
 <li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
@@ -7313,6 +7312,93 @@ MATLAB
 <p>Student Presentations (cont.)</p>
 <p>Course Wrap-up</p>
 </td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course65">Tribology</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction to Tribology (<a href="13/ch1_trib_intro.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction to Tribology (cont.) (<a href="13/ch1_trib_intro.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Chemical and Physical State of the Solid Surface (<a href="13/ch2_solid_surfac.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Friction (<a href="13/ch3_friction.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lab: Friction Measurement</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Analysis of Large Plastic Deformation of Elasto-plastic Solids (<a href="13/ch3b_slip_line_f.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Introduction to Wear (<a href="13/ch4a_wear_intro.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Response of Materials to Surface Traction (<a href="13/ch4b_surface_t.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Wear Mechanisms (<a href="13/ch5_wear_mech.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exam 1</td>
+</tr>
+<tr class="row">
+<td headers="col2">Boundary Lubrication</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Boundary Lubrication (cont.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hydrodynamic Lubrication</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Design of Pin Joints and Electrical Connectors</td>
+</tr>
+<tr class="row">
+<td headers="col2">Design of Cutting Tools</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction to Axiomatic Design (<a href="13/ch10_axiomatic.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Design of Low Friction Surfaces (<a href="13/ch11_lowfriction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Design of Seals (<a href="13/ch11b_seal_des.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Friction and Wear of Polymers and Composites (<a href="13/ch12_polymer.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Solution Wear (<a href="13/ch13_solution_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Temperature Distribution (<a href="13/ch14_temp_dist.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Erosive Wear (<a href="13/ch15_erosive_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Exam 2</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Nano and Micro-tribology</td>
+</tr>
+<tr class="row">
+<td headers="col2">Term Paper Presentations</td>
 </tr>
 </tbody>
 </table>

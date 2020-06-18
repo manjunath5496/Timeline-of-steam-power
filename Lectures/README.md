@@ -58,7 +58,7 @@
 <li><a href="#course56">Marine Power and Propulsion</a></li>
 <li><a href="#course57">Cell-Matrix Mechanics</a></li>
 <li><a href="#course58">Design of Medical Devices and Implants</a></li>
-<li><a href="#course39">Turbulent Flow and Transport</a></li>
+<li><a href="#course59">Optics</a></li>
 <li><a href="#course40">Numerical Fluid Mechanics</a></li>
 <li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
 <li><a href="#course42">Internal Combustion Engines</a></li>
@@ -6764,9 +6764,151 @@ MATLAB
 </ul>
 
 </br>
+<h2 id="course59">Optics</h2>
 
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;TOPICS&nbsp;AND&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="13/MIT2_71S14_lec2_notes.pdf">Geometrical Optics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_lec4_notes.pdf">Matrix Methods in Paraxial Optics (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_lec7_notes.pdf">Review of Geometrical Optics (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_lec9_notes.pdf">EM Wave Equations (PDF - 1.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_lec10_notes.pdf">Eikonal Equations, Gradient Index Lenses, Hamiltonian Optics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_lec11_notes.pdf">Superposition of Waves, Interference, Optical Interferometry (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_lec13_notes.pdf">Math Tutorial on Spatial Fourier Transforms (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_lec14_notes.pdf">Fraunhofer Diffraction (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_lec16_notes.pdf">Fresnel Diffraction and Examples (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_lec20_notes.pdf">Fresnel Diffraction, Depth of Field and Depth of Focus, Holography (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_lec22_notes.pdf">Vector Properties of Electromagnetic Fields: Polarization, Waveplates; Birefringence (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_lec25_notes.pdf">Review of Scalar and Vector Wave Optics, Outlook (PDF - 1.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS&nbsp;#</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="13/MIT2_71S14_HW_1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="13/MIT2_71S14_HW_1_sols.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_HW_2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="13/MIT2_71S14_HW_2_sols.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_HW_3.pdf">Problem Set 3 (PDF - 1.3MB)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/MIT2_71S14_HW_3_sols.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_HW_4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="13/MIT2_71S14_HW_4_sols.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="13/MIT2_71S14_HW_5.pdf">Problem Set 5 (PDF - 1.1MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="13/MIT2_71S14_HW_6.pdf">Problem Set 6 (PDF - 1.2MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth10" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">YEARS</th>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>2004</td>
+<td>
+<p><a href="13/MIT2_71S14_f04_quiz1.pdf">Quiz 1 (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2008</td>
+<td><a href="13/MIT2_71S14_s08_quiz1.pdf">Quiz 1 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>2009</td>
+<td><a href="13/MIT2_71S14_s09_quiz2.pdf">Quiz 2 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2012</td>
+<td>
+<p><a href="13/MIT2_71S14_s12_quiz1.pdf">Quiz 1 (PDF)</a></p>
+<p><a href="13/MIT2_71S14_s12_quiz2.pdf">Quiz 2 (PDF)</a></p>
+</td>
+<td>
+<p><a href="13/MIT2_71S14_s12_quiz1_sols.pdf">Solutions for Quiz 1 (PDF - 1.4MB)</a></p>
+<p><a href="13/MIT2_71S14_s12_quiz2_sols.pdf">Solutions for Quiz 2 (PDF - 1.3MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>2013</td>
+<td><a href="13/MIT2_71S14_s13_final.pdf">Final Exam (PDF)</a></td>
+<td>
+<p><a href="13/MIT2_71S14_s13_PracPr_Sol.pdf">Practice Problems with Solutions (PDF - 1.9MB)</a></p>
+<p><a href="13/MIT2_71S14_s13_FinlPr4_sol.pdf">Final Exam Problem 4 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>2014</td>
+<td>
+<p><a href="13/MIT2_71S14_s14_quiz1.pdf">Quiz 1 (PDF)</a></p>
+<p><a href="13/MIT2_71S14_s14_quiz2.pdf">Quiz 2 (PDF)</a></p>
+<p><a href="13/MIT2_71S14_s14_Prac_Probs.pdf">Final Exam Practice Problems (PDF)&nbsp;</a></p>
+</td>
+<td>
+<p><a href="13/MIT2_71S14_s14_quiz1_sols.pdf">Solutions for Quiz 1 (PDF)</a></p>
+<p><a href="13/MIT2_71S14_s14_quiz2_sols.pdf">Solutions for Quiz 2 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="13/MIT2_71S14_s14_PracPr_Sol.pdf">Solutions for Practice Problems (PDF - 2.1MB)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 

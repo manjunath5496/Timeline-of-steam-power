@@ -55,7 +55,7 @@
 <li><a href="#course53">Macromolecular Hydrodynamics</a></li>
 <li><a href="#course54">Fundamentals of Photovoltaics</a></li>
 <li><a href="#course55">Fundamentals of Advanced Energy Conversion</a></li>
-<li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
+<li><a href="#course56">Marine Power and Propulsion</a></li>
 <li><a href="#course37">Advanced Fluid Mechanics</a></li>
 <li><a href="#course38">Compressible Fluid Dynamics</a></li>
 <li><a href="#course39">Turbulent Flow and Transport</a></li>
@@ -6319,11 +6319,227 @@ MATLAB
 </table>
 </br>
 
+<h2 id="course56">Marine Power and Propulsion</h2>
 
 
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Resistance and propulsion (propulsors) (<a href="12/01resistanc_prop.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Actuator disk</p>
+<p>Propeller testing - B series (<a href="12/02propeller_test.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>Actuator disk (<a href="12/02actuator_disk.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Design using Kt (Kq) curves (<a href="12/03kt_kq_design.pdf">PDF</a>)</p>
+<p>Detail design (<a href="12/03prop_des_det.pdf">PDF</a>)</p>
+</td>
+<td>Propeller note book (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/03prop_note_book.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Cavitation (<a href="12/04cavitation.pdf">PDF</a>)</p>
+<p>Waterjet notes (<a href="12/04waterjet.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>First law (<a href="12/05first_law.pdf">PDF</a>)</td>
+<td>Summary of thermo (<a href="12/05thermo_summ.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Second law (<a href="12/06second_law.pdf">PDF</a>)</p>
+<p>Availability (<a href="12/06availability.pdf">PDF</a>)</p>
+</td>
+<td>Keenan availabilty (<a href="12/06keenan_avail.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Propeller lifting line theory (Dr. Rich Kimball)</td>
+<td>
+<p>Propeller design plot example (<a href="12/07prop_desn_plot.pdf">PDF</a>)</p>
+<p>Units (propulsors) (<a href="12/07units.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Propeller lifting line theory (Dr. Rich Kimball) (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Propeller lifting line theory (Dr. Rich Kimball) (cont.)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Water properties (Prof. Doug Carmichael) (<a href="12/09water_propert.pdf">PDF</a>)</p>
+<p>Rankine cycle (Prof. Doug Carmichael) (<a href="12/09rankine.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Rankine cycle vs. pressure and temperature (Prof. Doug Carmichael) (<a href="12/10rankine_v_p_t.pdf">PDF</a>)</p>
+<p>Practical Rankine cycle (Prof. Doug Carmichael) (<a href="12/11rankine_pract.pdf">PDF</a>)</p>
+<p>Rankine cycle with regeneration (<a href="12/11rankine_regen.pdf">PDF</a>)</p>
+<p>Rankine cycle vs. pressure with reheat (<a href="12/11rank_reheat.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Combustion (<a href="12/12combustion.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Relationships for gases (<a href="12/13gas_relation.pdf">PDF</a>)</td>
+<td>Properties of gases (<a href="12/13prop_gases.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Basic dual cycle diesel notes (<a href="12/14basic_diesel.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Diesel analysis (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Diesel (cont.) or catch-up (<a href="12/16diesel_contd.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Polytropic efficiency (<a href="12/17polytropic_eff.pdf">PDF</a>)</p>
+<p>Brayton cycle summary 2005 (<a href="12/17brayton_cycle.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Brayton cycle - irreversible examples (<a href="12/19brayton_irrev.pdf">PDF</a>)</p>
+<p>Open Brayton cycle (<a href="12/19open_cycle.pdf">PDF</a>)</p>
+<p>Creep (<a href="12/19creep.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Electrical theory overview (<a href="12/20electri_theory.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Motors and generators overview (<a href="12/21electri_motors.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Electric propulsion presentation, guest lecturer Prof. Harbour</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Reliability and availability (<a href="12/23reliability.pdf">PDF</a>)</p>
+<p>Repairable systems supplement (<a href="12/23working_repair.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Reduction gears notes (<a href="12/24gear_notes.pdf">PDF</a>)</td>
+<td>Marine engineering (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/24mar_eng_fig_1.pdf">PDF</a>) (Courtesy of SNAME. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Gear geometry&nbsp;<span class="nobr">(<a href="12/25gear_geometry.pdf">PDF - 5.3 MB</a>)</span></p>
+<p>Helical gear geometry (<a href="12/25helical_gears.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Gear geometry&nbsp;<span class="nobr">(<a href="12/25gear_geometry.pdf">PDF - 5.4 MB</a>)</span></p>
+<p>Helical gears (<a href="12/25helical_gears.pdf">PDF</a>)</p>
+<p>An attempt at showing gear meshing&nbsp;<span class="nobr">(<a href="12/25gear_mesh.avi">AVI 1 - 1.0 MB</a>)</span></p>
+<p>A more completely designed gear video&nbsp;<span class="nobr">(<a href="12/25gear_mesh_2.avi">AVI 2 - 10.3 MB</a>)</span></p>
+</td>
+<td>Gear automation and design revised&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/25gear_dsgn_anim.pdf">PDF - 1.0 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Review, catch-up</p>
+<p>Air independent propulsion (<a href="12/26aip.pdf">PDF</a>)</p>
+<p>Animation of a stirling engine&nbsp;<span class="nobr">(<a href="12/26stirling.avi">AVI - 39.5 MB</a>)</span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="12/ps1.pdf">PDF</a>)</td>
+<td>(<a href="12/ps1_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="12/ps2.pdf">PDF</a>)</td>
+<td>ps2_soln.xmcd (<a href="12/ps2_soln.xmcd">XMCD</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem set 3 (<a href="12/ps3.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Associated MATLAB&reg; files:</h3>
+<p>Main (<a href="12/main.m">M</a>)</p>
+<p>Meanline (<a href="12/meanline.m">M</a>)</p>
+<p>Plotting (<a href="12/plotting.m">M</a>)</p>
+<p>Reports (<a href="12/report.m">M</a>)</p>
+<p>Thickness (<a href="12/thickness.m">M</a>)</p>
+<p>VLM (<a href="12/vlm.m">M</a>)</p>
+<p>VLM (<a href="12/vlm.fig">FIG</a>)</p>
+</td>
+<td>ps3_soln.xmcd (<a href="12/ps3_soln.xmcd">XMCD</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="12/ps4.pdf">PDF</a>)</td>
+<td>(<a href="12/ps4_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5&nbsp;<span class="nobr">(<a href="12/ps5.pdf">PDF - 1.1 MB</a>)</span></td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="12/ps5_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="12/ps6.pdf">PDF</a>)</td>
+<td>(<a href="12/ps6_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Exam 1 (<a href="12/quiz1.pdf">PDF</a>)</p>
+<p>Exam 1 Solution (<a href="12/quiz1_sol.pdf">PDF</a>)</p>
+</br>
 
+</br>
 
 
 
